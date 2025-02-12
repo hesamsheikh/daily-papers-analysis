@@ -1,0 +1,225 @@
+node_id,name
+category_1,cs.LG
+category_2,cs.IT
+category_3,math.IT
+category_4,cs.IR
+category_5,cs.HC
+category_6,cs.CL
+category_7,cs.AI
+category_8,cs.SD
+category_9,eess.AS
+category_10,cs.CV
+category_11,cs.AR
+category_12,cs.RO
+category_13,cs.PL
+category_14,cs.SE
+category_15,cs.CY
+category_16,cs.CR
+category_17,cs.GR
+category_18,cs.MM
+category_19,eess.IV
+category_20,econ.GN
+category_21,q-fin.CP
+category_22,q-fin.EC
+category_23,math.PR
+category_24,60J60
+category_25,hep-th
+category_26,I.2.7
+category_27,math.OC
+category_28,physics.ed-ph
+category_29,"97-00, 97-01"
+category_30,q-bio.NC
+category_31,cs.NE
+category_32,q-bio.QM
+category_33,cs.CE
+category_34,stat.ML
+category_35,eess.SY
+category_36,cs.SY
+category_37,eess.SP
+category_38,cs.NI
+category_39,physics.chem-ph
+category_40,stat.ME
+category_41,"49Q22, 60B1"
+category_42,68T50
+category_43,cs.MA
+category_44,68T07
+category_45,I.2.6; I.2.11
+category_46,math.RA
+category_47,I.4.0
+category_48,cs.DL
+category_49,math-ph
+category_50,cond-mat.stat-mech
+category_51,math.MP
+category_52,math.CO
+category_53,math.AG
+category_54,cs.DB
+category_55,cs.LO
+category_56,B.5.2; C.3; I.2.2; I.2.3; I.2.6
+category_57,I.7.5
+category_58,cond-mat.mtrl-sci
+category_59,q-bio.BM
+category_60,cs.SI
+category_61,hep-ph
+category_62,hep-ex
+category_63,nucl-ex
+category_64,nucl-th
+category_65,I.2.2; I.2.7; I.2.5
+category_66,cs.SC
+category_67,cs.GT
+category_68,physics.ao-ph
+category_69,math.ST
+category_70,stat.TH
+category_71,q-bio.GN
+category_72,stat.AP
+category_73,K.4.1
+category_74,physics.bio-ph
+category_75,math.AP
+category_76,nlin.SI
+category_77,I.2.1; H.5.0
+category_78,I.2.10
+category_79,cs.OS
+category_80,D.4.2; C.1.3
+category_81,"97M40 (Primary), 91B80 (Secondary), 34D20"
+category_82,G.1.7; J.4
+category_83,physics.optics
+category_84,physics.app-ph
+category_85,cs.DC
+category_86,I.2.9
+category_87,I.3.3; I.4.6; I.4.9; J.5
+category_88,I.4.m; I.2.10
+category_89,I.4; I.3.3; I.2.10
+category_90,q-bio.MN
+category_91,I.4; I.7
+category_92,F.2.2; I.2.7
+category_93,cs.DS
+category_94,I.2.7; I.2.6; H.5.5
+category_95,physics.ins-det
+category_96,astro-ph.IM
+category_97,astro-ph.CO
+category_98,astro-ph.GA
+category_99,astro-ph.HE
+category_100,68T45
+category_101,I.4.5
+category_102,physics.med-ph
+category_103,cs.MS
+category_104,68T10
+category_105,math.LO
+category_106,"62G08 (Primary) 62A15, 62F15 (Secondary)"
+category_107,cs.PF
+category_108,"68T40, 68T20"
+category_109,I.2.9; I.2.4; I.2.8
+category_110,q-fin.GN
+category_111,cs.CC
+category_112,cs.NA
+category_113,quant-ph
+category_114,physics.hist-ph
+category_115,I.3.3
+category_116,cs.CG
+category_117,astro-ph.SR
+category_118,cond-mat.mes-hall
+category_119,physics.data-an
+category_120,I.2.6; I.4.10
+category_121,"11B83 (Primary) 05A15, 11J70 (Secondary)"
+category_122,cs.FL
+category_123,H.m; I.2
+category_124,cs.OH
+category_125,cond-mat.soft
+category_126,physics.comp-ph
+category_127,math.HO
+category_128,"Primary: 60G51, 60G18. Secondary: 60G44"
+category_129,I.4.9
+category_130,math.FA
+category_131,46H20
+category_132,H.5.2; I.2.1
+category_133,B.1.2;B.5.2
+category_134,H.3.3
+category_135,I.2.7; F.4.1
+category_136,math.NA
+category_137,H.5.2; H.1.2; I.2.0; I.3.6
+category_138,I.3; I.4
+category_139,math.DS
+category_140,37B10
+category_141,I.4.0; I.5.4
+category_142,"35A99, 35B99"
+category_143,C.2.4; C.1.2
+category_144,I.2
+category_145,H.3.4; H.5.2
+category_146,math.GT
+category_147,math.AT
+category_148,55U010; 55P10; 55R10; 55R37; 55P65; 14H81
+category_149,H.5.2; I.4
+category_150,math.SP
+category_151,"92D25, 47N60, 47D06, 35B35"
+category_152,physics.geo-ph
+category_153,cs.ET
+category_154,"49J15, 93C55, 90C31"
+category_155,physics.soc-ph
+category_156,math.CT
+category_157,92B05
+category_158,q-fin.PR
+category_159,60H05; 60H30; 91B28
+category_160,"6804, 68T50 (Primary)"
+category_161,I.2.7; I.2.10; I.4.9
+category_162,H.3.3; J.1; I.2.0
+category_163,math.DG
+category_164,"22E65, 22E25, 22E15"
+category_165,cond-mat.dis-nn
+category_166,C.1.3; C.0
+category_167,"05C45, 05C25"
+category_168,I.2.7; H.1.2
+category_169,q-fin.MF
+category_170,math.GN
+category_171,"46H05, 06E15, 08A62"
+category_172,"47B33, 47B37"
+category_173,"15B10, 15B57, 15B30, 65F99, 22E70, 53C30, 53C80"
+category_174,"Primary 53C05, Secondary 55R25"
+category_175,"93C85, 68T40, 68T05"
+category_176,I.2.11; I.2.9; I.2.6
+category_177,65T60
+category_178,I.4.2; I.4.5; I.4.10
+category_179,94A08
+category_180,I.2; I.4
+category_181,68Txx
+category_182,"68T50 (Primary) 68T07, 62M45 (Secondary)"
+category_183,econ.EM
+category_184,gr-qc
+category_185,math.RT
+category_186,"16G20, 55N99"
+category_187,stat.OT
+category_188,A.1; I.2.7; J.1
+category_189,14n99;14h99
+category_190,"68T07, 68T50, 68T05,"
+category_191,I.2.6; I.2.7
+category_192,I.3.3; I.4
+category_193,I.4.8
+category_194,J.4
+category_195,I.4.9; I.5
+category_196,D.3.0
+category_197,68U05 (Primary)
+category_198,I.3.3; I.3.6
+category_199,I.2 ARTIFICIAL INTELLIGENCE
+category_200,H.2; H.3; E.1; E.2
+category_201,math.GM
+category_202,K.6.5; D.4.6
+category_203,F.3.1
+category_204,math.CA
+category_205,"94A08 (Primary) 68T45, 68U10 (Secondary)"
+category_206,I.2.0; I.4.5
+category_207,"18B10, 05C75 (Primary) 68W40 (Secondary)"
+category_208,F.2.m; G.0
+category_209,nlin.CD
+category_210,F.2.3
+category_211,F.4.1; I.2.3; I.2.7
+category_212,I.2.10; I.4; I.5
+category_213,physics.flu-dyn
+category_214,physics.space-ph
+category_215,68T07 (Primary) 68T10
+category_216,I.4.5; I.5.0
+category_217,"68T07, 49Q22"
+category_218,I.2.6; I.2.7; I.4.8
+category_219,68T05
+category_220,I.3.5; I.2.10; I.2.6
+category_221,cs.DM
+category_222,42-08
+category_223,I.2.6
+category_224,"43A80, 22E25, 43A45,22E45"
