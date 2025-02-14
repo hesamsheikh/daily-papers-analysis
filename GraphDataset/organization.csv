@@ -1,0 +1,3670 @@
+node_id,name
+organization_1,Meta AI - FAIR
+organization_2,New York University
+organization_3,J.P. Morgan AI Research
+organization_4,Department of Electrical and Computer Engineering
+organization_5,Ingenuity Labs Research Institute
+organization_6,Northwestern University
+organization_7,"Descript, Inc."
+organization_8,University of Surrey
+organization_9,Georgia Institute of Technology
+organization_10,Microsoft
+organization_11,Peking University
+organization_12,University of Maryland
+organization_13,Washington University in St. Louis
+organization_14,"University of California, Berkeley"
+organization_15,Google Research
+organization_16,Wikimedia Foundation
+organization_17,"National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences"
+organization_18,MMU KuaiShou Inc.
+organization_19,Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain and Data Security
+organization_20,"The State Key Laboratory of Blockchain and Data Security, Zhejiang University"
+organization_21,"College of Computing and Data Science, Nanyang Technological University"
+organization_22,University of North Carolina at Chapel Hill
+organization_23,Adobe Research
+organization_24,KAIST
+organization_25,University of Toronto
+organization_26,Tsinghua University
+organization_27,UC San Diego
+organization_28,Shanghai Jiao Tong University
+organization_29,Huawei
+organization_30,Renmin University of China
+organization_31,Poisson Lab
+organization_32,Zhao Cao
+organization_33,Ji-Rong Wen
+organization_34,Gaoling School of Artificial Intelligence
+organization_35,Stanford University
+organization_36,Google DeepMind
+organization_37,Google Inc.
+organization_38,Nagoya Institute of Technology
+organization_39,Techno-Speech
+organization_40,Microsoft Research
+organization_41,Meta AI
+organization_42,"Preferred Networks, Inc."
+organization_43,OPPO Research Institute
+organization_44,The Hong Kong Polytechnic University
+organization_45,UC Santa Cruz
+organization_46,The Chinese University of Hong Kong
+organization_47,Guangdong University of Technology
+organization_48,Carnegie Mellon University
+organization_49,Reality Labs Research
+organization_50,UC Berkeley
+organization_51,Microsoft Research Asia
+organization_52,"Gaoling School of Artificial Intelligence, Renmin University of China"
+organization_53,IEEE
+organization_54,"Google Research, Brain Team, USA"
+organization_55,"Apple, Inc."
+organization_56,"Sage Hill School, Newport Coast, CA, US"
+organization_57,"University of California, Santa Barbara, CA, US"
+organization_58,ByteDance Inc.
+organization_59,"Institute of Artificial Intelligence (TeleAI), China Telecom Corp Ltd"
+organization_60,Northwestern Polytechnical University
+organization_61,King Abdullah University of Science and Technology
+organization_62,The University of Hong Kong
+organization_63,The Hong Kong University of Science and Technology
+organization_64,National University of Singapore
+organization_65,Leiden Institute of Advanced Computer Science
+organization_66,Leiden University
+organization_67,Delft University of Technology
+organization_68,Leiden University Medical Center
+organization_69,Columbia University: Computer Science
+organization_70,Columbia University: Biomedical Informatics
+organization_71,Queen Mary University of London
+organization_72,Intel Labs
+organization_73,University of Catania
+organization_74,Tel Aviv University
+organization_75,Weizmann Institute
+organization_76,Google
+organization_77,Centre for the Governance of AI
+organization_78,S2W Inc.
+organization_79,"Bethesda, MD, USA"
+organization_80,National Institutes of Health
+organization_81,Lister Hill National Center for Biomedical Communications
+organization_82,NYU Grossman School of Medicine
+organization_83,National Library of Medicine
+organization_84,"New York, NY , USA"
+organization_85,Chinese Academy of Sciences
+organization_86,Northeastern University
+organization_87,Beijing Key Laboratory of Big Data Management and Analysis Methods
+organization_88,"Institute for Artiﬁcial Intelligence, Peking University"
+organization_89,Beijing Institute for General Artiﬁcial Intelligence (BIGAI)
+organization_90,Imperial College London
+organization_91,University of Amsterdam
+organization_92,"AIRLab, University of Amsterdam"
+organization_93,Microsoft Semantic Machines
+organization_94,Salesforce AI Research
+organization_95,University of Pennsylvania
+organization_96,University of Texas at Austin
+organization_97,University of Kentucky
+organization_98,Louisiana State University
+organization_99,University of Maryland Baltimore County
+organization_100,Los Alamos National Laboratory
+organization_101,University of New Mexico
+organization_102,AWS AI Labs
+organization_103,IBM Research AI
+organization_104,Boston University
+organization_105,"Language Technologies Institute, Carnegie Mellon University"
+organization_106,Monash University Indonesia
+organization_107,MIT CSAIL
+organization_108,Allen Institute for Artificial Intelligence
+organization_109,"Peking U., School of Psychological and Cognitive Sciences"
+organization_110,liguiquan@pku.edu.cn
+organization_111,Beijing Yuxin Technology Company
+organization_112,Technical University of Munich
+organization_113,Woven by Toyota
+organization_114,Toyota Motor Europe NV/SA
+organization_115,CAS Center for Excellence in Brain Science and Intelligence Technology
+organization_116,Alibaba Group
+organization_117,University of Chinese Academy of Sciences
+organization_118,"Institute of Automation, Chinese Academy of Sciences"
+organization_119,Apple
+organization_120,University of Oxford
+organization_121,Google Brain
+organization_122,University of Michigan
+organization_123,"ARC Lab, Tencent PCG"
+organization_124,Tencent AI Lab
+organization_125,Google Deepmind
+organization_126,State Key Laboratory of Media Convergence Production Technology and Systems
+organization_127,The University of Texas at Austin
+organization_128,China
+organization_129,Weicheng Wang
+organization_130,Shenzhen University
+organization_131,"Shenzhen, China"
+organization_132,"AI Group, WeBank Co., Ltd"
+organization_133,South China University of Technology
+organization_134,Amazon*
+organization_135,Allen Institute for AI
+organization_136,University of Edinburgh
+organization_137,Adobe Media and Data Science Research (MDSR)
+organization_138,State University of New York at Buffalo
+organization_139,IIIT-Delhi
+organization_140,"Saarbrücken Research Center for Visual Computing, Interaction and AI, Germany"
+organization_141,"University of Pennsylvania, USA"
+organization_142,"Max Planck Institute for Informatics, Germany"
+organization_143,"Google AR/VR, USA"
+organization_144,"MIT CSAIL, USA"
+organization_145,"Theta Labs, Inc."
+organization_146,University of T ¨ubingen
+organization_147,T¨ubingen AI Center
+organization_148,"Max Planck Institute for Informatics, Saarland Informatics Campus"
+organization_149,Qualcomm AI Research
+organization_150,"Shanghai Key Laboratory of Intelligent information processing, Fudan University"
+organization_151,Fudan University
+organization_152,Zju.edu.cn
+organization_153,Bytedance
+organization_154,Zhejiang University
+organization_155,ByteDance
+organization_156,University of Washington
+organization_157,Microsoft Azure AI
+organization_158,Stanford Universty
+organization_159,Stanford Univeristy
+organization_160,Qualcomm AI Research*
+organization_161,UC Santa Barbara
+organization_162,"Microsoft Research, Redmond, WA, USA"
+organization_163,"National Engineering Research Center for Software Engineering, Peking University"
+organization_164,"Gaoling School of Artifical Intelligence, Renmin University of China"
+organization_165,"Department of EECS, UC Berkeley"
+organization_166,University of St. Gallen
+organization_167,"Institute for Intelligent Cooperating Systems,"
+organization_168,"Faculty of Medicine,"
+organization_169,Otto-von-G ¨uricke University Magdeburg
+organization_170,University of Zurich
+organization_171,"School of Medicine,"
+organization_172,"State Key Laboratory of Software Development Environment, Beihang University"
+organization_173,"Department of Computer Science, University of Central Florida"
+organization_174,Soochow University
+organization_175,Alibaba DAMO Academy
+organization_176,Institute of Aritiﬁcial Intelligence
+organization_177,Microsoft Azure Cognitive Services Research
+organization_178,Naver Webtoon AI
+organization_179,Seoul National University
+organization_180,Apple Inc.
+organization_181,University at Buffalo
+organization_182,https://mind-video.com
+organization_183,"Institute for Interdisciplinary Information Sciences, Tsinghua University"
+organization_184,"Department of Computer Science & Princeton Language and Intelligence, Princeton University"
+organization_185,Generative AI Research Lab (GAIR)
+organization_186,Shanghai Artificial Intelligence Laboratory
+organization_187,"Shichao Sun1,5, Junlong Li2,5, Weizhe Yuan4, Ruifeng Yuan1, Wenjie Li1∗, Pengfei Liu2,3,5 ∗"
+organization_188,University of Sussex
+organization_189,Korea Institute for Advanced Study
+organization_190,University of Seoul
+organization_191,Saige Research
+organization_192,Hanyang University
+organization_193,The University of Tokyo
+organization_194,University of Waterloo
+organization_195,Tübingen AI Center
+organization_196,University of Tübingen
+organization_197,Qoherent Inc.
+organization_198,University of Calgary
+organization_199,Sunipa Dev
+organization_200,Virginia Tech
+organization_201,University of Texas at Dallas
+organization_202,Amazon
+organization_203,Alexa AI
+organization_204,Kings College London
+organization_205,The Chinese University of Hong Kong (Shenzhen)
+organization_206,Massachusetts Institute of Technology
+organization_207,ProgressSoft
+organization_208,University of Jordan
+organization_209,Google LLC
+organization_210,University of California Berkeley
+organization_211,Cornell Tech
+organization_212,Cornell University
+organization_213,Johns Hopkins University
+organization_214,ETH Zürich
+organization_215,University of Bristol
+organization_216,KAIST AI
+organization_217,SNU AI Center
+organization_218,NA VER AI Lab
+organization_219,NA VER Cloud
+organization_220,Inria
+organization_221,MIT
+organization_222,Chulalongkorn University
+organization_223,Upstage AI
+organization_224,Clark University
+organization_225,Georgia Institute Of Technology
+organization_226,Nanyang Technological University
+organization_227,DAMO Academy
+organization_228,Hupan Lab
+organization_229,Salesforce AI
+organization_230,POSTECH
+organization_231,LG AI Research
+organization_232,University of Massachusetts Amherst
+organization_233,Meta Reality Labs
+organization_234,National Key Laboratory of General Artificial Intelligence
+organization_235,BIGAI
+organization_236,University of Padova
+organization_237,University of Alberta
+organization_238,"Center for Applied Mathematics, Tianjin University, China"
+organization_239,"Dipartimento di Matematica, Universit` a di Pisa, Italy"
+organization_240,"Department of Mathematics, Shanghai Normal University, China"
+organization_241,University of British Columbia
+organization_242,Simon Fraser University
+organization_243,Vector Institute for AI
+organization_244,Dartmouth College
+organization_245,"University of Michigan, Ann Arbor"
+organization_246,CEDILLE AI1
+organization_247,Center for Data Science
+organization_248,Dept. of Computer Science
+organization_249,Dept. of Linguistics
+organization_250,Princeton University
+organization_251,"Max Planck Institute for Biological Cybernetics, Tübingen"
+organization_252,"Department of Computer Science and Engineering, Qatar University"
+organization_253,"College of Interdisciplinary Studies, Zayed University"
+organization_254,Information Technology University
+organization_255,University of California
+organization_256,University of California- San Diego
+organization_257,Bloomberg
+organization_258,John Hopcroft Center for Computer Science
+organization_259,Microsoft Corporation
+organization_260,SenseTime Research
+organization_261,No organizations found
+organization_262,Monash University
+organization_263,University of Notre Dame
+organization_264,University of Tokyo
+organization_265,"University of California, Los Angeles"
+organization_266,Hebrew University of Jerusalem
+organization_267,EleutherAI
+organization_268,Stability AI
+organization_269,Princeton Neuroscience Institute
+organization_270,Medical AI Research Center (MedARC)
+organization_271,Wuhan AI Research
+organization_272,Fujitsu Laboratories Ltd.
+organization_273,EPFL
+organization_274,Open-Sora
+organization_275,Adobe
+organization_276,"University of California, Santa Cruz"
+organization_277,"Centre for Artificial Intelligence and Robotics, HKISI, CAS"
+organization_278,University of Science and Technology of China
+organization_279,"Institute of Automation, Chinese Academy of Science (CASIA)"
+organization_280,"TMCC, College of Computer Science, Nankai University"
+organization_281,"School of Cyber Security, University of Chinese Academy of Sciences"
+organization_282,"Institute of Information Engineering, Chinese Academy of Sciences"
+organization_283,Beike Inc.
+organization_284,University of Sydney.
+organization_285,Huawei Technologies.
+organization_286,"Cloud & AI, Huawei Technologies."
+organization_287,"TEKLIA, Paris, France"
+organization_288,Wuhan University
+organization_289,"Engineering Research Center of Machine Learning and Industry Intelligence, Ministry of Education, Chengdu, China"
+organization_290,"College of Computer Science, Sichuan University,"
+organization_291,SmartMore
+organization_292,"Google DeepMind, Japan"
+organization_293,"Google DeepMind, USA"
+organization_294,Google AI
+organization_295,Bar Ilan University
+organization_296,Assiut Univ .
+organization_297,Al-Azhar Un iv.
+organization_298,No duplicates found.
+organization_299,Meta
+organization_300,"Reality Labs Research, Meta"
+organization_301,University of Fukui
+organization_302,Technion – Israel Institute of Technology
+organization_303,"Virtual Human Group, Netease Fuxi AI Lab"
+organization_304,College Park
+organization_305,NNKosmos Technology
+organization_306,University of Virginia
+organization_307,ETH
+organization_308,AI21 Labs
+organization_309,Microsoft Azure Translation
+organization_310,NiuTrans Research
+organization_311,Tohoku University
+organization_312,University of Pittsburgh
+organization_313,University of Southern California
+organization_314,Snap Inc.
+organization_315,CETC Research Institute of Smart City
+organization_316,Nanjing Research Institute of Electronic and Engineering
+organization_317,"ETH Zurich, Switzerland"
+organization_318,"Tencent AI Lab, China"
+organization_319,"Peking University, China"
+organization_320,"Shandong University, China"
+organization_321,CUHK
+organization_322,HKUST
+organization_323,Tien-Tsin Wong1
+organization_324,German Research Center for Artificial Intelligence (DFKI)
+organization_325,Max-Planck Institute for Informatics (MPII)
+organization_326,Tencent PCG
+organization_327,Nanjing University
+organization_328,Dalian University of Technology
+organization_329,Westlake University
+organization_330,Westlake Institute for Advanced Study
+organization_331,Institute of Advanced Technology
+organization_332,Massachusetts Institute of Technology (MIT)
+organization_333,University of Exeter
+organization_334,MosaicML
+organization_335,"University of California, San Diego"
+organization_336,University of Copenhagen
+organization_337,Wen Da Li
+organization_338,NYU
+organization_339,gAI
+organization_340,Vienna University of Technology
+organization_341,Adrian Weller
+organization_342,Collège de France
+organization_343,Mateja Jamnik
+organization_344,The Alan Turing Institute
+organization_345,University of Cambridge
+organization_346,Knowledgator Engineering LTD
+organization_347,Daniele Paliotta
+organization_348,Martin Jaggi
+organization_349,University of Geneva
+organization_350,François Fleuret
+organization_351,Tufts University
+organization_352,City University of Hong Kong
+organization_353,Changsha University of Science and Technology
+organization_354,LMU Munich
+organization_355,Munich Center for Machine Learning
+organization_356,Kyeongsang National University
+organization_357,Kyubyong Park Institute
+organization_358,Institute for Advanced Computer Studies
+organization_359,Polyglot-Ko
+organization_360,JD Explore Academy
+organization_361,University of Sydney
+organization_362,iFlyTek-Surrey Joint Research Centre on AI
+organization_363,Surrey Institute for People-Centered AI
+organization_364,Korea University
+organization_365,"Reality Labs, Meta Inc."
+organization_366,Meta Inc.
+organization_367,Booz Allen Hamilton
+organization_368,Bar-Ilan University
+organization_369,Amazon Web Services
+organization_370,University of Wisconsin–Madison
+organization_371,GPT Models Meet Robotic Applications: Co-Speech Gesturing Chat
+organization_372,Waseda University 1
+organization_373,Keio University 1
+organization_374,University of Electro-Communications 1
+organization_375,Tokyo Institute of Technology 1
+organization_376,"Baidu Inc., China"
+organization_377,Georg-August-Universit at G ottingen
+organization_378,Campus Institute Data Science
+organization_379,AI2Robotics
+organization_380,International Digital Economy Academy (IDEA)
+organization_381,"National Key Laboratory for Multimedia Information Processing,"
+organization_382,Shanghai AI Lab
+organization_383,"School of Computer Science, Peking University"
+organization_384,UT Austin
+organization_385,Purdue University
+organization_386,"DAMO Academy, Alibaba Group"
+organization_387,Singapore University of Technology and Design
+organization_388,"Max-Planck Institute for Intelligent Systems, Tübingen"
+organization_389,AI Center
+organization_390,ELLIS Institute Tübingen
+organization_391,Scuola Normale Superiore di Pisa
+organization_392,Waymo
+organization_393,Yonsei University
+organization_394,UC Merced
+organization_395,Xi’an Jiaotong University
+organization_396,Wormpex AI Research
+organization_397,"Institute of Automation, CAS"
+organization_398,Duke University
+organization_399,Henan University
+organization_400,North China University of Water and Electric Power
+organization_401,RIKEN
+organization_402,The University of Edinburgh
+organization_403,UIUC
+organization_404,Georgia Tech
+organization_405,Oregon
+organization_406,Picsart AI Research (PAIR)
+organization_407,SHI Labs
+organization_408,University of Maryland College Park
+organization_409,"Fair, Meta AI"
+organization_410,University of Massachusetts
+organization_411,ETH Zurich2
+organization_412,Rice University1
+organization_413,University of Texas at Dallas1
+organization_414,Lawrence Berkeley National Laboratory (LBNL)
+organization_415,Institute for Computing and Information Sciences (ICSI)
+organization_416,The Ohio State University
+organization_417,University of Manchester
+organization_418,Northwestern Pritzker School of Law
+organization_419,Seas. Pennsylvaniawe University
+organization_420,China University of Mining and Technology
+organization_421,Foshan University
+organization_422,TU Munich
+organization_423,"National Engineering Laboratory for Deep Learning Technology and Application, Beijing, China"
+organization_424,"Institute of Deep Learning, Baidu Research, Beijing, China"
+organization_425,"School of Artiﬁcial Intelligence, University of Chinese Academy of Sciences, Beijing, China"
+organization_426,and Training Hyperparameters
+organization_427,Nozomu Yoshinari yoshinari-nozomu-ry@ynu.jp
+organization_428,"Yokohama National University, Kanagawa, Japan"
+organization_429,Shinichi Shirakawa shirakawa-shinichi-bg@ynu.ac.jp
+organization_430,NAS-HPO-Bench-II: A Benchmark Dataset on Joint
+organization_431,Yoichi Hirose hirose-youichi-kc@ynu.jp
+organization_432,Optimization of Convolutional Neural Network Architecture
+organization_433,Bosch Center for Artificial Intelligence
+organization_434,MPI for Intelligent Systems
+organization_435,"Mila, Université de Montréal"
+organization_436,Spotify
+organization_437,Columbia University
+organization_438,Beijing Institute of Technology
+organization_439,"Ministry of Education, Shanghai Key Laboratory of Artificial Intelligence"
+organization_440,Applied Physics Laboratory
+organization_441,The Laboratory for Physical Sciences
+organization_442,"Institute of Automation, Chinese Academy of Sciences (CASIA)"
+organization_443,The University of Sydney
+organization_444,Baidu Inc.
+organization_445,Tokyo Institute of Technology
+organization_446,Baidu
+organization_447,Zhipu.AI
+organization_448,Beihang University
+organization_449,USC
+organization_450,Filtir
+organization_451,Shanghai AI Laboratory
+organization_452,Cooperative Medianet Innovation Center
+organization_453,Meta AI (FAIR)
+organization_454,The Open University
+organization_455,Technion
+organization_456,Tel-Aviv University
+organization_457,Anhui University
+organization_458,"Center for Data Science, Peking University"
+organization_459,"MOE Key Laboratory of Computational Linguistics, Peking University"
+organization_460,"Shenzhen International Graduate School, Tsinghua University, China"
+organization_461,"School of Computer Science and Engineering, Nanjing University of Science and Technology, China"
+organization_462,Robotics at Google
+organization_463,"Indian Institute of Technology, Hyderabad"
+organization_464,Simula Research Laboratory
+organization_465,University of Illinois at Urbana-Champaign
+organization_466,"Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University"
+organization_467,Lingjuan Lv
+organization_468,Sony AI
+organization_469,Peng Cheng Laboratory
+organization_470,"University of Maryland, College Park"
+organization_471,University of Illinois Urbana-Champaign
+organization_472,"Meta, USA"
+organization_473,Meta Reality Labs Research
+organization_474,"Department of Computer Science, UCLA"
+organization_475,"Department of Computer Science, National University of Singapore"
+organization_476,Harvard Medical School
+organization_477,Massachusetts General Hospital
+organization_478,The University of Georgia
+organization_479,Indiana University Bloomington
+organization_480,La Trobe University
+organization_481,The University of Adelaide
+organization_482,The Australian National University
+organization_483,University of Technology Sydney
+organization_484,The University of Liverpool
+organization_485,University of Plymouth
+organization_486,University of Hamburg
+organization_487,Guilin University of Technology
+organization_488,Guangxi Key Laboratory of Embedded Technology and Intelligent System
+organization_489,University of California San Diego
+organization_490,Dolby Laboratories
+organization_491,MITGatlen
+organization_492,The Knowledge Media Institute
+organization_493,Deepeleph
+organization_494,Kuaishou Technology
+organization_495,McGill University
+organization_496,ServiceNow Research
+organization_497,Portland State University
+organization_498,fengchengjian@meituan.com
+organization_499,yanfeng05@meituan.comcom
+organization_500,"Shenzhen, China 518110"
+organization_501,Meituan
+organization_502,liufanfan03@meituan.comcom
+organization_503,zhengliming04@meituan.comcom
+organization_504,kangzhuoliang@meituan.comcom
+organization_505,"Beijing, China 100012"
+organization_506,Princeton IAS
+organization_507,MIT BCS
+organization_508,MIT CBMM
+organization_509,State Key Lab of Intelligent Technology and Systems
+organization_510,DCST
+organization_511,CoAI group
+organization_512,Beijing National Research Center for Information Science and Technology
+organization_513,Institute for Artificial Intelligence
+organization_514,State Key Lab of Computer Architecture
+organization_515,Key Laboratory of Intelligent Information Processing
+organization_516,"Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
+organization_517,CIIRC CTU
+organization_518,"Mountain View, CA, USA"
+organization_519,National Taiwan University
+organization_520,AMD
+organization_521,Advanced Micro Devices
+organization_522,Microsoft Research Montreal
+organization_523,MILA
+organization_524,University of Chicago
+organization_525,Anthropic
+organization_526,The Computational Democracy Project
+organization_527,Mitsubishi Electric Research Laboratories (MERL)
+organization_528,Mohamed Bin Zayed University
+organization_529,Deakin University
+organization_530,Trinity College Dublin
+organization_531,VinAI
+organization_532,Hong Kong University of Science and Technology
+organization_533,RWTH Aachen University
+organization_534,"Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences"
+organization_535,University I. t. Services
+organization_536,KNUST
+organization_537,Dept. of Computer Engineering
+organization_538,International Journal of Computer Applications
+organization_539,ETH Zurich
+organization_540,Dialog Research Center
+organization_541,Language Technologies Institute
+organization_542,Jiangsu Nanjing Rice Germplasm Resources National Field Observation and Research Station
+organization_543,State Key Laboratory of Crop Genetics & Germplasm Enhancement and Utilization
+organization_544,Zhongshan Biological Breeding Laboratory
+organization_545,Jiangsu Engineering Research Center for Plant Genome Editing
+organization_546,"Bioinformatics Center, Academy for Advanced Interdisciplinary Studies"
+organization_547,"College of Engineering, Nanjing Agricultural University"
+organization_548,Vector Institute
+organization_549,Sapienza University of Rome
+organization_550,University of Melbourne
+organization_551,ShanghaiTech University
+organization_552,Bosch Center for AI
+organization_553,Nvidia
+organization_554,Bayer AG
+organization_555,NVIDIA
+organization_556,"School of Chemistry, Center for the Physics and Chemistry of Living Systems,"
+organization_557,Mark Ratner Institute for Single Molecule Chemistry
+organization_558,"The Sackler Center for Computational Molecular and Materials Science,"
+organization_559,Florida International University
+organization_560,Meta Platforms Inc.
+organization_561,Huawei Noah’s Ark Lab
+organization_562,Facebook AI Research
+organization_563,"Merck & Co., Inc."
+organization_564,AbbVie Inc.
+organization_565,UCLA
+organization_566,Aerospace Information Research Institute
+organization_567,University of Haifa
+organization_568,The Hebrew University of Jerusalem
+organization_569,Antropic
+organization_570,Amazon AI
+organization_571,Sorbonne Université
+organization_572,Hugging Face
+organization_573,Institute of Technology Madras
+organization_574,IIT Madras
+organization_575,"Indian Institute of Technology Gandhinagar, India"
+organization_576,Shanghai Engineering Research Center of Energy Efficient and Custom AI IC
+organization_577,Shanghai Engineering Research Center of Intelligent Vision and Imaging
+organization_578,"Tencent PCG, China"
+organization_579,"School of Information Science and Technology, Fudan University, China"
+organization_580,Shanghai Qi Zhi Institute
+organization_581,Southwest University
+organization_582,Max Planck Institute for Intelligent Systems
+organization_583,Toyota Technological Institute at Chicago
+organization_584,Intel
+organization_585,Hexaglobe
+organization_586,Information Sciences Institute
+organization_587,Sightful
+organization_588,IIIT Hyderabad
+organization_589,Eleuther AI
+organization_590,Scaled Foundations
+organization_591,Microsoft Autonomous Systems and Robotics Research
+organization_592,Korea Advanced Institute of Science and Technology
+organization_593,"National Key Laboratory for Multimedia Information Processing, Peking University"
+organization_594,FAIR
+organization_595,Georgetown University
+organization_596,HuggingFace
+organization_597,Bilibili
+organization_598,RUC
+organization_599,Beijing Normal University
+organization_600,Harbin Institute of Technology
+organization_601,Beijing University of Posts and Telecommunications
+organization_602,UCL Centre for Artificial Intelligence
+organization_603,Reka AI
+organization_604,Cohere AI
+organization_605,George Brown College
+organization_606,University of Siegen
+organization_607,"Fast Accounting Co., Ltd."
+organization_608,PKU
+organization_609,NTU
+organization_610,MIT-IBM Watson AI Lab
+organization_611,MBZUAI
+organization_612,TUM
+organization_613,"Reality Labs Research, Meta, United States of America"
+organization_614,"Seoul National University, South Korea"
+organization_615,"University of British Columbia, Canada"
+organization_616,Baidu VIS
+organization_617,OMRON SINIC X
+organization_618,Noah’s Ark Laboratory
+organization_619,Samaya AI
+organization_620,Klagenfurt University
+organization_621,Baichuan Inc.
+organization_622,Tencent Inc.
+organization_623,"University of Texas, Austin"
+organization_624,Noodle AI
+organization_625,University of Wisconsin-Madison
+organization_626,Tibet University
+organization_627,"Engineering Research Center of Tibetan Information Technology, Ministry of Education"
+organization_628,Collaborative Innovation Center for Tibet Informatization by MOE and Tibet Autonomous Region
+organization_629,Harvard Kennedy School
+organization_630,Fudan NLP Group
+organization_631,ByteDance Inc
+organization_632,Weizmann Institute of Science
+organization_633,HKU
+organization_634,IDEA
+organization_635,Tsinghua
+organization_636,UW-Madison
+organization_637,Mälardalen University
+organization_638,Singapore Management University
+organization_639,"Nuffield College, University of Oxford"
+organization_640,OpenAI
+organization_641,"Blavatnik School of Government, University of Oxford and Centre for the Governance of AI"
+organization_642,"University of Toronto, Vector Institute and OpenAI (independent contractor)"
+organization_643,Harvard Berkman Klein
+organization_644,"Université de Montréal and Mila, CIFAR Fellow"
+organization_645,Michigan State University
+organization_646,Tencent
+organization_647,Improbable AI Lab
+organization_648,Jagiellonian Universit y
+organization_649,AGH University of Science and Technology
+organization_650,BU
+organization_651,cvl@vision.ee.ethz.ch
+organization_652,kolszewski@snap.com
+organization_653,vangool@vision.ee.ethz.ch
+organization_654,Creative Vision
+organization_655,CI2CV Lab
+organization_656,KU Leuven
+organization_657,INSAIT
+organization_658,Computer Vision Lab
+organization_659,Un. Sofia
+organization_660,chaoyanw@cs.cmu.edu
+organization_661,asiarohin@snapchat.com
+organization_662,PSI
+organization_663,stulyakov@snapchat.com
+organization_664,BE
+organization_665,CH
+organization_666,"LIGM, Univ Gustave Eiffel"
+organization_667,Stanford
+organization_668,Ohio State University
+organization_669,Michigan Institute for Data Science
+organization_670,University of Adelaide
+organization_671,Queensland University of Technology
+organization_672,CSIRO Data61 Robotics and Autonomous Systems Group
+organization_673,University of Rochester.
+organization_674,Southern University of Science and Technology.
+organization_675,"Tencent AI Lab, Shenzhen, China."
+organization_676,City University of Hong Kong.
+organization_677,Data to Decision CRC
+organization_678,Australian National University
+organization_679,Barcelona School of Economics
+organization_680,Koa Health
+organization_681,"School of Computer Science and Technology, Beijing Institute of Technology"
+organization_682,Emory University
+organization_683,University
+organization_684,Friedrich-Alexander-Universit ¨at Erlangen-N ¨urnberg
+organization_685,Chair of Multimedia Communications and Signal Processing
+organization_686,"Institute for Measurement-, Control-, and Microtechnology"
+organization_687,Karlsruhe Institute of Technology
+organization_688,Ulm University
+organization_689,Institute of Information Security and Dependability
+organization_690,Samsung Research America
+organization_691,Skoltech
+organization_692,AIRI
+organization_693,"Yandex, Skoltech"
+organization_694,Cordelia Schmid
+organization_695,Brown University
+organization_696,Microsoft AI and Research
+organization_697,One Microsoft Way
+organization_698,"Redmond, WA, USA"
+organization_699,NVIDIA Research
+organization_700,Technion — Israel Institute of Technology
+organization_701,Leveraging Habitat Information for Fine-grained Bird Identification
+organization_702,Auburn University
+organization_703,Ansbach University of Applied Sciences
+organization_704,University of Applied Science Heilbronn
+organization_705,University of Applied Science Ansbach
+organization_706,Canyon Crest Academy
+organization_707,Dracodes
+organization_708,Mediterranean Institute of Technology
+organization_709,Salesforce Inc.
+organization_710,E-Campus University
+organization_711,University of Genova
+organization_712,"S-Lab, NTU"
+organization_713,Canada CIFAR AI Chair
+organization_714,Mila - Quebec AI Institute
+organization_715,Samsung SAIT AI Lab Montreal
+organization_716,Université de Montréal
+organization_717,Polytechnique Montreal
+organization_718,NAVER AI Lab
+organization_719,AITRICS
+organization_720,"School of Computer Science and Information Engineering, Hefei University of Technology, China"
+organization_721,"Huawei Cloud & AI, China"
+organization_722,"Key Laboratory of Complex Systems Modeling and Simulation, Hangzhou Dianzi University, China"
+organization_723,"UBTECH Sydney AI Centre, The University of Sydney, Australia"
+organization_724,"Araya Inc., Japan"
+organization_725,Osaka University
+organization_726,"NICT, Japan"
+organization_727,Japan
+organization_728,Aix Marseille Université
+organization_729,Université Claude Bernard Lyon 1
+organization_730,Université du Québec à Montréal
+organization_731,"Department of Computer Science, Hong Kong Baptist University"
+organization_732,"NVIDIA AI Technology Center, NVIDIA"
+organization_733,"Agency for Science, Technology and Research, Singapore"
+organization_734,"Department of Mathematics, Hong Kong Baptist University"
+organization_735,Scatter Lab
+organization_736,VISTEC
+organization_737,pixiv Inc.
+organization_738,UC Davis
+organization_739,"S-Lab, Nanyang Technological University"
+organization_740,Ecole normale supérieure
+organization_741,PSLR.Research University
+organization_742,CNRS
+organization_743,Huazhong University of Science and Technology
+organization_744,Xi’an Jiaotong Liverpool University
+organization_745,Sea AI Lab
+organization_746,"Washington University in St. Louis, MO, USA"
+organization_747,University of Trento
+organization_748,Aarhus University
+organization_749,"Google, France"
+organization_750,"Google, Norway"
+organization_751,"Google, United Kingdom"
+organization_752,Australian Institute for Machine Learning
+organization_753,Research Center on Advanced Materials and Technologies
+organization_754,"Institute of Interdisciplinary Research, ""Alexandru Ioan Cuza"" University of Iasi"
+organization_755,Chinese Academy of Science
+organization_756,"Huawei Cloud Co., Ltd."
+organization_757,Oak Ridge National Laboratory
+organization_758,Universit ´e Paris-Saclay
+organization_759,USA
+organization_760,TCS Research
+organization_761,Samsung AI Center
+organization_762,Chinese University of Hong Kong
+organization_763,East China Normal University
+organization_764,"WeChat AI, Tencent Inc."
+organization_765,Zhihu Inc.
+organization_766,Yale University
+organization_767,ModelBest Inc.
+organization_768,Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)
+organization_769,Harvard University
+organization_770,Apollo Research
+organization_771,Screpps Research Translational Institute
+organization_772,Jawaharlal Institute of Postgraduate Medical Education and Research
+organization_773,"Senior Member, IEEE"
+organization_774,Department of Computer Science
+organization_775,University of Luxembourg
+organization_776,Neutune
+organization_777,"Gaudio Lab, Inc."
+organization_778,Rutgers University
+organization_779,Oracle Labs
+organization_780,"INESC-ID/Técnico, ULisboa"
+organization_781,"Zurich, Switzerland"
+organization_782,Thao Nguyen3†
+organization_783,Zirui Wang2*
+organization_784,Apple AI/ML
+organization_785,Donghua University
+organization_786,Hong Kong University of Science and Technology (GZ)
+organization_787,"Paris, France"
+organization_788,ISIR
+organization_789,Sorbonne University
+organization_790,Valeo.ai
+organization_791,MLIA
+organization_792,Honda Research Institute USA
+organization_793,HiddenLayer
+organization_794,McMaster University
+organization_795,Google Cloud AI Research
+organization_796,Riiid AI Research
+organization_797,Technion - Israel Institute of Technology (Technion)3
+organization_798,Institute for Advanced Study (IAS)1
+organization_799,New York University (NYU)3 4
+organization_800,"University of Maryland, Baltimore County (UMBC)1"
+organization_801,NYU Abu Dhabi (NYUAD)2
+organization_802,Imatag
+organization_803,Universit´e de Rennes
+organization_804,Indian Institute of Technology Hyderabad
+organization_805,Google Ltd.
+organization_806,Univ. of Southern California
+organization_807,"Mila, Quebec Artificial Intelligence Institute, Université de Montréal"
+organization_808,"Centre for Vision Speech and Signal Processing, University of Surrey"
+organization_809,LAION
+organization_810,"University of California, Santa Barbara"
+organization_811,Xi'an Jiaotong University
+organization_812,The Johns Hopkins University
+organization_813,Providence Health & Services Molecular Genomics Laboratory
+organization_814,Providence Health & Services Clinical Research Analytics
+organization_815,"Earle A. Chiles Research Institute, Providence Cancer Institute"
+organization_816,"Clinical Research Analytics, Providence Health & Services"
+organization_817,University of Southern California Institute for Creative Technologies1
+organization_818,University of Virgina
+organization_819,"ByteDance, Beijing, China."
+organization_820,"Carnegie Mellon University, PA, USA."
+organization_821,"University of California, Davis"
+organization_822,† Corresponding Author
+organization_823,‡ Equal Contribution
+organization_824,Sensetime
+organization_825,TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage
+organization_826,* Student Candidate
+organization_827,College‡
+organization_828,University of Freiburg
+organization_829,Corporation Martin Ltd.
+organization_830,Siemens Healthineers
+organization_831,Institut für Informatik
+organization_832,Sun Yat-sen University
+organization_833,Foundations
+organization_834,AGI
+organization_835,Caltech
+organization_836,ByteDance Research
+organization_837,Radboud University
+organization_838,"Department of Basic Medical Sciences, College of Osteopathic Medicine of the Pacific, Western University of Health Sciences, Pomona CA 91766, USA"
+organization_839,"Sorbonne Universités, UPMC Université Paris 06, CNRS, Biologie Computationnelle et Quantitative - Institut de Biologie Paris Seine, 75005 Paris, France"
+organization_840,Microsoft Research AI4Science
+organization_841,Meta FAIR
+organization_842,PygmalionAI
+organization_843,University of Toulouse
+organization_844,"Google Inc., U.S.A NYU, New York City, USA"
+organization_845,Rice University
+organization_846,University of Rochester
+organization_847,Unbabel
+organization_848,Instituto Superior Técnico
+organization_849,Inspired Cognition
+organization_850,Ant Group
+organization_851,"CAD&CG, ZJU"
+organization_852,University of College London
+organization_853,"China Mobile Communication Group Tianjin Co., Ltd."
+organization_854,University College London
+organization_855,Tianjin University
+organization_856,NNASISENSE
+organization_857,The Swiss AI Lab IDSIA/USI/SUPSI
+organization_858,"Google, USA"
+organization_859,"Max Planck Institute for Intelligent Systems, Tübingen"
+organization_860,"Department of Computer Science, ETH Zürich"
+organization_861,ZMO AI Inc.
+organization_862,Institute for Artificial Intelligence and Fundamental Interactions
+organization_863,McGill Universi ty
+organization_864,Indian Institute of Technology
+organization_865,National Institute of Technology Silchar
+organization_866,"State Key Lab of CAD and CG, Zhejiang University"
+organization_867,College of William & Mary
+organization_868,Stanford School of Medicine
+organization_869,Division of Hospital Medicine
+organization_870,Vanderbilt University Medical Center
+organization_871,Human-Centered Artificial Intelligence Institute
+organization_872,Stanford Health Care
+organization_873,Clinical Excellence Research Center
+organization_874,Vanderbilt University School of Medicine
+organization_875,Hospital Israelita Albert Einstein
+organization_876,"Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+organization_877,Cerebras Systems
+organization_878,"University of Artificial Intelligence, UAE"
+organization_879,Arabic-Centric Foundation
+organization_880,Cardiff University
+organization_881,European Centre for Medium-Range Weather Forecasts
+organization_882,TTIC
+organization_883,ShanghaiTech
+organization_884,"Indian Institute of Information Technology, Sri City"
+organization_885,PKU-SenseTime Machine Vision Joint Lab
+organization_886,Key Laboratory of Machine Perception (MOE)
+organization_887,Independent Researcher
+organization_888,"Huawei Co., Ltd."
+organization_889,"AWS AI, Amazon"
+organization_890,University of Hong Kong
+organization_891,Abridge AI
+organization_892,"BITS, Pilani"
+organization_893,zhangrenrui@pjlab.org.cn
+organization_894,"{zyguo, pheng }@cse.cuhk.edu.hk"
+organization_895,University of Porto
+organization_896,Equall
+organization_897,Sicheng Xu2
+organization_898,"Jianfeng Xiang3,2"
+organization_899,Xin Tong2
+organization_900,Jiaolong Yang2†
+organization_901,Qifeng Chen1
+organization_902,Fangyun Wei2
+organization_903,"Alibaba Group,DAMO Academy"
+organization_904,Science
+organization_905,"Institute of Computing Technology,"
+organization_906,University of Chinese Academy of
+organization_907,"Institute of Computing Technology, Chinese Academy of Sciences"
+organization_908,"Beijing Key Laboratory of Mobile Computing and Pervasive Device,"
+organization_909,"School of Computer Science & Informatics, Cardiff University"
+organization_910,Linköping University
+organization_911,The Pennsylvania State University
+organization_912,Waseda University
+organization_913,TAL AI Lab
+organization_914,KTH Royal Institute of Technology
+organization_915,University of Bergen
+organization_916,University of Electronic Science and Technology of China
+organization_917,"School of Computer Science and Engineering, Nanyang Technological University"
+organization_918,Beijing Academy of Artificial Intelligence
+organization_919,"Harbin Institute of Technology, Shenzhen"
+organization_920,"School of Computing, KAIST"
+organization_921,INFRADEV-1-2014/H2020
+organization_922,Horizon 2020
+organization_923,Stickman Skills Center LLC
+organization_924,Relentless Adrenaline
+organization_925,Institute of Computer and Information Systems
+organization_926,Military University Of Technology
+organization_927,Columbia University: CS
+organization_928,Project Gutenberg
+organization_929,Universitat Politècnica de Catalunya
+organization_930,Cohere
+organization_931,Cohere for AI
+organization_932,Meta GenAI
+organization_933,UCSD
+organization_934,European Space Astronomy Centre
+organization_935,Learning Machines
+organization_936,Space Telescope Science Institute
+organization_937,NASA Astrophysics Data System
+organization_938,Indian Institute of Technology Delhi
+organization_939,Wrocław University
+organization_940,"ETH Zürich, Switzerland"
+organization_941,"Michael J. Black, Max Planck Institute for Intelligent Systems, Germany"
+organization_942,"Max Planck Institute for Intelligent Systems, Germany"
+organization_943,"University of Cambridge, United Kingdom"
+organization_944,"Oracle Laboratories, Austria"
+organization_945,"Johannes Kepler University, Linz, Austria"
+organization_946,EVS Broadcast Equipment
+organization_947,University of Liège
+organization_948,Nanjing University of Aeronautics and Astronautics
+organization_949,"Department of Medical Physics, Faculty of Medicine, Kagawa University"
+organization_950,"Department of Clinical Radiology, Kagawa University Hospital"
+organization_951,University of York
+organization_952,"PricewaterhouseCoopers, China"
+organization_953,LERF [1]
+organization_954,Adam Rashid*
+organization_955,Lawrence Yunliang Chen
+organization_956,Chung Min Kim
+organization_957,Ken Goldberg
+organization_958,Angjoo Kanazawa
+organization_959,Satvik Sharma*
+organization_960,LERF
+organization_961,Justin Kerr
+organization_962,Bristol AI Safety Centre
+organization_963,MATS
+organization_964,Massachusetts Institute Technology
+organization_965,University of Oregon
+organization_966,Beijing Institute for General Artificial Intelligence (BIGAI)
+organization_967,School of Computer Science
+organization_968,"Indian Institute of Technology, Patna"
+organization_969,Yusuf Maitama Sule University
+organization_970,University of Central Lancashire
+organization_971,University of Calabria
+organization_972,DLVSystem Srl
+organization_973,Zoom
+organization_974,UNC Chapel Hill
+organization_975,Mila & University of Montreal
+organization_976,NVIDIA Corporation
+organization_977,"Meta Platforms, Inc."
+organization_978,Stack-and-DELAY
+organization_979,Center
+organization_980,College
+organization_981,Laboratory
+organization_982,Ltd
+organization_983,AI
+organization_984,Inc
+organization_985,Institute
+organization_986,Corporation
+organization_987,Pennsylvania State University
+organization_988,mikelewis
+organization_989,ccross
+organization_990,mandarj
+organization_991,gghosh
+organization_992,lsxz g@fb.com
+organization_993,berniehuang
+organization_994,vladk
+organization_995,huxu
+organization_996,foxo
+organization_997,naman g@fb.com
+organization_998,farmenag
+organization_999,"Microsoft Research, Microsoft Research"
+organization_1000,Suzhou Laboratory
+organization_1001,X-LANCE Lab
+organization_1002,"MoE Key Lab of Artificial Intelligence, SJTU AI Institute"
+organization_1003,Rossum.ai
+organization_1004,Institute for Interdisciplinary Information Core Technology (IIISCT)
+organization_1005,HEKUAN Ma4
+organization_1006,Technion - Israel Institute of Technology
+organization_1007,"Facebook, Inc."
+organization_1008,"AI Initiative, King Abdullah University of Science and Technology"
+organization_1009,Stony Brook University
+organization_1010,Southern University of Science and Technology
+organization_1011,Max Planck Institute for Intelligent Systems - T ¨ubingen
+organization_1012,Indian Statistical Institute
+organization_1013,Institute of Mathematical Statistics
+organization_1014,OpenTensor Foundation
+organization_1015,"Meta AI, USA"
+organization_1016,"University of Texas at Dallas, USA"
+organization_1017,Ego4D
+organization_1018,Bridge
+organization_1019,"Agency for Science, Technology, and Research (A*STAR)"
+organization_1020,Institute for Infocomm Research
+organization_1021,CMU
+organization_1022,UW–Madison
+organization_1023,UMass Amherst
+organization_1024,National University of Defense Technology
+organization_1025,HKUST(GZ)
+organization_1026,University of Tartu Institute of Computer Science
+organization_1027,PSL Research University
+organization_1028,DI ENS
+organization_1029,Inria Paris
+organization_1030,Czech Technical University in Prague
+organization_1031,Czech Institute of Informatics
+organization_1032,Saarland University
+organization_1033,Microsoft Inc
+organization_1034,"Amazon Science, Inc. Washington, USA"
+organization_1035,"School of Artificial Intelligence, UCAS"
+organization_1036,MAIS
+organization_1037,CASIA
+organization_1038,UCAS
+organization_1039,KuaiShou Technology
+organization_1040,OPPO US Research Center
+organization_1041,"University of Amsterdam, the Netherlands"
+organization_1042,"Max Planck Institute for Intelligent Systems,"
+organization_1043,"Redmond, WA"
+organization_1044,University of Florida
+organization_1045,Alibaba Group∗
+organization_1046,BlueHalo
+organization_1047,DEVCOM Army Research Laboratory
+organization_1048,University of Arkansas
+organization_1049,University at Albany
+organization_1050,Mohammed bin Zayed University of AI
+organization_1051,Lexica
+organization_1052,Southeast University
+organization_1053,University of Southern California Institute for Intelligent Systems Center for Automation Research Corporation Inc.
+organization_1054,Beijing Language and Culture University
+organization_1055,IBM Research Europe
+organization_1056,IBM Research Almaden
+organization_1057,"Cambridge, MA 02142"
+organization_1058,Shandong University
+organization_1059,Korea Advanced Institute of Science and Technology (KAIST)
+organization_1060,Vrije Universiteit Amsterdam
+organization_1061,Calera Capital
+organization_1062,Two Sigma Investments
+organization_1063,"Dashworks Technologies, Inc."
+organization_1064,Amazon Alexa AI
+organization_1065,IIT Bombay
+organization_1066,George Mason University
+organization_1067,Institute for Advanced Architecture of Catalonia (IAAC)
+organization_1068,Allen Institute for Artificial Intelligence (AI2)
+organization_1069,"Centre for Frontier AI Research (CFAR), A*STAR, Singapore"
+organization_1070,"Institute for Infocomm Research (I2R), A*STAR, Singapore"
+organization_1071,Mila
+organization_1072,"State Key Laboratory of Industrial Control Technology, College of Control Science and Engineering, Zhejiang University, China"
+organization_1073,ASAPP Research
+organization_1074,XJTU
+organization_1075,BUPT
+organization_1076,Hong Kong Baptist University
+organization_1077,XLang Lab
+organization_1078,Salesforce Research
+organization_1079,Google Cloud
+organization_1080,"School of Mathematics, Tianjin University,"
+organization_1081,"College of Intelligence and Computing, Tianjin University,"
+organization_1082,Queen's University
+organization_1083,Inception Institute of Artificial Intelligence
+organization_1084,Character AI
+organization_1085,Ecole Normale Supérieure
+organization_1086,"Marne-la-Vallée, France"
+organization_1087,"Université Paris-Est, LIGM"
+organization_1088,Inria - Sierra Project-Team
+organization_1089,École des Ponts - ParisTech
+organization_1090,Qualcomm Technologies Inc.
+organization_1091,"Beijing National Research Center for Information Science and Technology,"
+organization_1092,Ant Group.
+organization_1093,"Tsinghua University,"
+organization_1094,"State Key Lab of Intelligent Technology and Systems,"
+organization_1095,"Institute for Artificial Intelligence,"
+organization_1096,Image Derivative Inc.
+organization_1097,KAUST
+organization_1098,"IDSIA, USI & SUPSI"
+organization_1099,Beijing Information Science and Technology University
+organization_1100,École Polytechnique Fédérale de Lausanne
+organization_1101,Tencent IEG
+organization_1102,MSA University
+organization_1103,"Fantasia3D (Chen et al., 2023b)"
+organization_1104,Ours
+organization_1105,HWangchunshu Zhou
+organization_1106,EETH Zürich
+organization_1107,AInstitut für Angewandte AI (ETH Zurich)
+organization_1108,Pazhou Lab (Huangpu)
+organization_1109,Shengshu Technology
+organization_1110,Tsinghua-Bosch Joint ML Center
+organization_1111,Institute for AI
+organization_1112,"State Key Lab of CAD&CG, Zhejiang University"
+organization_1113,"PICO, ByteDance"
+organization_1114,Coursera
+organization_1115,"H2O.ai, Inc."
+organization_1116,"University of Illinois Urbana-Champaign, USA"
+organization_1117,"University of Chinese Academy of Sciences, China"
+organization_1118,"State Key Lab of Processors, Institute of Computing Technology, China"
+organization_1119,Sun Yat-Sen University
+organization_1120,"Unidad Asociada IQFR-BIFI, Madrid-Zaragoda, Spain"
+organization_1121,"Instituto de Biocomputación y Física de Sistemas Complejos (BIFI), Universidad de Zaragoza, Spain"
+organization_1122,"Zaragoza Scientiﬁc Center for Advanced Modeling (ZCAM), Universidad de Zaragoda, Spain"
+organization_1123,"Departamento de Física Teórica, Universidad de Zaragoazo, Spain"
+organization_1124,"Instituto de Química Física Rocasolano, CSIC, Madrid, Spain"
+organization_1125,Ziwei Liu∗1
+organization_1126,"Yingqing He2,3,"
+organization_1127,"Menghan Xia∗2,"
+organization_1128,"Xintao Wang2,"
+organization_1129,"Haonan Qiu1,"
+organization_1130,Ying Shan2
+organization_1131,"Yong Zhang2,"
+organization_1132,"HABITAT 3.0: A C O-HABITAT FOR HUMANS , AVATARS AND ROBOTS"
+organization_1133,Microsoft Health Futures
+organization_1134,Arizona State University
+organization_1135,"National Key Laboratory of General Artificial Intelligence, Peking University, Shenzhen Graduate School"
+organization_1136,Hefei University of Technology
+organization_1137,Hefei Comprehensive National Science Center
+organization_1138,"Academy for Engineering and Technology, Fudan University"
+organization_1139,"Shanghai Key Lab of Intell. Info. Processing, School of Computer Science, Fudan University"
+organization_1140,Chinese Academy of Sciences (CAS)
+organization_1141,"Key Laboratory of AI Safety of CAS, Institute of Computing Technology,"
+organization_1142,DeepSeek AI
+organization_1143,UCL
+organization_1144,National Key Laboratory for Multimedia Information Processing
+organization_1145,Berkeley
+organization_1146,"Department of Computer Science and Technology, Tsinghua University, Beijing, China"
+organization_1147,"School of New Media and Communication, Tianjin University, Tianjin, China"
+organization_1148,"College of Intelligence and Computing, Tianjin University, Tianjin, China"
+organization_1149,"ByteDance Lark AI, Beijing, China"
+organization_1150,University of Glasgow
+organization_1151,Mohamed bin Zayed University of Artificial Intelligence
+organization_1152,Vector Insititute
+organization_1153,Huazhong University of Science & Technology
+organization_1154,University of Bologna
+organization_1155,University of Richmond
+organization_1156,Merchants Union Consumer Finance Company
+organization_1157,"Institute of Artiﬁcial Intelligence, Hefei Comprehensive National Science Center"
+organization_1158,SenseTime
+organization_1159,China JD Explore Academy
+organization_1160,"The University of Sydney, Australia"
+organization_1161,"University of Science and Technology of China, China"
+organization_1162,"Joint Institute for Nuclear Astrophysics (JINA), Department of Physics, University of Notre Dame, IN, USA"
+organization_1163,"Karlsruhe Institute of Technology, Campus Nord, Institut für Kernphysik, Karlsruhe, Germany"
+organization_1164,"INAF - Astrophysical Observatory Turitn, Turin, Italy"
+organization_1165,"Department of Physics, University of Turitn, Italy"
+organization_1166,Corporation Justin Johnson
+organization_1167,Lehigh University
+organization_1168,University of Antwerp
+organization_1169,tsinghua University
+organization_1170,V AST
+organization_1171,Palisade Research
+organization_1172,ICLR 2024 Workshop on Secure and Trustworthy Large Language Models
+organization_1173,"Google Research, Zurich"
+organization_1174,Ecole Polytechnique Fédérale de Lausanne (EPFL)
+organization_1175,"Dept of Data Science & AI, Monash University"
+organization_1176,Tsinghua Shenzhen International Graduate School
+organization_1177,PaLM 2
+organization_1178,Bard
+organization_1179,Imagen
+organization_1180,Stable Diffusion
+organization_1181,Midjourney
+organization_1182,ROCKWOOL Foundation Research Unit
+organization_1183,The New School
+organization_1184,Politecnico di Milano
+organization_1185,Finvolution Group
+organization_1186,Center for Human Automation Research (CHAIR)3
+organization_1187,AltspaceVR Inc.3
+organization_1188,Laboratory for Computational Physiology (LCP)2
+organization_1189,Institute for Ethics and Emerging Technologies (IEEE)2
+organization_1190,College of William & Mary (CW&MA)2
+organization_1191,Boğaziçi University
+organization_1192,Meta AI Research
+organization_1193,"National Key Laboratory for Novel Software Technology, Nanjing University"
+organization_1194,Dublin City University
+organization_1195,iFlyTek-Surrey Joint Research Centre on Artificial Intelligence
+organization_1196,Chuang Gan
+organization_1197,"School of Software Engineering, Xi’an Jiaotong University"
+organization_1198,"Computer Vision Lab, TU Wien"
+organization_1199,University of Oklahoma
+organization_1200,Shanghai Institute for Advanced Study of Zhejiang University
+organization_1201,Hikvision Research Institute
+organization_1202,"Polytechnic Institute, Zhejiang University"
+organization_1203,"ZJU – UIUC Institute, Zhejiang University"
+organization_1204,"Zhejiang – Singapore Innovation and AI Joint Research Lab, Hangzhou"
+organization_1205,Heidelberg Institute of Theoretical Studies
+organization_1206,Waterford Institute of Technology
+organization_1207,Trinity College Ireland
+organization_1208,University of Modena and Reggio Emilia
+organization_1209,NUS Graduate School for Integrative Sciences and Engineering
+organization_1210,Amity Institute of Information Technology
+organization_1211,Amity University Uttar Pradesh
+organization_1212,"Microsoft Research, Redmond"
+organization_1213,"Institute for AI, BNRist, Tsinghua University"
+organization_1214,IDEA Research
+organization_1215,ALLEN INSTITUTE FOR AI
+organization_1216,UNIVERSITY OF WASHINGTON
+organization_1217,"Colorado, USA"
+organization_1218,"Sandia National Laboratories, New Mexico, USA"
+organization_1219,"National Renewable Energy Laboratory,"
+organization_1220,Université de Lorraine
+organization_1221,Institut de Cancérologie
+organization_1222,Qingdao University of Science and Technology
+organization_1223,University of Jyvaskyla
+organization_1224,University of Tennessee
+organization_1225,ETH Z ¤urich
+organization_1226,Universit ¢e de Montr ¢el
+organization_1227,Google Inc
+organization_1228,"Herb Alpert School of Music, University of California"
+organization_1229,Kakao Enterprise
+organization_1230,Lawrence Livermore National Laboratory
+organization_1231,Vanderbilt University
+organization_1232,International Journal of Computer Science and Information Security
+organization_1233,Kuwait University
+organization_1234,"MMLab, CUHK"
+organization_1235,Microsoft Azure Quantum
+organization_1236,Ozyegin University
+organization_1237,Petuum Inc.
+organization_1238,Peking University & International Digital Economy Academy
+organization_1239,International Digital Economy Academy
+organization_1240,"Key Lab of High Confidence Software Technologies (MOE), Peking University"
+organization_1241,"Zhonghai Wu, Key Lab of High Confidence Software Technologies (MOE), Peking University"
+organization_1242,NAVER Corp. AI Lab
+organization_1243,Technical University of Darmstadt
+organization_1244,"Max Planck Institute for Intelligent Systems, Tübingen, Germany"
+organization_1245,Adobe Corporation
+organization_1246,Malmö University
+organization_1247,University Game Lab
+organization_1248,Alibaba Inc.
+organization_1249,University of Macau
+organization_1250,"Institute of Information Engineering, Chinese Academy of Sciences,"
+organization_1251,"University of Chinese Academy of Sciences,"
+organization_1252,Southeast Academy of Information Technology
+organization_1253,"Beijing Institute of Technology,"
+organization_1254,Germany
+organization_1255,Switzerland
+organization_1256,Canada
+organization_1257,International Institute of Information Technology Hyderabad
+organization_1258,"MRC Biostatistics Unit, University of Cambridge"
+organization_1259,Thoughtful Technology Project
+organization_1260,Legal Priorities Project
+organization_1261,Instituto Tecnológico Autónomo de México
+organization_1262,University of Montreal
+organization_1263,"Oxford Internet Institute, University of Oxford"
+organization_1264,Montreal AI Ethics Institute
+organization_1265,Institute for AI Policy & Strategy
+organization_1266,BCG Henderson Institute
+organization_1267,Harvard Law School
+organization_1268,Brookings Institution
+organization_1269,"AI for Science (AI4S)-Preferred Program, Peking University Shenzhen Graduate School"
+organization_1270,Peking University Shenzhen Graduate School
+organization_1271,PandaVilla Tech Limited
+organization_1272,Seeking AI
+organization_1273,"University of Washington, Seattle"
+organization_1274,Beijing University Of Technology
+organization_1275,Zhengzhou University
+organization_1276,"Department of Computer Science and Engineering,"
+organization_1277,"Institute of Artificial Intelligence, Xiamen University"
+organization_1278,"MAC Lab, Department of Artificial Intelligence, School of Informatics, Xiamen University"
+organization_1279,Center for Human-Compatible Artificial Intelligence
+organization_1280,Alibaba AI Lab
+organization_1281,"Faculty of Science, Palacky University Olomouc, Czechia"
+organization_1282,The Hong Kong University of Science and Technology (Guangzhou)
+organization_1283,HKUST (GZ)
+organization_1284,Zhejiang Lab
+organization_1285,Xiamen University
+organization_1286,University of Tokyo 1
+organization_1287,"Honda Motor Co., Ltd. 1"
+organization_1288,"Institute for Intelligent Computing,"
+organization_1289,Clemson University
+organization_1290,Amazon Services LLC
+organization_1291,Aitzaz Ahmad
+organization_1292,Stephan Lau
+organization_1293,UNC-Chapel Hill
+organization_1294,Adobe Inc.
+organization_1295,Texas A&M University
+organization_1296,Adobe Ltd.
+organization_1297,"Tsinghua Shenzhen International Graduate School, Tsinghua University"
+organization_1298,"Department of Automation, Tsinghua University"
+organization_1299,Parametrix Technology Company Ltd.
+organization_1300,MEGVII Technology
+organization_1301,CogVideoX-5B
+organization_1302,Turing Inc.
+organization_1303,TU Dresden
+organization_1304,Lamarr Institute
+organization_1305,FZ Jülich
+organization_1306,Fraunhofer IAIS
+organization_1307,IIT Kharagpur
+organization_1308,"New York University,a"
+organization_1309,"University of Minnesota,c"
+organization_1310,"Center for Soft Matter Research,b"
+organization_1311,"Simons Center for Computational Physical Chemistry,d"
+organization_1312,University of Zaragoza
+organization_1313,Hangzhou Dianzi University
+organization_1314,The College of Wooster
+organization_1315,University of Portland
+organization_1316,"GenAI, Meta"
+organization_1317,Comcast Applied AI
+organization_1318,"Institute of Artificial Intelligence (TeleAI), China Telecom"
+organization_1319,SCUT
+organization_1320,Guangdong Province Key Laboratory of Information Security Technology
+organization_1321,"Key Laboratory of Machine Intelligence and Advanced Computing, Ministry of Education"
+organization_1322,Macquarie University
+organization_1323,BITS Pilani K.K.Birla Goa campus
+organization_1324,University of New South Wales
+organization_1325,"Cyber & Electronic Warfare Division, Defence Science and Technology Group"
+organization_1326,DynIBaRRoDynRFDynNeRFFlowIBRMonoNeRF4D-GSNSFFHyperNeRF
+organization_1327,University of Cape Town
+organization_1328,NeuDim
+organization_1329,"University of Nevada, Reno"
+organization_1330,Meitu Inc.
+organization_1331,"Google, Inc."
+organization_1332,Google Cloud AI
+organization_1333,Chiba University
+organization_1334,Kyoto University
+organization_1335,NTT
+organization_1336,Codec Avatars Lab
+organization_1337,Beijing Academy of Artificial Intelligence (BAAI)
+organization_1338,"Institute for AI, Peking University"
+organization_1339,Alibaba
+organization_1340,Huawei Noah’s Ark LAB
+organization_1341,Taobao & Tmall Group of Alibaba
+organization_1342,"School of Computer Science, National Engineering Research Center for Multimedia Software"
+organization_1343,National Engineering Research Center for Multimedia Software
+organization_1344,Snap Research
+organization_1345,"FNii, CUHKSZ"
+organization_1346,CNRSCP
+organization_1347,"SSE, CUHKSZ"
+organization_1348,CUHKSZ
+organization_1349,DeBakey Heart and Vascular Center
+organization_1350,The University of Texas MD Anderson Cancer Center
+organization_1351,TH Nürnberg
+organization_1352,Sber AI
+organization_1353,"Institute for AI, THU-Bosch Joint Center for ML, Tsinghua University"
+organization_1354,"MThreads, Inc."
+organization_1355,DGene
+organization_1356,"The system generates descriptions that are precise, focusing on the image's content while incorporating contextual details to enhance understanding. It effectively uses correct visual terminology and focuses on relevant items in the scene, providing users with informative and helpful context-aware descriptions."
+organization_1357,3. **Contextual Details:**
+organization_1358,"Based on the context provided, it appears your system has successfully generated a detailed, context-aware description for an image of a sofa set. Here’s how we can summarize the key points from Figure 1:"
+organization_1359,- *Sofa*: The description emphasizes the main item (the sofa) rather than including other elements of the room.
+organization_1360,1. **Correct Visual Terminology:**
+organization_1361,2. **Focusing on Relevant Items:**
+organization_1362,- **Context-Aware Description:** The system considers both the image and additional details extracted from the source (likely metadata or annotations) to craft a precise and relevant description.
+organization_1363,### System's Functionality:
+organization_1364,"- Additional details might include information about the number of pieces, material (""Italian leather""), and any unique features or design aspects."
+organization_1365,"- *Chenille Texture*: Instead of using more generic terms like ""velvet,"" which can be ambiguous, the system specifies ""chicken-feather-like texture"" or similar accurate terms for visual characteristics."
+organization_1366,### Overall Summary:
+organization_1367,"""The Beige Brown Italian Leather Sofa Set consists of three pieces featuring a chenille texture upholstery that provides an inviting cushioned feel. The set includes a main sofa with two matching armchairs. Each piece is crafted from high-quality leather, giving it a smooth and durable surface."""
+organization_1368,### Example Image-Based Description from Figure 1:
+organization_1369,### Key Points in the Image-Based Description:
+organization_1370,Great Bay University
+organization_1371,SIAT@MMLab
+organization_1372,USTC
+organization_1373,"University of Mumbai, Mumbai, MH, India"
+organization_1374,Nankai University
+organization_1375,Tongji University
+organization_1376,University of Konstanz
+organization_1377,SHI Labs @ Georgia Tech & UIUC
+organization_1378,"State Key Laboratory for Novel Software Technology, Nanjing University"
+organization_1379,Huawei Noah’s Ark Lab3
+organization_1380,Huawei Noah’s Ark Lab3Shanghai AI Laboratory
+organization_1381,California Institute of Technology (Caltech)
+organization_1382,Hong Kong University of Science and Technology (HKUST)
+organization_1383,"Paul G. Allen School of Computer Science & Engineering, University of Washington"
+organization_1384,Mohamed bin Zayed University of AI
+organization_1385,BAAI
+organization_1386,Alternative Machine Inc.
+organization_1387,GenAI at Meta
+organization_1388,Monash University Malaysia
+organization_1389,IBM Research – Zurich
+organization_1390,NTNU*
+organization_1391,"EPFL, Switzerland"
+organization_1392,"Technical University of Munich, Germany"
+organization_1393,"Innopeak Technology, Inc"
+organization_1394,"University of California,"
+organization_1395,"University of Wisconsin-Madison,"
+organization_1396,CSIRO
+organization_1397,Transmute AI Lab
+organization_1398,University of Göttingen
+organization_1399,Center for Human-Compatible AI
+organization_1400,SJTU
+organization_1401,Kakao Brain
+organization_1402,"School of Software, Shandong University"
+organization_1403,"Data61, CSIRO"
+organization_1404,The University of New South Wales
+organization_1405,Umass Amherst
+organization_1406,Qualcomm AI Research†
+organization_1407,Reichman University
+organization_1408,Johannes Kepler University Linz
+organization_1409,Know-Center
+organization_1410,Graz University of Technology
+organization_1411,Utrecht University
+organization_1412,Orby AI
+organization_1413,Nagoya University
+organization_1414,Universite de Montreal
+organization_1415,Canada CIFAR AI chair
+organization_1416,FAIR at Meta
+organization_1417,NAVER Cloud
+organization_1418,Google Switzerland
+organization_1419,ETH Z ¨urich - DALAB
+organization_1420,"Center for Information and Language Processing, LMU Munich"
+organization_1421,Tongyi Lab
+organization_1422,Shanghai Jiaotong University
+organization_1423,Indiana University
+organization_1424,State Key Laboratory for Novel Software Technology
+organization_1425,"Computer Vision Center, Universitat Autònoma de Barcelona"
+organization_1426,"Independent Researcher, Tokyo"
+organization_1427,VCIP
+organization_1428,Linkoping University
+organization_1429,"Department of Mathematical Sciences, Tsinghua University"
+organization_1430,"Theory Lab, 2012 Labs, Huawei Technologies Co., Ltd."
+organization_1431,"Huawei Technologies Co., Ltd."
+organization_1432,"Harbin Institute of Technology, HIT"
+organization_1433,"University of Chinese Academy of Sciences, UCAS"
+organization_1434,"State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA"
+organization_1435,"Center for Artificial Intelligence and Robotics, HKISI CAS"
+organization_1436,Prescient Design
+organization_1437,Genentech
+organization_1438,"Institute for Infocomm Research (I2R) & Centre for Frontier AI Research (CFAR), A*STAR, Singapore"
+organization_1439,CUHK MMLab
+organization_1440,Tencent Youtu Lab
+organization_1441,ECNU
+organization_1442,Howard University*
+organization_1443,MIPG
+organization_1444,"Show Lab, National University of Singapore"
+organization_1445,Indian Institute of Technology Patna
+organization_1446,Yandex Research
+organization_1447,Vincent Y . F. Tan
+organization_1448,Brandeis University
+organization_1449,University of Leed
+organization_1450,Max Planck Institute
+organization_1451,Toyota Research Institute
+organization_1452,PUK MLAB
+organization_1453,"TU Munich, Munich"
+organization_1454,"Google DeepMind, London"
+organization_1455,"Google, Zurich"
+organization_1456,NAVER
+organization_1457,Chung-Ang University
+organization_1458,"Nijenborgh 4, 9747 AG, Groningen, The Netherlands"
+organization_1459,"Bernoulli Institute for Mathematics, Computer Science and Artiﬁcial Intelligence"
+organization_1460,"Faculty of Science and Engineering, University of Groningen"
+organization_1461,"Nijenborgh 9, 9747 AG, Groningen, The Netherlands"
+organization_1462,Engineering and Technology Institute Groningen
+organization_1463,The University of Texas at Dallas
+organization_1464,Institute of Nuclear Medicine and Allied Sciences
+organization_1465,MCS Group
+organization_1466,Tencent Inc
+organization_1467,CeTI
+organization_1468,ASELSAN Research Center
+organization_1469,Neuroscience Program
+organization_1470,Bilkent University
+organization_1471,UMRAM
+organization_1472,Amasya University
+organization_1473,UniSDF
+organization_1474,Marc Pollefeys
+organization_1475,Federico Tombari
+organization_1476,University if California
+organization_1477,University of Strathclyde
+organization_1478,Kiel University
+organization_1479,Univ. Grenoble Alpes
+organization_1480,Grenoble INP
+organization_1481,LJK
+organization_1482,Visual Media Lab
+organization_1483,"Beijing Wenge Technology Co., Ltd."
+organization_1484,FAR AI
+organization_1485,Jagiellonian University
+organization_1486,Courant Institute of Mathematical Sciences
+organization_1487,"Codec Avatars Lab, Meta"
+organization_1488,"Inst. for Computer Graphics and Vision, Graz Univ. of Technology, Graz, Austria"
+organization_1489,"LIGM, École des Ponts, Univ Gustave Eiffel"
+organization_1490,Taiwan National Tsing Hua University
+organization_1491,VIA Research Center
+organization_1492,MPI for Informatics
+organization_1493,École de technologie supérieure
+organization_1494,University of Central Florida
+organization_1495,Wonsung Lee
+organization_1496,Sunghun Kim
+organization_1497,Mikyoung Cha
+organization_1498,Sanghoon Kim
+organization_1499,South Korea
+organization_1500,Hwalsuk Lee
+organization_1501,"Institute for Intelligent Computing, Alibaba Group"
+organization_1502,"LTCI, T´ el´ ecom Paris"
+organization_1503,Institut Polytechnique de Paris
+organization_1504,IBM Research
+organization_1505,U2SegLabel-Efficient Learning
+organization_1506,CutLER
+organization_1507,U2Seg
+organization_1508,Berkeley AI Research
+organization_1509,STEGO
+organization_1510,"Dalian University of Technology, China"
+organization_1511,"Zhejiang University, China"
+organization_1512,Meituan Inc.
+organization_1513,"German Research Center for Artificial Intelligence (DFKI),"
+organization_1514,"Klinikum Saarbrucken, Germany"
+organization_1515,[NMüller et al.]
+organization_1516,"NVIDIA, Germany"
+organization_1517,"Adobe, Canada"
+organization_1518,"University of Toronto, Canada"
+organization_1519,[Rho et al.]
+organization_1520,"Fudan University,"
+organization_1521,"Academy for Engineering & Technology,"
+organization_1522,"Shanghai Key Lab of Intelligent Information Processing,"
+organization_1523,"School of Computer Science, Fudan University,"
+organization_1524,"Ministry of Education, Academy for Engineering & Technology,"
+organization_1525,Yahoo! Labs Haifa
+organization_1526,HulkBatman
+organization_1527,LocalEditingStevenJobs
+organization_1528,"SampledimagePixarGoldenstatueFox,PixarstyleBlueeyesPinkhair"
+organization_1529,3DDomainAdaptation
+organization_1530,RealimagePixarGreekstatueJoker
+organization_1531,ObamaGirlinwhitedress
+organization_1532,RealimageText-to-Avatar
+organization_1533,CodeFormer
+organization_1534,Artificial and Natural Intelligence Toulouse Institute
+organization_1535,Carney Institute for Brain Science
+organization_1536,MyAutoBio Inc.
+organization_1537,Zhenghao Liu†
+organization_1538,Chenyan Xiong
+organization_1539,"Du Xiaoman (Beijing) Science Technology Co., Ltd."
+organization_1540,"Institute of Automation,"
+organization_1541,"Chinese Academy of Sciences,"
+organization_1542,"Van ’t Hoﬀ Institute for Molecular Sciences, University of Amsterdam,"
+organization_1543,"Institute of Physics, University of Amsterdam,"
+organization_1544,Max Planck Institute for Polymer Research
+organization_1545,"Institute of Geographical Science and Natural Resources Research, CAS"
+organization_1546,"Wangxuan Institute of Computer Technology, Peking University"
+organization_1547,HKUST Hang Li
+organization_1548,Zhejiang Sci-Tech University
+organization_1549,Royal College of Art
+organization_1550,China Conservatory of Music
+organization_1551,"Centre for Frontier AI Research (CFAR), A*STAR"
+organization_1552,Shaanxi Normal University
+organization_1553,School of Automation
+organization_1554,"Salesforce, Inc."
+organization_1555,Ensimag
+organization_1556,Google.
+organization_1557,DeepSeek LLM
+organization_1558,National Centre for Text Mining
+organization_1559,Chancefocus AMC
+organization_1560,tulika.saha
+organization_1561,sophia.ananiadou
+organization_1562,"Shanghai Engineering Research Center of AI & Robotics,"
+organization_1563,XLUSING LAYER LEVEL LOSS
+organization_1564,Yatharth Gupta∗
+organization_1565,PROGRESSIVE KNOWLEDGE DISTILLATION OF Stable Diffusion
+organization_1566,Sayak Paul
+organization_1567,Harish Prabhala
+organization_1568,Vishnu V . Jaddipal*
+organization_1569,Patrick Von Platen
+organization_1570,Khazar University
+organization_1571,Lumos Extension School of Data
+organization_1572,"Sony Computer Science Laboratories, Kyoto"
+organization_1573,iFLYTEK Research (HFL)
+organization_1574,HIT
+organization_1575,Amazon AWS AI
+organization_1576,HSE University
+organization_1577,University of Illinois Urbana Champaign
+organization_1578,BNRist
+organization_1579,"State Key Laboratory of Acoustics, Institute of Acoustics, Chinese Academy of Sciences"
+organization_1580,"iFlytek Research, iFlytek Co., Ltd."
+organization_1581,University of Science and Technology of China (USTC)
+organization_1582,"Meta Platforms, USA"
+organization_1583,Alignment Research Center
+organization_1584,Apart Research
+organization_1585,Open Philanthropy
+organization_1586,Redwood Research
+organization_1587,Mila Quebec AI Institute
+organization_1588,Google Zürich
+organization_1589,University of Liverpool
+organization_1590,New Jersey Institute of Technology
+organization_1591,Intel® Corporation
+organization_1592,"Institute for Interdisciplinary information Sciences, Tsinghua University"
+organization_1593,"Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany"
+organization_1594,Transtek Medical Electronic
+organization_1595,Qom University of Technology
+organization_1596,Shanghai Artificial Intelligence Lab
+organization_1597,Inverted AI
+organization_1598,Alberta Machine Intelligence Institute
+organization_1599,Department of Linguistics
+organization_1600,Halıcıoğlu Data Science Institute
+organization_1601,Department of Cognitive Science
+organization_1602,"State Key Laboratory of General Artificial Intelligence, BIGAI"
+organization_1603,GigaAI
+organization_1604,Microsoft DeepSpeed (www.deepspeed.ai)
+organization_1605,Jilin University
+organization_1606,"Engineering Research Center of Knowledge-Driven Human-Machine Intelligence, MOE"
+organization_1607,ICON
+organization_1608,University of Leiden
+organization_1609,University of Bonn
+organization_1610,"AI Thrust, HKUST(GZ)"
+organization_1611,"Dept. of CSE, HKUST"
+organization_1612,"School of Creative Media, City University of Hong Kong"
+organization_1613,Samsung AI Centre Toronto
+organization_1614,York University
+organization_1615,Indian Institute of Science
+organization_1616,"School of Artificial Intelligence, University of Chinese Academy of Sciences"
+organization_1617,01.AI
+organization_1618,"Australian Institute for Machine Learning, University of Adelaide"
+organization_1619,"School of Electrical Engineering and Computer Science, University of Queensland"
+organization_1620,"Department of Data Science & AI, Monash University"
+organization_1621,Nanyang Technological University (NTU)
+organization_1622,"Agency for Science, Technology and Research (A*STAR)"
+organization_1623,"MediaLab, Department of Electronic & Electrical Engineering"
+organization_1624,Stellenbosch University
+organization_1625,AI at Meta
+organization_1626,"InnoPeak Technology, Inc."
+organization_1627,"Meta Reality Labs, Pittsburgh, USA"
+organization_1628,Intellifusion Inc.
+organization_1629,Redmond
+organization_1630,"SambaNova Systems, Inc."
+organization_1631,"Institute of Computing Technology, CAS"
+organization_1632,"Shenzhen International Graduate School, Tsinghua University"
+organization_1633,"MAIS, Institute of Automation, CAS"
+organization_1634,UCSF
+organization_1635,MMLab
+organization_1636,Institute of Biomedical Engineering
+organization_1637,"Graduate School at Shenzhen, Tsinghua University"
+organization_1638,"Charlottesville, VA, USA"
+organization_1639,Microsoft Speech and Language Group
+organization_1640,Hoku Labs
+organization_1641,Hamburg University of Technology
+organization_1642,Institute for Data Science Foundations
+organization_1643,"DGene Digital Technology Co., Ltd."
+organization_1644,Beijing Jiaotong University
+organization_1645,F. P. R.
+organization_1646,CHNOL O
+organization_1647,M
+organization_1648,B
+organization_1649,STITUT E
+organization_1650,DY DE LRCE
+organization_1651,ING
+organization_1652,IC E N
+organization_1653,SHEMHAN
+organization_1654,NEIN G
+organization_1655,STEM
+organization_1656,NY G
+organization_1657,ShanghaiJiaoTongUniversity
+organization_1658,"The University of Tokyo, Japan"
+organization_1659,"Tencent XR Vision Labs, China"
+organization_1660,"Shanghai Jiao Tong University, China"
+organization_1661,"ANU, Australia"
+organization_1662,Ludwig-Maximilians-University Munich
+organization_1663,Munich Center for Machine Learning (MCML)
+organization_1664,Honda Research Institute Japan
+organization_1665,University of Würzburg
+organization_1666,FTG
+organization_1667,"Advanced Micro Devices, Inc."
+organization_1668,"Nanyang Technological University, Singapore"
+organization_1669,Uni-Retrieval: A Multi-Style Retrieval Framework for STEM’s Education
+organization_1670,"Hong Kong Polytechnic University, Hong Kong, China"
+organization_1671,South China University of Techonology
+organization_1672,Avataar.ai
+organization_1673,"Key Laboratory for Biomedical Engineering of Ministry of Ed ucation, College of Biomedical Engineering and Instrument Sciences, Zhejiang University"
+organization_1674,"Department of Psychology, University of Chinese Academy of Sciences"
+organization_1675,"CAS Key Laboratory of Behavioural Sciences, Institute of Ps ychology, Beijing"
+organization_1676,"National Laboratory of Pattern Recognition, Institute of A utomation, CAS"
+organization_1677,"Inria, Paris, France"
+organization_1678,"Saarland University, Saarland Informatics Campus, Germany"
+organization_1679,"DFKI GmbH, Saarland Informatics Campus, Germany"
+organization_1680,University of Illinois Urbana -Champaign
+organization_1681,"School of Advanced Technology, Xi’an Jiaotong-Liverpool University, China"
+organization_1682,Oxford Internet Institute
+organization_1683,"School of Computer Sci. & Tech., Huazhong University of Science and Technology"
+organization_1684,"School of Information Science and Engineering, Yunnan University"
+organization_1685,Nomic AI
+organization_1686,Sorbonne Université2
+organization_1687,Inria1
+organization_1688,Université Gustave Eiffel4
+organization_1689,Université de Genève3
+organization_1690,CNRS4
+organization_1691,City of Hong Kong
+organization_1692,"Beijing, China"
+organization_1693,"Tianjin, China"
+organization_1694,"Multimedia Lab, The Chinese University of Hong Kong"
+organization_1695,Nota Inc.
+organization_1696,Captions
+organization_1697,Peking University.
+organization_1698,Huawei Consumer Business Group.
+organization_1699,Huawei Noah’s Ark Lab.
+organization_1700,Amazon Inc.
+organization_1701,ICLR 2024
+organization_1702,Zhihao Fan
+organization_1703,"IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING"
+organization_1704,"Bosch Center for Artificial Intelligence, Robert Bosch GmbH"
+organization_1705,"Farragut High School,"
+organization_1706,"Knoxville, Tennessee, USA"
+organization_1707,Khulna University
+organization_1708,Zhipu AI
+organization_1709,"Dyson Robotics Lab, Imperial College London"
+organization_1710,FancyTech
+organization_1711,"Department of Computer Science, Stanford University"
+organization_1712,"Center for Neural Science, NYU"
+organization_1713,MIT AI Lab
+organization_1714,University of Southern California1
+organization_1715,Institute for Creative Technologies2
+organization_1716,Microsoft Research Core
+organization_1717,Microsoft Applied Robotics Research
+organization_1718,MSR Accelerator
+organization_1719,"MSR AI Frontiers, Newyork"
+organization_1720,Microsoft Gaming US
+organization_1721,Institute of Cyber Science and Engineering
+organization_1722,Central South University
+organization_1723,School of Computer Science and Engineering
+organization_1724,School of Cyber Science and Engineering
+organization_1725,The University of Mississippi
+organization_1726,MIT Lincoln Laboratory
+organization_1727,"ISTI-CNR, Pisa, Italy"
+organization_1728,"Flanders Make, Expertise Centre for Digital Media"
+organization_1729,Hasselt University
+organization_1730,Amazon.com
+organization_1731,Lawrence Berkeley National Laboratory
+organization_1732,ASAS.AI
+organization_1733,IT University of Copenhagen
+organization_1734,Bloomberg LP
+organization_1735,King Abdulaziz University
+organization_1736,Binghamton University
+organization_1737,Cohere For AI
+organization_1738,King Fahd University of Petroleum and Minerals
+organization_1739,University of Limerick
+organization_1740,"Fudan University, School of Computer Science"
+organization_1741,"ReLER, CCAI, Zhejiang University, China"
+organization_1742,"State Key Laboratory of Brain-machine Intelligence, Zhejiang University, China"
+organization_1743,AWS AI
+organization_1744,"Graduate School of Artificial Intelligence, KAIST, Republic of Korea"
+organization_1745,Rensselaer Polytechnic Institute
+organization_1746,MIT Media Lab
+organization_1747,"character.ai (Note: This appears to be a typo or repetition, but kept as is)"
+organization_1748,character.ai
+organization_1749,synthlabs.ai
+organization_1750,College of Engineering
+organization_1751,Cohere For AI Community
+organization_1752,IRCAM - CNRS UMR 9912
+organization_1753,Shanghai Qizhi Institute
+organization_1754,"IIIS, Tsinghua University"
+organization_1755,LinkedIn
+organization_1756,AGI‡
+organization_1757,Drexel University
+organization_1758,Israel
+organization_1759,Accenture
+organization_1760,"Microsoft, London, UK"
+organization_1761,"Microsoft Research, Redmond, Washington, USA"
+organization_1762,"Microsoft Research, Cambridge, UK"
+organization_1763,"Microsoft, Redmond, Washington, USA"
+organization_1764,Sathyabama Institute of Science and Technology
+organization_1765,University of South Carolina
+organization_1766,Artificial Intelligence Institute of South Carolina
+organization_1767,"College of Computer and Information Engineering, Tianjin Normal University"
+organization_1768,"College of Intelligence and Computing, Tianjin University"
+organization_1769,Together AI
+organization_1770,Institute for Creative Technologies
+organization_1771,Institute of Computing Science and Mathematics
+organization_1772,University of Stirling
+organization_1773,University of Wisconsin – Milwaukee
+organization_1774,Innopolis University
+organization_1775,Tinkoff Higher School of Economics
+organization_1776,Moscow Institute of Physics and Technology
+organization_1777,MBZUAI Department of NLP & ML
+organization_1778,Toyota Research Insititute
+organization_1779,Invertible AI
+organization_1780,Multimodal Art Projection Research Community
+organization_1781,Boise State University
+organization_1782,StabilityAI
+organization_1783,"Google Research, United States of America"
+organization_1784,"Google Research, United Kingdom"
+organization_1785,"University of Tübingen, Tübingen AI Center"
+organization_1786,"School of Information, Renmin University of China"
+organization_1787,University of Wisconsin Milwaukee
+organization_1788,Tehran Polytechnic
+organization_1789,BAICHUAN
+organization_1790,National Yang Ming Chiao Tung University
+organization_1791,Roblox
+organization_1792,PicUp.AI
+organization_1793,"Institute of Information Science,"
+organization_1794,Chung Yuan Christian University
+organization_1795,"National Taipei University of Technology,"
+organization_1796,Mark Schwesinger
+organization_1797,Kirin Somasundaram
+organization_1798,Jing Dong
+organization_1799,Huixuan Tang
+organization_1800,Yuyang Zou
+organization_1801,D Reality Labs Research
+organization_1802,Edward Miller
+organization_1803,Carlo Ren
+organization_1804,Aria Everyday Activities Dataset
+organization_1805,Renzo De Nardi
+organization_1806,Luis Pesqueira
+organization_1807,Vijay Baiyya
+organization_1808,Omkar Parkhi
+organization_1809,Qiao Gu
+organization_1810,Richard Newcombe
+organization_1811,Carl Ren
+organization_1812,Jeff Meissner
+organization_1813,Steve Saarinen
+organization_1814,Chris Sweeney
+organization_1815,University of St Andrews
+organization_1816,ELLIS Institute
+organization_1817,hessian.AI
+organization_1818,TU Darmstadt
+organization_1819,Universitat Politècnica de Catalunya (UPC)
+organization_1820,Aalto University
+organization_1821,The University of Melbourne
+organization_1822,Université Paris-Saclay
+organization_1823,Claudio Pomo
+organization_1824,Politecnico di Bari
+organization_1825,CentraleSupélec
+organization_1826,TOMMASO DI NOIA
+organization_1827,"Université Paris-Saclay, CentraleSupélec, Inria"
+organization_1828,"ModiFace Inc.,"
+organization_1829,Communication University of Zhejiang
+organization_1830,"Institute of Information Science, Beijing Jiaotong University"
+organization_1831,Beijing Key Laboratory of Advanced Information Science and Network
+organization_1832,HAOMO.AI
+organization_1833,"Data Science Institute, Brown University"
+organization_1834,Google Ads Safety
+organization_1835,ITMO University
+organization_1836,"Huawei Technologies Co., Ltd"
+organization_1837,Worcester Polytechnic Institute
+organization_1838,Inria Rennes
+organization_1839,École polytechnique
+organization_1840,Universitat de Barcelona
+organization_1841,"Salesforce Research, USA"
+organization_1842,"C4DM, Queen Mary University of London"
+organization_1843,"AIS, The Hong Kong University of Science and Technology"
+organization_1844,Multimodal Art Projection
+organization_1845,"Language Technology Lab, University of Cambridge"
+organization_1846,Image Derivative Inc
+organization_1847,Writer.com
+organization_1848,"University of North Carolina, Chapel Hill"
+organization_1849,Wuhan university
+organization_1850,Nankai International Advanced Research Institute (Shenzhen Futian)
+organization_1851,ARC Lab
+organization_1852,Playground Research
+organization_1853,ScaDS.AI
+organization_1854,Data61
+organization_1855,CSIRO’s
+organization_1856,Salesforce
+organization_1857,Leipzig University
+organization_1858,WorkdonewhileatGoogleDeepMind
+organization_1859,GoogleDeepMind
+organization_1860,"Institute for Advanced Computer Studies, University of Maryland, USA"
+organization_1861,"College of Information Science and Technology, Huazhong University of Science and Technology, China"
+organization_1862,"Center for Automation and Intelligence, Nanjing Tech University, China"
+organization_1863,"University of Maryland, USA"
+organization_1864,Moonshot AI
+organization_1865,"Center for Data Science, New York University"
+organization_1866,Univ Gustave Eiffel
+organization_1867,"Courant Institute, New York University"
+organization_1868,INRIA
+organization_1869,"CNRS, LIGM"
+organization_1870,University of Kaiserslautern
+organization_1871,DFKI GmbH
+organization_1872,TU Kaiserslautern
+organization_1873,CETINIA
+organization_1874,University of Rey Juan Carlos
+organization_1875,Spain
+organization_1876,ByteDance China
+organization_1877,@link.cuhk.edu.hk
+organization_1878,ra018
+organization_1879,dhlin
+organization_1880,g@ie.cuhk.edu.hk
+organization_1881,jzwang
+organization_1882,fhq016
+organization_1883,xy017
+organization_1884,CUHK-SenseTime Joint Lab
+organization_1885,CISPA Helmholtz Center for Information Security
+organization_1886,Alimama Tech
+organization_1887,Microsoft Azure
+organization_1888,"The Chinese University of Hong Kong, Shenzhen"
+organization_1889,"Bytedance, US"
+organization_1890,Philips Healthcare
+organization_1891,Eindhoven University of Technology
+organization_1892,King’s College London
+organization_1893,University of Missouri
+organization_1894,[Google] Intrinsic
+organization_1895,University College Cork
+organization_1896,ISCAS
+organization_1897,AI Institute
+organization_1898,Department of Computer Science and Engineering
+organization_1899,IBM Thomas J. Watson Research Center
+organization_1900,Computer Science Department
+organization_1901,Allen Institute for Brain Science
+organization_1902,Caduceus
+organization_1903,College of Electrical and Computer Engineering
+organization_1904,"Mila, Universit ´e de Montreal"
+organization_1905,"Institute for AI Industry Research, Tsinghua University"
+organization_1906,"CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences"
+organization_1907,Yahoo Research
+organization_1908,† indicates affiliations with multiple institutions
+organization_1909,"Sapienza University of Rome, Italy"
+organization_1910,Samsung
+organization_1911,University of Queensland
+organization_1912,NetEase Fuxi AI Lab
+organization_1913,OpenGVLab
+organization_1914,University of the Federal Armed Forces
+organization_1915,Department of Aerospace Engineering
+organization_1916,Institute of Mathematics and Applied Computing
+organization_1917,Pengcheng Laboratory
+organization_1918,"Westford, MA, USA"
+organization_1919,Nokia Bell Labs
+organization_1920,Qihoo 360
+organization_1921,panjianfeng@360.cn
+organization_1922,huangshaomang@360.cn
+organization_1923,Hanzhong Zheng∗
+organization_1924,Shaomang Huang
+organization_1925,Digital Security Group
+organization_1926,Concordia University
+organization_1927,"Institute for Quantum Computing, University of Waterloo"
+organization_1928,"Shenzhen SpinQ Technology Co., Ltd."
+organization_1929,"Department of Physics, Southern University of Science and Technology"
+organization_1930,"Department of Physics, Tsinghua University"
+organization_1931,"College of Physics and electronic Engineering & Center for Computational Sciences, Sichuan Normal University"
+organization_1932,"Department of Physics, The Hong Kong University of Science and Technology"
+organization_1933,UPS CNRS 3611 ISC-PIF
+organization_1934,UMR CNRS 8504 Géographie-cités
+organization_1935,Tsinghua Univerisity
+organization_1936,"Institute for AI Industry Research (AIR), Tsinghua University"
+organization_1937,Squirrel AI
+organization_1938,Notbad AI Inc
+organization_1939,www.unsplash.com
+organization_1940,WebSight
+organization_1941,Max Planck Institute for Informatics
+organization_1942,BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences
+organization_1943,"Foundation Model Research Center, Institute of Automation, Chinese Academy of Sciences"
+organization_1944,"Rennes, France"
+organization_1945,"INSA Rennes, INRIA/IRISA"
+organization_1946,"CNRS, INRIA/IRISA"
+organization_1947,"Department of Computer Science, Metropolitan College, Boston University"
+organization_1948,"School of Cyber Science and Technology, Shandong University"
+organization_1949,UNI-SMART
+organization_1950,DP Technology
+organization_1951,AI for Science Institute
+organization_1952,"The State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, China"
+organization_1953,"School of Computing, National University of Singapore, Singapore"
+organization_1954,ReLER Lab
+organization_1955,College of Information and Computing Sciences
+organization_1956,Alibaba Cloud
+organization_1957,NeuFlow Inc.
+organization_1958,SV3D
+organization_1959,3D Optimization
+organization_1960,"Kitware, Inc."
+organization_1961,LGM
+organization_1962,"Torr Vision Group, University of Oxford"
+organization_1963,OpenLRM
+organization_1964,CUHK-SenseTime Joint Laboratory
+organization_1965,Sensetime Research
+organization_1966,Centre for Perceptual and Interactive Intelligence
+organization_1967,Sakana AI
+organization_1968,"Tokyo, Japan"
+organization_1969,Czech Academy of Sciences
+organization_1970,Charles University
+organization_1971,"College of C.S., TMCC, SysNet, DISSec, GTIISC, Nankai University"
+organization_1972,Chongqing University
+organization_1973,East China University of Science and Technology
+organization_1974,MCML
+organization_1975,MetaSainbayar Sukhbaatar
+organization_1976,MetaZeyuan Allen-Zhu
+organization_1977,MetaJason Weston
+organization_1978,Avolution AI Shanghai AI Lab
+organization_1979,University of Mannheim
+organization_1980,"MoE Key Laboratory of Brain-inspired Intelligent Perception and Cognition, USTC"
+organization_1981,Huawei Cloud
+organization_1982,"Institute of Dataspace, Hefei Comprehensive National Science Center"
+organization_1983,PjLab
+organization_1984,Mohammed bin Zayed University of Artificial Intelligence
+organization_1985,Harmony.AI
+organization_1986,LCM -LoRA
+organization_1987,Skywork AI
+organization_1988,"SHI Labs @ Georgia Tech, Oregon & UIUC"
+organization_1989,Picsart AI Resarch (PAIR)
+organization_1990,"State Key Laboratory of Animal Nutrition and Feeding,\nChina Agricultural University,\nBeijing, China\nUniversity of Illinois at Urbana-Champaign,\nUrbana, Illinois\nAniEye Technology,\nHangzhou, Zhejiang, China"
+organization_1991,"Engineering Research Center of Intelligent Human Health Situation Awareness of Zhejiang Province,"
+organization_1992,"G60 STI Valley Industry & Innovation Institute, Jiaxing University"
+organization_1993,"Key Laboratory of Medical Electronics and Digital Health of Zhejiang Province,"
+organization_1994,Jiaxing University
+organization_1995,US
+organization_1996,ZJU-UIUC Institute
+organization_1997,"Stanford University, USA"
+organization_1998,National Institute of Advanced Industrial Science and Technology
+organization_1999,Institute of Science Tokyo
+organization_2000,HiDream.ai Inc.
+organization_2001,SenseTime Group
+organization_2002,Intel Corporation
+organization_2003,Ecole Polytechnique
+organization_2004,China Telecom Corporation Ltd. Data&AI Technology Company
+organization_2005,"School of Computer Science, Fudan University"
+organization_2006,PKU-agibot Lab
+organization_2007,Xiaohongshu Inc.
+organization_2008,Christopher D. Manning Stanford University
+organization_2009,DataBricks
+organization_2010,OPPO AI Center
+organization_2011,"Fraunhofer Heinrich Hertz Institute, HHI"
+organization_2012,Humboldt University of Berlin
+organization_2013,LY Corporation
+organization_2014,Tokyo University of Science
+organization_2015,University of Illinois at Chicago
+organization_2016,"University of Maryland, Baltimore County"
+organization_2017,Sungkyunkwan University
+organization_2018,Baidu Research
+organization_2019,CMU LTI
+organization_2020,Amazon AGI
+organization_2021,"CIS, LMU Munich"
+organization_2022,ModelBest.Inc
+organization_2023,University of Helsinki
+organization_2024,University of Turku
+organization_2025,Silo AI
+organization_2026,CSC – IT Center for Science
+organization_2027,University of Nottingham
+organization_2028,bulatko.github.io/depthart-pp/
+organization_2029,DepthAutoregressiveRefinementScale
+organization_2030,DepthART
+organization_2031,Project Leader
+organization_2032,DepthAutoregressiveTransformer
+organization_2033,North South University
+organization_2034,Metavatar
+organization_2035,Beijing U. of Posts and Telecoms
+organization_2036,U. of Chinese Academy of Sciences
+organization_2037,Siemens AG
+organization_2038,HuggingFace.co/datasets/bethgelab/let-it-wag
+organization_2039,GitHub.com/bethgelab/frequency_determines_performance
+organization_2040,SNU-LG AI Research Center
+organization_2041,"Dept. of ECE, Seoul National University"
+organization_2042,Kuaishou.Inc
+organization_2043,"University of T ¨ubingen, T ¨ubingen"
+organization_2044,Department of Electrical & Computer Engineering
+organization_2045,Department of Mathematics and Physics
+organization_2046,University of California Santa Cruz
+organization_2047,Dept. of Electrical and Computer Engineering
+organization_2048,INMC & IPAI
+organization_2049,Runway
+organization_2050,"Beijing Lumverse Technology Co., Ltd"
+organization_2051,Lumverse Research Institute
+organization_2052,"Faculty of Science and Technology, University of Macau"
+organization_2053,"Institute of Software, Chinese Academy of Sciences"
+organization_2054,Facebook CIFAR AI Chair
+organization_2055,Wroclaw Tech
+organization_2056,Dalle Molle Institute for Artificial Intelligence Research
+organization_2057,Nextremer Co. Ltd.
+organization_2058,Recursal AI
+organization_2059,Charm Therapeutics
+organization_2060,LuxiTech Co. Ltd.
+organization_2061,SynthLabs
+organization_2062,Ronsor Labs
+organization_2063,RWKV Project
+organization_2064,Tano Labs
+organization_2065,AI-Research.id
+organization_2066,Contextual AI
+organization_2067,CPII
+organization_2068,Ground Truth 3DGS Ours
+organization_2069,Meta Reality Labs Zurich
+organization_2070,Warburger Straße 100
+organization_2071,33098 Paderborn
+organization_2072,Institut füρ ω Mathematik
+organization_2073,Universität Paderborn
+organization_2074,MIT EECS
+organization_2075,MyShell.ai
+organization_2076,University of Arizona
+organization_2077,Technical University of Cluj-Napoca
+organization_2078,CPII of InnoHK
+organization_2079,"Department of Chemistry, University of California, Berkeley"
+organization_2080,Berkeley Center for Quantum Information and Computation
+organization_2081,"Extreme-Scale Data Science and Analytics, Sandia National Laboratories"
+organization_2082,"Department of Physics, University of California, Berkeley"
+organization_2083,Birla Institute of Technology and Science
+organization_2084,"Institute for Artificial Intelligence, Peking University"
+organization_2085,"National Key Laboratory of General Artificial Intelligence, BIGAI"
+organization_2086,Department of Statistics
+organization_2087,Institute for Computational and Mathematical Engineering
+organization_2088,Department of Electrical Engineering
+organization_2089,Siemens Mobility
+organization_2090,Microsoft Research New York
+organization_2091,T-Bank
+organization_2092,Baidu Corporation Ltd.
+organization_2093,ScribeDepth Input
+organization_2094,Large Image or Video Diffusion Model
+organization_2095,Human Pose
+organization_2096,Image Control+
+organization_2097,Multi -Condition Video Control
+organization_2098,Sparse Frame Video Control
+organization_2099,Condition-Controlled Image/Video
+organization_2100,Video Control
+organization_2101,Normal Map
+organization_2102,Small Image ControlNet
+organization_2103,"Singapore University of Technology and Design, Singapore"
+organization_2104,"Meta AI, US"
+organization_2105,"University of Michigan, USA"
+organization_2106,Lingnan University
+organization_2107,University of Missouri-Kansas City
+organization_2108,UTS
+organization_2109,Institute of Automation
+organization_2110,Tencent Robotics X
+organization_2111,"Guangxi Key Lab of Human-machine Interaction and Intelligent Decision, Nanning Normal University, Nanning, China"
+organization_2112,"College of Mathematics and Informatics, South China Agricultural University, Guangzhou, China"
+organization_2113,"Zhidayuan AI Lab, Nanning, China"
+organization_2114,"School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou, China"
+organization_2115,Center for Security and Emerging Technology
+organization_2116,LF AI & Data
+organization_2117,Nike
+organization_2118,Commn Ground
+organization_2119,"FAIR, Meta"
+organization_2120,DFKI & Hessian.AI
+organization_2121,"Qualcomm Technologies, Inc."
+organization_2122,Coactive AI
+organization_2123,Digital Safety Research Institute
+organization_2124,Consumer Reports
+organization_2125,Ethriva
+organization_2126,Public Authority for Applied Education and Training of Kuwait
+organization_2127,Nebius AI
+organization_2128,Project Humanit.ai
+organization_2129,Nutanix
+organization_2130,RAND
+organization_2131,Illinois Institute of Technology
+organization_2132,Credo AI
+organization_2133,Vijil
+organization_2134,UCSB
+organization_2135,TU Eindhoven
+organization_2136,IIT Delhi
+organization_2137,Dotphoton
+organization_2138,SaferAI
+organization_2139,Reins AI
+organization_2140,Context Fund
+organization_2141,Juniper Networks
+organization_2142,Wright State University
+organization_2143,Kno.e.sis Research Center
+organization_2144,Singapore
+organization_2145,"Singapore University of Technology and Design,"
+organization_2146,"DAMO Academy, Alibaba Group,"
+organization_2147,"DAMO Academy Alibaba Group,"
+organization_2148,"Nanyang Technological University,"
+organization_2149,Inria Lille
+organization_2150,University of Lille
+organization_2151,Argonne National Laboratory
+organization_2152,University Hospital Bonn
+organization_2153,"Key Laboratory of Shanghai Education Commission for Intelligent Interaction and Cognitive Engineering, Shanghai Jiao Tong University"
+organization_2154,Leyan Tech
+organization_2155,"Department of Computer Science and Engineering, Shanghai Jiao Tong University"
+organization_2156,"Graz, Austria"
+organization_2157,Know-Center GmbH
+organization_2158,"Meta Platforms, Inc., USA"
+organization_2159,"Duke University, Durham, USA"
+organization_2160,Niantic
+organization_2161,Sharif University of Technology
+organization_2162,Okinawa Institute of Science and Technology
+organization_2163,Department of Astronomy and Space Physics
+organization_2164,Oxford Astrophysics
+organization_2165,European Southern Observatory
+organization_2166,"Instituut voor Sterrenkunde, KULeuven"
+organization_2167,Gemini Observatory
+organization_2168,Microsoft Research & GenAI
+organization_2169,CCAZUIJINANGLU
+organization_2170,Lanzhou University
+organization_2171,Coherence Inc.
+organization_2172,South China University of Technology.
+organization_2173,Mohamed bin Zayed University of Artificial Intelligence.
+organization_2174,"Institutes for Robotics and Intelligent Manufacturing, Chinese Academy of Sciences."
+organization_2175,University of Chinese Academy of Sciences.
+organization_2176,"State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences."
+organization_2177,"Deemos Technology Co., Ltd., China"
+organization_2178,"NeuDim Technology Co., Ltd., China"
+organization_2179,Nexa AI
+organization_2180,"Key Laboratory of Universal Wireless Communications, Ministry of Education, Beijing University of Posts and Telecommunications"
+organization_2181,Beijing Union University
+organization_2182,Laboratory for Atomistic and Molecular Mechanics (LAMM)
+organization_2183,Schmarzman College of Computing
+organization_2184,Center for Computational Science and Engineering
+organization_2185,Istanbul Technical University
+organization_2186,AWS Bedrock Science
+organization_2187,"Correspondence: zhuotong@amazon.com, yanjunqi@amazon.com"
+organization_2188,"Institute of AI (TeleAI), China Telecom"
+organization_2189,"AIR, Tsinghua University"
+organization_2190,"EVOL Lab, Institute of AI (TeleAI), China Telecom"
+organization_2191,China University of Mining and Technology (CUHK) (SZ)
+organization_2192,China Telecom
+organization_2193,Suning
+organization_2194,Springer Nature
+organization_2195,University of Illinois Chicago
+organization_2196,LoRA Land
+organization_2197,"Piero Molina, Travis Addair, Devvret Rishi"
+organization_2198,"Wael Abid, Geoffrey Angus, Arnav Garg, Jeffery Kinnison, Alex Sherstinsky ,"
+organization_2199,310 Fine-tuned LLMs that
+organization_2200,"Justin Zhao, Timothy Wang"
+organization_2201,Predibase
+organization_2202,Tampere University
+organization_2203,"Audio Research Group, Tampere University"
+organization_2204,"ARC Lab, Tencent PCK"
+organization_2205,"Key Laboratory of System and Control, AMSS, Chinese Academy of Sciences"
+organization_2206,North Carolina State University
+organization_2207,"School of Information Science and Engineering, Shandong University"
+organization_2208,Daais
+organization_2209,Sony CSL
+organization_2210,Luca Cosmo
+organization_2211,Ca’ Foscari University of Venice
+organization_2212,The University of Illinois Urbana-Champaign
+organization_2213,Databricks Mosaic Research
+organization_2214,CIFAR
+organization_2215,Flatiron Institute
+organization_2216,"Flatiron Institute, Université Paris-Saclay, Université Paris Cité, CEA, CNRS, AIM"
+organization_2217,University of Colorado Boulder
+organization_2218,"School of AI and Advanced Computing, Xi’an Jiaotou-Liverpool"
+organization_2219,College of Computing and Informatics
+organization_2220,Center for Drug Evaluation and Research
+organization_2221,United States Food and Drug Administration
+organization_2222,School of Biomedical Engineering
+organization_2223,Office of Research and Standards
+organization_2224,Science and Health Systems
+organization_2225,Netease Fuxi AI Lab
+organization_2226,Lomonosov Moscow State University
+organization_2227,SberAI
+organization_2228,yongliu@iipc.zju.edu.cn
+organization_2229,VIVO
+organization_2230,IIPC@zju.edu.cn
+organization_2231,Tobias Hinz
+organization_2232,Richard Zhang
+organization_2233,Nicholas Kolkin
+organization_2234,Wells Fargo International Solutions Private Limited
+organization_2235,DeepSeek
+organization_2236,Peking University Shenzhen Graduate School-Rabbitpre AIGC Joint Research Laboratory
+organization_2237,Disney Research|Studios
+organization_2238,Iowa State University
+organization_2239,"{zhaof,pangtt,lich,guojj,xsy}@smail.nju.edu.cn, {wuz,daixinyu}@nju.edu.cn"
+organization_2240,National Key Laboratory for Novel Software Technology
+organization_2241,Sony Group Corporation
+organization_2242,"Fundamental AI Research (FAIR), Meta"
+organization_2243,Zhou Zhao
+organization_2244,Rongjie Huang
+organization_2245,Heng Lu
+organization_2246,Huadai Liu
+organization_2247,Jialei Wang
+organization_2248,University of Oulu
+organization_2249,Lappeenranta-Lahti University of Technology
+organization_2250,Idiap Research Institute
+organization_2251,Boe Technology Group
+organization_2252,HongKong University of Science and Technology
+organization_2253,The Robotics Institute
+organization_2254,University of Hong Kong (HKU)
+organization_2255,HuaiGuo Institute of Tech (CraftsMan)
+organization_2256,LightIllusions
+organization_2257,"Connect, HKU"
+organization_2258,"Zhili College, Tsinghua University"
+organization_2259,Zyphra
+organization_2260,xuchenfeng@berkeley.edu
+organization_2261,jeffliang@utexas.edu
+organization_2262,dianam@utexas.edu
+organization_2263,akio.kodaira@berkeley.edu
+organization_2264,"Tsinghua University, Department of Automation, Beijing, China"
+organization_2265,"Tsinghua University, China"
+organization_2266,"ShengShu3College of Electronic and Information Engineering, Tongji University"
+organization_2267,"Department of Computer Science and Technology, BNRist Center, Tsing_University"
+organization_2268,"Research Center for Nuclear Physics, Osaka University, Ibaraki 567-0047, Japan"
+organization_2269,"Institut f黵 Theoretische Physik, J.W. Goethe-Universit鋞, D-60438 Frankfurt am Main, Germany"
+organization_2270,Music X Lab
+organization_2271,IEIT Systems
+organization_2272,University of California Los Angeles
+organization_2273,Harvey Nash
+organization_2274,"Applied Physics Lab, Johns Hopkins University"
+organization_2275,1. FAIR at Meta
+organization_2276,4. University of Chicago
+organization_2277,3. Carnegie Mellon University
+organization_2278,2. University of Waterloo
+organization_2279,"YouTu Lab, Tencent, Shenzhen, China"
+organization_2280,International Digital Economy Academy (IDEA Research)
+organization_2281,"The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)"
+organization_2282,University of Augsburg
+organization_2283,Institute of Physics
+organization_2284,"Key Laboratory of High Confidence Software Technologies (Peking University), Ministry of Education"
+organization_2285,DatologyAI
+organization_2286,Databricks
+organization_2287,Harbin Engineering University
+organization_2288,"Beijing Unisound Information Technology Co., Ltd"
+organization_2289,FLAIR
+organization_2290,Hacker News
+organization_2291,Samsung – SAIT AI Lab
+organization_2292,Samuli Laine
+organization_2293,University of Virginia Tech
+organization_2294,Microsoft Corp
+organization_2295,"College of Software, Zhejiang University"
+organization_2296,Tencent Data Platform
+organization_2297,FABU Inc.
+organization_2298,"State Key Laboratory of Communication Content Cognition, People’s Daily Online"
+organization_2299,"The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems, Beijing National Research Center for Information Science and Technology, Tsinghua University"
+organization_2300,"Key Laboratory of Marine Intelligent Equipment and System, Ministry of Education"
+organization_2301,"School of Mathematical Sciences, Shanghai Jiao Tong University"
+organization_2302,"Institute of Natural Sciences, MOE-LSC, Shanghai Jiao Tong University"
+organization_2303,Panasonic R&D Center Germany
+organization_2304,Panasonic R&D Center Singapore
+organization_2305,HarvardPaulsonSEAS
+organization_2306,LancasterUniversity
+organization_2307,MPIforInformatics
+organization_2308,"Institute for AI Industry Research (AIR), Tsinghua University, Beijing, China"
+organization_2309,University Of Reading
+organization_2310,Icahn School of Medicine at Mount Sinai
+organization_2311,"IBM Research, T.J. Watson Research Center"
+organization_2312,James J. Peters V A Medical Center
+organization_2313,Unaffiliated
+organization_2314,Beijing Academy of Blockchain and Edge Computing
+organization_2315,"Beijing Advanced Innovation Center for Future Blockchain and Privacy Computing, Institute of Artificial Intelligence, Beihang University"
+organization_2316,TiTok
+organization_2317,VQGAN
+organization_2318,Technical University Munich
+organization_2319,Image Reconstruction
+organization_2320,Sydney.edu.auWanli.ouyang
+organization_2321,Pjlab.org.cnDongzhan
+organization_2322,Pjlab.org.cnYuqiang
+organization_2323,Ustc.eduXiaoshuihuang2019@gmail.com
+organization_2324,"Cornell Tech, NYC, USA."
+organization_2325,"Google Research, Brain Team"
+organization_2326,MoyieBCrailway
+organization_2327,The Tike Brotherhood
+organization_2328,Deluxe Twin Room
+organization_2329,EldoraSpeedway(OH)
+organization_2330,JHU
+organization_2331,DataComp-1B
+organization_2332,"Department of Computer Science and Technology, Tsinghua University"
+organization_2333,"Institute of Parallel and Distributed Systems (IPADS), Shanghai Jiao Tong University"
+organization_2334,"FLAIR, University of Oxford"
+organization_2335,Universit ´e de Montr ´eal
+organization_2336,HISTAI
+organization_2337,HistAI
+organization_2338,"Eastern Institute of Technology, Ningbo"
+organization_2339,"Sorbonne Université, Paris, France"
+organization_2340,"Institut du développement et des ressources en informatique scientifique, CNRS"
+organization_2341,Common Crawl Foundation
+organization_2342,"Département d’informatique de l’ENS, CNRS, PSL Research University"
+organization_2343,"Linfeng Zhang1,2, Guolin Ke1, Weinan E2,3,4"
+organization_2344,"AI for Science Institute, Beijing 100080, China."
+organization_2345,Scale
+organization_2346,"{jixh, wangz, gaozf, zhengh, zhanglf, kegl}@dp.tech"
+organization_2347,"School of Mathematical Sciences, Peking University, Beijing 100871, China."
+organization_2348,weinan@math.pku.edu.cn
+organization_2349,"DP Technology, Beijing 100080, China."
+organization_2350,Uni-Mol2: Exploring Molecular Pretraining Model at
+organization_2351,"Xiaohong Ji1∗, Zhen Wang1∗, Zhifeng Gao1∗, Hang Zheng1"
+organization_2352,"Center for Machine Learning Research, Peking University, Beijing 100084, China."
+organization_2353,Kuaishou Inc.
+organization_2354,Jožef Stefan Institute
+organization_2355,Jožef Stefan International Postgraduate School
+organization_2356,WHU
+organization_2357,University of Bath
+organization_2358,Works Applications Lab
+organization_2359,Universitas Diponegoro
+organization_2360,"RevComm, Inc."
+organization_2361,NUS
+organization_2362,AI Singapore
+organization_2363,MOHT
+organization_2364,Prosa.ai
+organization_2365,Bering Lab
+organization_2366,Independent Design Engineer
+organization_2367,IndoNLP
+organization_2368,Universitas Gadjeng Mada
+organization_2369,NAIST
+organization_2370,Universitas Indonesia
+organization_2371,National University Philippines
+organization_2372,Institut Teknologi Bandung
+organization_2373,Samsung Research Philippines
+organization_2374,Capital One
+organization_2375,The University of Kong Kong
+organization_2376,tnaka@google.com
+organization_2377,"kevinmzy@gmail.com,"
+organization_2378,Microsoft Gen AI
+organization_2379,"IIIT-Delhi,"
+organization_2380,"Adobe Media and Data Science Research,"
+organization_2381,"BITS Pilani, Goa"
+organization_2382,"State University of New York at Buffalo,"
+organization_2383,"Imperial College London, UK"
+organization_2384,"University of Surrey, UK"
+organization_2385,DeepSig Inc.
+organization_2386,Amazon GenAI
+organization_2387,Society of Women Engineers
+organization_2388,Aula Fellowship for AI
+organization_2389,Innohk
+organization_2390,CIFAR Azrieli Global Scholar
+organization_2391,KT
+organization_2392,"{yg.seo, yoonseok.heo, js.koh, dschang }@kt.com"
+organization_2393,AUDI AG
+organization_2394,Politecnico di Torino
+organization_2395,Minil.AI
+organization_2396,CPII under Innohk
+organization_2397,Senior Authors
+organization_2398,"Adobe, USA"
+organization_2399,PixelLLM
+organization_2400,Maitrix.org
+organization_2401,Air Mail and Cartoon Collections
+organization_2402,"OXCASV , University of Oxford"
+organization_2403,UniVie Doctoral School Computer Science
+organization_2404,University of Vienna
+organization_2405,Research Network Data Science
+organization_2406,"Sea AI Lab, Singapore"
+organization_2407,Bytedance AI Lab
+organization_2408,FPT Software AI Center
+organization_2409,Fulbright University
+organization_2410,Mila – Québec Artificial Intelligence Institute
+organization_2411,Autodesk
+organization_2412,RepLiQA2
+organization_2413,RepLiQA0*
+organization_2414,ServiceNow
+organization_2415,RepLiQA4
+organization_2416,RepLiQA3
+organization_2417,Core contributors
+organization_2418,RepLiQA1
+organization_2419,Indian Institute of Technology Kharagpur
+organization_2420,"Microsoft IDC, India"
+organization_2421,"Indian Institute of Technology Kharagpur, India"
+organization_2422,Florida State University
+organization_2423,"Blavatnik School of Computer Science, Tel Aviv University"
+organization_2424,Maastricht University
+organization_2425,Universitat Pompeu Fabra
+organization_2426,Mass General Brigham
+organization_2427,Beth Israel Deaconess Medical Center
+organization_2428,SqueezeBits Inc.
+organization_2429,"WeChat, Tencent Inc."
+organization_2430,Rochester Institute of Technology
+organization_2431,Fatima Fellowship
+organization_2432,"AI Institute, University of South Carolina"
+organization_2433,JetBrains Research
+organization_2434,"Gemini [Team et al., 2023]"
+organization_2435,Tabnine
+organization_2436,"Codex [Chen et al., 2021]"
+organization_2437,Sourcegraph
+organization_2438,"International Digital Economy Academy (IDEA), China"
+organization_2439,"The CoAI Group, DCST, Institute for Artificial Intelligence, State Key Lab of Intelligent Technology and Systems,"
+organization_2440,"Beijing National Research Center for Information Science and Technology, Tsinghua University"
+organization_2441,China Telecom Guizhou Branch
+organization_2442,Nanjing University of Posts and Telecommunications
+organization_2443,"KIT, Karlsruhe"
+organization_2444,Samsung R&D Institute UK
+organization_2445,5. Independent Researcher
+organization_2446,3. Tsinghua University
+organization_2447,1. Waseda University
+organization_2448,4. Hugging Face
+organization_2449,OneLineAI
+organization_2450,INRIA Paris
+organization_2451,University of Milan
+organization_2452,University of Hawaii
+organization_2453,Dietrich Klakow6
+organization_2454,CENIA
+organization_2455,Pontificia Universidad Católica de Chile
+organization_2456,Mor Geva6
+organization_2457,"Institutskiy pereulok, 9, Dolgoprudny, 141701, Russia"
+organization_2458,"4B 08, Kutuzovsky prospect 32 build. 1, Moscow, 121170, Russia"
+organization_2459,Moments Lab Research
+organization_2460,"Boulogne-Billancourt, France"
+organization_2461,Infineon Technologies
+organization_2462,"Academy for Engineering & Technology, Fudan University"
+organization_2463,Shanghai Key Lab of Medical Image Computing and Computer Assisted Intervention
+organization_2464,Artbreeder
+organization_2465,Kai Wang
+organization_2466,Haonan Chen
+organization_2467,Ziyan Jiang
+organization_2468,Abhranil Chandra
+organization_2469,Yaswanth Narsupalli
+organization_2470,Yuansheng Ni
+organization_2471,Bill Yuchen Lin
+organization_2472,AI2
+organization_2473,Sherman Siu
+organization_2474,Stardust.AI
+organization_2475,Achint Soni
+organization_2476,Quy Duc Do
+organization_2477,Zhiheng Lyu
+organization_2478,Bohan Lyu
+organization_2479,Wenhu Chen
+organization_2480,Rongqi Fan
+organization_2481,Agustinus Kristiadi∗
+organization_2482,Pascal Poupart∗
+organization_2483,University of Potsdam
+organization_2484,TAMU
+organization_2485,Pico
+organization_2486,University of Pisa
+organization_2487,"Department of Electrical Engineering, University of British Columbia"
+organization_2488,"Department of Gynecology and Obstetrics, University of British Columbia"
+organization_2489,"Deeley Research Centre, BC Cancer Agency"
+organization_2490,"University of Illinois, Chicago"
+organization_2491,Universität Hamburg
+organization_2492,MIPT
+organization_2493,IIITH
+organization_2494,Machine Learning Lab
+organization_2495,International Institute of Information Technology (IIITH)
+organization_2496,"Stanford University, Amazon GenAI"
+organization_2497,"UC Berkeley, Amazon"
+organization_2498,"Institute of Information Engineering, CAS"
+organization_2499,"School of Cyber Security, UCAS"
+organization_2500,XinHua College
+organization_2501,Guangdong Key Laboratory of Information Security Technology
+organization_2502,Daegu Gyeongbuk Institute of Science and Technology
+organization_2503,Amazon Research
+organization_2504,SUTD
+organization_2505,State Key Laboratory of General Artificial Intelligence
+organization_2506,Beijing Institute for General Artificial Intelligence
+organization_2507,TapTap
+organization_2508,OpenNLPLab
+organization_2509,KTHYEON
+organization_2510,KAISTAI
+organization_2511,Multilingual-SpecBench
+organization_2512,KTCOM
+organization_2513,"NLP Group, DCST, IAI, BNRIST, Tsinghua University"
+organization_2514,University of Sheffield
+organization_2515,"The Conversational Artificial Intelligence (CoAI) Group, Tsinghua University"
+organization_2516,"The Knowledge Engineering Group (KEG), Tsinghua University"
+organization_2517,Lancaster University
+organization_2518,Netease
+organization_2519,Cisco Research
+organization_2520,City University of Hong Kong - Shenzhen
+organization_2521,"Salesforce AI Research, USA"
+organization_2522,Bhilai Institute Of Technology
+organization_2523,Indian Institute of Information Technology
+organization_2524,"Linz Institute of Technology, AI Lab"
+organization_2525,SNU
+organization_2526,Shenzhen Institute of Advanced Technology
+organization_2527,Department of Psychology and Computer Science
+organization_2528,"CLCG, University of Groningen"
+organization_2529,University of Milano-Bicocca
+organization_2530,Westlake University.
+organization_2531,Samsung Medical Center
+organization_2532,AIWaves Inc.
+organization_2533,"National Engineering Research Center for Software Engineering, Peking University,"
+organization_2534,"Key Laboratory of High Confidence Software Technologies, Ministry of Education,"
+organization_2535,"School of Computer Science, Peking University,"
+organization_2536,University of Passau College of Passau
+organization_2537,"Department of Computer Science and Technology, BNRist;"
+organization_2538,"KIRC, Institute for Artificial Intelligence,"
+organization_2539,Center for Cybersecurity Systems & Networks
+organization_2540,Ben-Gurion University
+organization_2541,Amrita Viswha Vidyapeetham
+organization_2542,"The Hebrew University of Jerusalem, Israel"
+organization_2543,Infinigence-AI
+organization_2544,"Nanjing University, China"
+organization_2545,"Hong Kong University of Science and Technology, China"
+organization_2546,"Purdue University, USA"
+organization_2547,Cybever
+organization_2548,eBay Inc.
+organization_2549,"Key Laboratory of Machine Perception (Ministry of Education), Peking University"
+organization_2550,PKU-WUHAN Institute for Artificial Intelligence
+organization_2551,"National Key Laboratory of General Artificial Intelligence, Peking University"
+organization_2552,"National Institute of Health Data Science, Peking University"
+organization_2553,"Institute of Medical Technology, Health Science Center of Peking University"
+organization_2554,"School of Intelligence Science and Technology, Peking University"
+organization_2555,"School of Artificial Intelligence, Beijing University of Posts and Telecommunications"
+organization_2556,"Gaoling School of Artificial Intelligence, Renmin University of China."
+organization_2557,Alexandria University
+organization_2558,Egypt-Japan University of Science and Technology
+organization_2559,Mansoura University
+organization_2560,The University of Manchester
+organization_2561,"Mila, Québec AI Institute"
+organization_2562,Tencent AI Lab Seattle
+organization_2563,Shenzhen Research Institute of Big Data
+organization_2564,National Health Data Institute
+organization_2565,Huawei Inc.
+organization_2566,"School of CS, Huazhong University of Science and Technology"
+organization_2567,"MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University"
+organization_2568,Facebook
+organization_2569,University of Georgia
+organization_2570,Mayo Clinic
+organization_2571,"Shanghai United Imaging Intelligence Co., Ltd."
+organization_2572,Shanghai Clinical Research and Trial Center
+organization_2573,University of Texas at Arlington
+organization_2574,Second Xiangya Hospital
+organization_2575,IFM Lab
+organization_2576,Center for Robotics and Neural Systems
+organization_2577,Laboratory of Intelligent Systems
+organization_2578,SMU
+organization_2579,RealAI5Pazhou Lab (Huangpu)
+organization_2580,"Institute of Artificial Intelligence, Beihang University"
+organization_2581,Multimedia Laboratory (MMLab)
+organization_2582,California Institute of Technology
+organization_2583,"Yuanpei College, Peking University"
+organization_2584,Honda Research Institute Europe
+organization_2585,Toyota Technological Institute at Chicago (repeated)
+organization_2586,"University of Siena, Italy"
+organization_2587,"expert.ai, Siena, Italy"
+organization_2588,Dell Technologies
+organization_2589,Northwestern Journal of Technology and Intellectual Property
+organization_2590,University of Groningen
+organization_2591,"Federal University of Uberlandia, Brazil"
+organization_2592,VMware Research
+organization_2593,Platform and Content Group
+organization_2594,Pika Labs
+organization_2595,"Chinese University of Hong Kong, Shenzhen"
+organization_2596,ICME
+organization_2597,Department of Biomedical Data Science
+organization_2598,DisneyResearch|Studios
+organization_2599,Tokyo Metropolitan University
+organization_2600,Nanjing Enbo Tech.
+organization_2601,London Institute for Mathematical Sciences
+organization_2602,"York University, Canada"
+organization_2603,MILA - Quebec AI Institute
+organization_2604,NLP Lab
+organization_2605,IC
+organization_2606,ESSEC
+organization_2607,Illinois Tech
+organization_2608,NIMH Intramural Program
+organization_2609,Institute of Software Chinese Academy of Sciences
+organization_2610,Ethan Chern *Jiadi Su *Yan Ma *Pengfei Liu†
+organization_2611,GenerativeAIResearch
+organization_2612,Models for Interleaved Image-Text Generation
+organization_2613,"ANOLE : An Open, Autoregressive, Native Large Multimodal"
+organization_2614,Snorkel AI
+organization_2615,Ruhr-Universität Bochum
+organization_2616,NLX—Natural Language and Speech Group
+organization_2617,Faculdade de Ciências (FCUL)
+organization_2618,University of Lisbon
+organization_2619,Université de Toulouse
+organization_2620,"School of Computer Science, Peking University, Beijing, China"
+organization_2621,HKGAI under InnoHK
+organization_2622,"MMLab, The Chinese University of Hong Kong"
+organization_2623,DICTA
+organization_2624,Bayer A.G.
+organization_2625,The Institute for AI of Serbia
+organization_2626,JPMorgan AI Research
+organization_2627,"Southeast University, China"
+organization_2628,"Wuhan University, China"
+organization_2629,"Center for Brains, Minds and Machines"
+organization_2630,Institute for Advanced Study
+organization_2631,Laboratory of Neurogenetics and Behavior
+organization_2632,"Baltimore, MD, USA"
+organization_2633,"College Park, MD, USA"
+organization_2634,Ireland’s Centre for Applied Artificial Intelligence
+organization_2635,Insight Centre for Data Analytics
+organization_2636,CeADAR: Ireland’s Centre for Applied Artificial Intelligence
+organization_2637,"Department of Biosciences, Swansea University, Swansea, UK"
+organization_2638,"Department of Mathematics, Uppsala University, Uppsala, Sweden"
+organization_2639,"Department of Mathematics and Statistics, Carleton College, MN, USA"
+organization_2640,Duke Kunshan University
+organization_2641,Xidian University
+organization_2642,PricewaterhouseCoopers
+organization_2643,Google Research†
+organization_2644,Datadoghq.com
+organization_2645,Hadi Pournansari∗
+organization_2646,Oncel Tuzel
+organization_2647,"Department of Automation, BNRist, Tsinghua University"
+organization_2648,"{wang-hq23, le-y22}@mails.tsinghua.edu.cn"
+organization_2649,gaohuang@tsinghua.edu.cn
+organization_2650,New York University Tandon
+organization_2651,Flinders University
+organization_2652,UCLouvain
+organization_2653,Emergence AI
+organization_2654,"Institute of Science Tokyo, Japan"
+organization_2655,"Sakana AI, Japan"
+organization_2656,NAVER WEBTOON AI
+organization_2657,"INESC-ID, Instituto Superior Tecnico"
+organization_2658,Microsoft Research NYC
+organization_2659,Paciﬁc Northwest National Laboratory
+organization_2660,Department of Industrial and Systems Engineering
+organization_2661,Yokohama National University
+organization_2662,"Chengdu Institute of Computer Applications, Chinese Academy of Sciences"
+organization_2663,University of Tsukuba
+organization_2664,Pusan National University
+organization_2665,Shenzhen University of Advanced Technology
+organization_2666,nlpr.ia.ac.cn
+organization_2667,"State Key Laboratory of General Artificial Intelligence, Peking University"
+organization_2668,"Guangdong Laboratory of Machine Perception and Intelligent Computing, Shenzhen MSU-BIT University"
+organization_2669,"Department of Electrical and Computer System Engineering, Monash University"
+organization_2670,YouTube-SL-25
+organization_2671,The University of HongKong
+organization_2672,Huawei Cloud BU
+organization_2673,"Huawei Cloud BU (corporate name spans multiple lines, treated as single entry)"
+organization_2674,NAVER Corp.
+organization_2675,Dalle Molle Institute for Artificial Intelligence
+organization_2676,Recusal AI
+organization_2677,"University of Illinois, Urbana-Champaign"
+organization_2678,"University of Wisconsin, Madison"
+organization_2679,"Huawei Noah’s Ark Lab, Beijing, China"
+organization_2680,"Huawei Noah’s Ark Lab, Montréal, Canada"
+organization_2681,Mila - Québec AI Institute
+organization_2682,Kyutai
+organization_2683,IRCAM - Sorbonne Université
+organization_2684,Boston Dynamics AI Institute
+organization_2685,Yangfan Zhou
+organization_2686,AUITestAgent: Automatic Requirements Oriented GUI Function Testing
+organization_2687,Xin Wang
+organization_2688,"Shanghai, China"
+organization_2689,Shanghai Key Laboratory of Intelligent Information Processing
+organization_2690,RIKEN Center for Advanced Intelligence Project
+organization_2691,"TMLR Group, Hong Kong Baptist University"
+organization_2692,"Sydney AI Center, The University of Sydney"
+organization_2693,Ubisoft La Forge
+organization_2694,Penn State University
+organization_2695,IBM
+organization_2696,Gordon Wetzstein*
+organization_2697,Univ. Lille
+organization_2698,Centrale Lille
+organization_2699,Text Analysis and Knowledge Engineering Lab
+organization_2700,University of Zagreb
+organization_2701,Cambricon Technologies
+organization_2702,CAS
+organization_2703,MIT-IBM
+organization_2704,"Faculty of Computer Science, University of Vienna"
+organization_2705,"Center for Artificial Intelligence and Data Science, University of Würzburg"
+organization_2706,"Department of Chinese and Bilingual Studies, The Hong Kong Polytechnic University, Hong Kong, China"
+organization_2707,"School of Languages, Literatures, Cultures and Linguistics, Monash University, Melbourne, Australia"
+organization_2708,"School of Foreign Languages, Southeast University, Nanjing, China"
+organization_2709,vargpt-1.github.io/
+organization_2710,SECE of Peking University
+organization_2711,"Reichman University1, AWS AI Labs2"
+organization_2712,Manmatha2
+organization_2713,"Ofir Abramovich1*, Niv Nayman2†, Sharon Fogel*, Inbal Lavi*, Ron Litman2,"
+organization_2714,OCR-Free Dense Document Understanding
+organization_2715,VisFocus: Prompt-Guided Vision Encoders for
+organization_2716,"Shahar Tsiper2, Royee Tichauer2, Srikar Appalaraju2, Shai Mazor2, and R."
+organization_2717,The NSF AI Institute for Artificial Intelligence and Fundamental Interactions
+organization_2718,University of the West of England
+organization_2719,High School of Mathematics Plovdiv
+organization_2720,"Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, UK"
+organization_2721,"Electrical and Electronics Engineering, ˙Izmir Katip C ¸ elebi University, T ¨urkiye"
+organization_2722,Univ. Rennes
+organization_2723,Inria\
+organization_2724,Huawei Ireland Research Center
+organization_2725,"National University of Singapore, NUS-NCS Joint Lab, Singapore"
+organization_2726,The University of Michigan
+organization_2727,"Institute for Mathematics, Image and Pattern Analysis Group, Heidelberg University, Germany"
+organization_2728,Boston Children’s Hospital
+organization_2729,KAIST*
+organization_2730,University Of Montreal
+organization_2731,Toyota Technological Institute
+organization_2732,"College of Computer Science and Technology, Ocean University of China"
+organization_2733,"College of Computer Science and Engineering, Shandong University of Science and Technology"
+organization_2734,TU-Graz
+organization_2735,Unimore
+organization_2736,"Chair of Transportation Systems Engineering, Technical University of Munich, Munich, Germany"
+organization_2737,"Laboratory for Information & Decision Systems, Massachusetts Institute of Technology, Cambridge, United States"
+organization_2738,Hongxu Yin
+organization_2739,Song Han
+organization_2740,NEC Laboratories America
+organization_2741,GE Healthcare
+organization_2742,Qianyuan Institute of Sciences
+organization_2743,Swiss Federal Institute of Technology Lausanne (EPFL)
+organization_2744,Mohamed bin Zayed University of Artiﬁcial Intelligence
+organization_2745,Department of Data Science and Artificial Intelligence
+organization_2746,Department of Applied Mathematics
+organization_2747,"MMLab, CUHKLiang Liu"
+organization_2748,AMEX
+organization_2749,Peng Gao
+organization_2750,vivo AI Lab
+organization_2751,Hongsheng Li
+organization_2752,Indiana University Indianapolis
+organization_2753,Huanggang Central Hospital
+organization_2754,ÖREBRO University
+organization_2755,University-Khadoorie
+organization_2756,Birzeit University
+organization_2757,Palestine Technical
+organization_2758,7amleh Center
+organization_2759,Sina at FigNews 2024
+organization_2760,"The University of Queensland, Australia"
+organization_2761,The AI Institute
+organization_2762,Nanjing Audit University
+organization_2763,University of Shanghai for Science and Technology
+organization_2764,Institute of High Performance Computing
+organization_2765,Ikea Institute
+organization_2766,"WeChat AI, Tencent"
+organization_2767,"Department of Informatics, University of Hamburg, Hamburg, Germany"
+organization_2768,"School of Computing, National University of Singapore"
+organization_2769,"Institute for AI, Tsinghua University"
+organization_2770,Guangzhou University
+organization_2771,Harbin Institute of Technology (Shenzhen)
+organization_2772,Hong Kong University of Science and Technology (Guangzhou)
+organization_2773,Mohammed Sabry
+organization_2774,mohammed.khalil.mah@gmail.com
+organization_2775,Mohammed Khalil
+organization_2776,ATHAR: A High-Quality and Diverse Dataset for Classical Arabic to English Translation
+organization_2777,mohammed.sabry@adaptcentre.ie
+organization_2778,"ADAPT/DCU, Dublin, Ireland"
+organization_2779,State Key Laboratory of Internet of Things for Smart City
+organization_2780,Kaunas University of Technology
+organization_2781,United Kindom
+organization_2782,Institute for Speech and Language Processing
+organization_2783,Athena Research Center
+organization_2784,IBM Research Brazil
+organization_2785,"London, UK"
+organization_2786,"vivo Mobile Communication Co., Ltd"
+organization_2787,IRIF
+organization_2788,"Dept. of Computer Science, Cournt Institute, NYU"
+organization_2789,Gemma Institute
+organization_2790,Team
+organization_2791,University of the Basque Country UPV/EHU
+organization_2792,Hornetsecurity
+organization_2793,Berkeley University
+organization_2794,Isaac Lab
+organization_2795,University of Western Australia
+organization_2796,"NaCTeM, University of Manchester"
+organization_2797,"Artiﬁcial Intelligence Research Center (AIRC), AIST"
+organization_2798,Amazon Web Services Shanghai AI Lab
+organization_2799,GE HealthCare
+organization_2800,Qualcomm
+organization_2801,VMware
+organization_2802,Oracle
+organization_2803,UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model
+organization_2804,"SenseTime Research, China"
+organization_2805,"Xiangyu Fan , Jiaqi Li , Zhiqian Lin , Weiye Xiao , and Lei YangB"
+organization_2806,Center for Language and Cognition (CLCG)
+organization_2807,LINE Corporation
+organization_2808,LINE Works Corporation
+organization_2809,Nara Institute of Science and Technology
+organization_2810,"Robotics and Internet-of-Things Lab,"
+organization_2811,Prince Sultan University
+organization_2812,"Shanghai United Imaging Healthcare Advanced Technology Research Institute Co., Ltd."
+organization_2813,School of Software Engineering
+organization_2814,Institute for Quantum Computing
+organization_2815,David R. Cheriton School of Computer Science
+organization_2816,Kumo.AI
+organization_2817,"UMass, Amherst"
+organization_2818,"Nara Institute of Science and Technology, Japan"
+organization_2819,"RIKEN, Center for Advanced Intelligence Project (AIP), Japan"
+organization_2820,"Department of Network and New Media, Nanjing Normal University"
+organization_2821,"Department of Information Management, Nanjing University of Science and Technology"
+organization_2822,Tencent YouTu Lab
+organization_2823,Universitat Polit `ecnica de Catalunya (UPC) - BarcelonaTech
+organization_2824,ECE & ASRI
+organization_2825,Computer Vision Lab.
+organization_2826,"Canada-CIFAR AI Chair, Amii"
+organization_2827,Megagon Labs
+organization_2828,S-Lab
+organization_2829,"Institute of Software, Chinese Academy of Sciences, Beijing, China"
+organization_2830,Chinese Information Processing Laboratory
+organization_2831,"Key Laboratory of System Software, Chinese Academy of Sciences"
+organization_2832,State Key Laboratory of Computer Science
+organization_2833,The HongKong Polytechnic University
+organization_2834,Walled AI Labs
+organization_2835,"lucyv,"
+organization_2836,"Corresponding authors: fjdevlin,"
+organization_2837,memitc g@microsoft.com
+organization_2838,"mgalley,"
+organization_2839,NAVER LABS Europe
+organization_2840,Fondazione Bruno Kessler
+organization_2841,PSL University
+organization_2842,Centre for Robotics
+organization_2843,Mines Paris - PSL
+organization_2844,CyberAgent
+organization_2845,"Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences"
+organization_2846,University of Peradeniya
+organization_2847,Faculty of Engineering
+organization_2848,"Tongyi Lab, Alibaba Group"
+organization_2849,"Piñata Farms, Los Angeles, USA"
+organization_2850,Ukrainian Catholic University
+organization_2851,University Corporation
+organization_2852,Ballet Institute of Technology
+organization_2853,"State Key Laboratory of General Artificial Intelligence, BIGAI, China"
+organization_2854,Vector Institute for Artificial Intelligence
+organization_2855,Wilton E. Scott Institute for Energy Innovation
+organization_2856,Federal University of Santa Maria
+organization_2857,Department of Chemistry
+organization_2858,"Audio, Speech and Language Processing Group (ASLP@NPU)"
+organization_2859,UniBench
+organization_2860,Moore Threads
+organization_2861,M42
+organization_2862,University of Abu Dhabi
+organization_2863,"IDLab, Ghent University"
+organization_2864,"Mila, University of Montreal"
+organization_2865,Qualcomm Ltd.
+organization_2866,"ICT, Chinese Academy of Sciences"
+organization_2867,INF Technology
+organization_2868,University of Siena
+organization_2869,"Key Laboratory of Speech Acoustics and Content Understanding, Institute of Acoustics, Chinese Academy of Sciences"
+organization_2870,Singapore Institute of Technology
+organization_2871,Centre Inria de l’Université de Lorraine
+organization_2872,National Institute of Informatics
+organization_2873,Laboratory of Advanced Natural Language Processing (ANLP)
+organization_2874,AQUILA
+organization_2875,Beijing University of Mining & Technology Beijing
+organization_2876,Ajou University
+organization_2877,KT Corp.
+organization_2878,DeepSeek-AI
+organization_2879,01.ai
+organization_2880,M-A-P
+organization_2881,Google DeepMind*
+organization_2882,University of Münster
+organization_2883,Owl Health Works LLC
+organization_2884,"Harbin Institute of Technology, Shenzhen, China"
+organization_2885,"RIKEN AIP, Japan"
+organization_2886,Khulna University of Engineering and Technology
+organization_2887,Bangladesh.
+organization_2888,National Tsing Hua University
+organization_2889,Stevens Institute of Technology
+organization_2890,Sichuan University
+organization_2891,San José State University
+organization_2892,Institute of Science and Technology Austria
+organization_2893,TNO
+organization_2894,Moffett AI
+organization_2895,Instrumentation and Measurement for Particle Accelerator Laboratory (IMPALab)
+organization_2896,University of Naples Federico II
+organization_2897,"IIIT Delhi, India"
+organization_2898,"Amazon GenAI, USA"
+organization_2899,"BITS Pilani Hyderabad, India"
+organization_2900,"NIT Silchar, India"
+organization_2901,"AI Institute, University of South Carolina, USA"
+organization_2902,Shanghai University
+organization_2903,JD AI Research
+organization_2904,Migu Culture & Technology
+organization_2905,"INSAIT, Sofia University"
+organization_2906,"Sichuan Highway Planning, Survey, Design and Research Institute Ltd"
+organization_2907,Guangzhou Urban Planning & Design Survey Research Institute
+organization_2908,Saint Louis University
+organization_2909,The Minitron Approach
+organization_2910,LLM Pruning and Distillation in Practice:
+organization_2911,Huawei Technologies Canada.
+organization_2912,"Huawei Kirin Solution, China."
+organization_2913,James Silberrad Brown Center for Artificial Intelligence
+organization_2914,University of Florence
+organization_2915,MICC
+organization_2916,Faculdade de Engenharia da Universidade Lúrio
+organization_2917,Faculdade de Letras da Universidade do Porto
+organization_2918,Centro de Linguística da Universidade do Porto
+organization_2919,Laboratório de Inteligência Artificial e Ciência de Computadores (LIACC / LASI)
+organization_2920,Faculdade de Engenharia da Universidade do Porto
+organization_2921,Harbin Institute of Technology Shenzhen
+organization_2922,China University of Petroleum at Karamay
+organization_2923,SaluteDevices
+organization_2924,NEC laboratories America
+organization_2925,"Institute of Computer Science and Technology, Soochow University, China"
+organization_2926,"Shanghai AI Laboratory,"
+organization_2927,Aditya English Medium School
+organization_2928,Squirrel AI Learning
+organization_2929,NJU
+organization_2930,Senior
+organization_2931,"Member, IEEE"
+organization_2932,The University of Queensland
+organization_2933,University of La Rochelle
+organization_2934,Ecole Nationale Sup ´erieure d’Informatique
+organization_2935,"West Pharmaceuticals Services, Inc."
+organization_2936,VinAI Research
+organization_2937,Posts & Telecommunications Inst. of Tech.
+organization_2938,The University of British Columbia
+organization_2939,"Lingzhi-zhiguang Co., Ltd"
+organization_2940,Electronics and Telecommunications Research Institute
+organization_2941,POWER SCHEDULER : A B ATCH SIZE AND TOKEN NUM-
+organization_2942,Adriana Meza Soria
+organization_2943,Aditya Prasad
+organization_2944,Rameswar Panda∗
+organization_2945,Shawn Tan
+organization_2946,BER AGNOSTIC LEARNING RATESCHEDULER
+organization_2947,Gaoyuan Zhang
+organization_2948,David D. Cox
+organization_2949,Activision Blizzard
+organization_2950,Barcelona Supercomputing Center
+organization_2951,"Writer, Inc."
+organization_2952,École de Technologie Supérieure
+organization_2953,UMR 9189 - CRIStAL
+organization_2954,"Technology Innovation Institute, Abu Dhabi, United Arab Emirates"
+organization_2955,I3S
+organization_2956,Universit´ e Côte d’Azur
+organization_2957,Swedish University of Agricultural Sciences
+organization_2958,Data ScienceTech Institute (DSTI)
+organization_2959,Université Côte d’Azur
+organization_2960,University of Warwick
+organization_2961,University of Newcastle
+organization_2962,Snowflake
+organization_2963,Ion Stoica5
+organization_2964,"State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University"
+organization_2965,"Saarbrücken Research Center for Visual Computing, Interaction and AI"
+organization_2966,UC BERKELEY
+organization_2967,STANFORD UNIVERSITY
+organization_2968,Shanghai Key Lab of Intell. Info. Processing
+organization_2969,Shanghai Collaborative Innovation Center on Intelligent Visual Computing
+organization_2970,Microsoft Cloud + AI
+organization_2971,ShengShu
+organization_2972,Link.cuhk.edu.hk
+organization_2973,ByteDance Shanghai AI Laboratory
+organization_2974,CUHK MiuLar Lab
+organization_2975,University of Minnesota
+organization_2976,Layer 6 AI
+organization_2977,CIFAR Fellow
+organization_2978,Etsy Inc.
+organization_2979,Yahoo! Research
+organization_2980,Guangzhou Quwan Network Technology
+organization_2981,Jina AI GmbH
+organization_2982,Instituto de Pesquisa para Economia Digital
+organization_2983,Universidade Federal do Cariri
+organization_2984,UNICAMP
+organization_2985,NeuralMind.ai
+organization_2986,Maritaca AI
+organization_2987,UNC at Chapel Hill
+organization_2988,Duke Univ.
+organization_2989,Oak Ridge Lab.
+organization_2990,Ohio State Univ.
+organization_2991,"Univ. of California, Irvine"
+organization_2992,Tulane Univ
+organization_2993,Battelle
+organization_2994,Sir Salimullah Medical College
+organization_2995,Skolkovo Institute of Science and Technology
+organization_2996,Artificial Intelligence Research Institute
+organization_2997,Bar-IlanUniversity
+organization_2998,Inspirai
+organization_2999,Huawei Technologies Ltd
+organization_3000,Ucas-HaoranWei
+organization_3001,StepFun2Megvii Technology
+organization_3002,Norway
+organization_3003,SimulaMet
+organization_3004,Pandora Media Inc.
+organization_3005,ShenZhen Research Institute of Northwestern Polytechnical University
+organization_3006,"TeleAI, China Telecom"
+organization_3007,Northwestern Polytechnical University Xi’an
+organization_3008,NEC Corporation
+organization_3009,Rabbitpre Intelligence
+organization_3010,Neural Magic
+organization_3011,IST Austria
+organization_3012,Institute for Research in Technology
+organization_3013,Comillas Pontifical University
+organization_3014,LG Electronics
+organization_3015,Honda Research Institute EU
+organization_3016,NTT Corporation
+organization_3017,Institute for Advanced Algorithms Research (IAAR)
+organization_3018,Research Institute of China Telecom
+organization_3019,Institute for AI Industry Research (AIR)
+organization_3020,Liberal Arts Consortium for Online Learning (LACOL)
+organization_3021,Bowling Green State University
+organization_3022,Anne McNiﬀ
+organization_3023,The Andrew W. Mellon Foundation
+organization_3024,Tatlock ’61 Endowment for Strategic Faculty Support at Vassar Co llege
+organization_3025,Vassar College
+organization_3026,University Shanghai Jiao Tong
+organization_3027,"Universidad de Antioquia, Colombia"
+organization_3028,"University of Oxford, UK"
+organization_3029,Meituan.com
+organization_3030,Bupt.edu.cn
+organization_3031,Stanford MS&E
+organization_3032,MIT ORC
+organization_3033,Cornell ORIE
+organization_3034,Cornell Statistics
+organization_3035,360 AI Research
+organization_3036,Carleton College
+organization_3037,Hello Robot Inc.
+organization_3038,Tencent Games
+organization_3039,UniDet3D: Multi-dataset Indoor 3D Object Detection
+organization_3040,ONEKQ Lab
+organization_3041,"Key Laboratory of AI Safety, Chinese Academy of Sciences"
+organization_3042,"IBM Research, India"
+organization_3043,Indian Institute of Technology Bombay
+organization_3044,Inmc & Ipai
+organization_3045,"The Chinese University of Hong Kong, Hong Kong SAR"
+organization_3046,UMass Chan Medical School
+organization_3047,"University of Massachusetts, Amherst"
+organization_3048,"University of Massachusetts, Lowell"
+organization_3049,LuxiTech
+organization_3050,I am unable to find any other organizations in the provided text.
+organization_3051,National Center for Computational Sciences
+organization_3052,"Adobe Research, Seattle, USA"
+organization_3053,"Adobe Research, USA"
+organization_3054,Applied Artificial Intelligence Institute
+organization_3055,"Tencent AI Lab, Seattle"
+organization_3056,"Emergent Methods, CO"
+organization_3057,The Fin AI
+organization_3058,Université Laval
+organization_3059,"Zhongshan PoolNet Technology Co., Ltd, Zhongshan Fudan Joint Innovation Center"
+organization_3060,"NeuDim Digital Technology (Shanghai) Co.,Ltd."
+organization_3061,"MICC, University of Florence"
+organization_3062,"Computer Vision Center, UAB"
+organization_3063,"Artificial Intelligence Institute,"
+organization_3064,"NAVER Cloud,"
+organization_3065,"University of Richmond,"
+organization_3066,"Interdisciplinary Program in Artificial Intelligence,"
+organization_3067,"Adobe Research, San Francisco, CA, USA"
+organization_3068,"University of Maryland, College Park, MD, USA"
+organization_3069,TALOS Corp
+organization_3070,"DSO National Laboratories, Singapore"
+organization_3071,"Department of Radiology, The University of British Columbia"
+organization_3072,"Department of Medicine, The University of British Columbia"
+organization_3073,Shahid Beheshti University
+organization_3074,"1Tencent AI Lab, Beijing, China"
+organization_3075,"Tencent AI Lab, Seattle, USA"
+organization_3076,"Institute of Automation, Chinese Academy of Sciences, Beijing, China"
+organization_3077,"InstaDeep, Rwanda"
+organization_3078,"InstaDeep, South Africa"
+organization_3079,"University of Cape Town, South Africa"
+organization_3080,POLITEHNICA Bucharest National University of Science and Technology
+organization_3081,Interdisciplinary School of Doctoral Studies
+organization_3082,University of Bucharest
+organization_3083,Ping An Technology
+organization_3084,ISCTE-IUL
+organization_3085,IST/ULisboa
+organization_3086,"School of Computer Science, CMU"
+organization_3087,INESC-ID Lisboa
+organization_3088,"School of Software and Microelectronics, Peking University"
+organization_3089,"School of Psychological and Cognitive Sciences, Peking University"
+organization_3090,"State Key Laboratory of General Artificial Intelligence, School of Intelligence Science and Technology, Peking University"
+organization_3091,"Department of Sociology, Peking University"
+organization_3092,PKU-Wuhan Institute for Artificial Intelligence
+organization_3093,"State Key Laboratory of Blockchain and Data Security, Zhejiang University"
+organization_3094,Tencent Hunyuan
+organization_3095,George Washington University
+organization_3096,Haldia Institute of Technology
+organization_3097,IBM Corporation
+organization_3098,NASA Government Affairs
+organization_3099,N/A (No clear organization name given)
+organization_3100,Barcelona Supercomputing Center (BSC)
+organization_3101,Aston University
+organization_3102,Shenyang Aerospace University
+organization_3103,Computing Sciences
+organization_3104,National University of Cuyo
+organization_3105,National Scientific and Technical Research Council (CONICET)
+organization_3106,PICOMIMIC4
+organization_3107,MEDITRON-70
+organization_3108,MedBench37.424.341.431.8
+organization_3109,LancetQA
+organization_3110,GPT-4
+organization_3111,MedCalc-BenchX
+organization_3112,Medbullets
+organization_3113,GPT-3.5
+organization_3114,MedMCQA
+organization_3115,lambamt-8B
+organization_3116,EDMedNLI-Dis
+organization_3117,MedQA
+organization_3118,NEJMQA
+organization_3119,PubMedQA
+organization_3120,PUBHEALTH Ver.
+organization_3121,M42 Health
+organization_3122,Samsung R & D Institute India - Bangalore
+organization_3123,Lokesh R Boregowda2R Venkatesh Babu1
+organization_3124,ICLR 2025
+organization_3125,"NVIDIA, Santa Clara"
+organization_3126,"Ministry of Education Key Laboratory of Metabolism and Molecular Medicine, Department of Endocrinology and Metabolism, Zhongshan Hospital, Fudan University"
+organization_3127,"Department of Endocrinology and Metabolism, Qingpu Branch of Zhongshan Hospital Affiliated to Fudan University"
+organization_3128,"Department of Endocrinology, Fifth People’s Hospital of Shanghai Fudan University"
+organization_3129,"MIFA Lab, Qing Yuan Research Institute, SEIEE, Shanghai Jiao Tong University"
+organization_3130,UIST 2024 (in submission)
+organization_3131,"Institute of Astrophysics, Central China Normal University"
+organization_3132,KEK Theory Center
+organization_3133,"Passeig Lluis Companys, 23, Barcelona"
+organization_3134,High Energy Accelerator Research Organization (KEK)
+organization_3135,"Kobayashi-Maskawa Institute for the Origin of Particles and the Universe, Nagoya University"
+organization_3136,"Institute of Space Sciences (ICE), CSIC"
+organization_3137,"Fondazione Bruno Kessler, Trento, Italy"
+organization_3138,"Technical University of Munich, MCML"
+organization_3139,University of Cologne
+organization_3140,Anlatan LLC
+organization_3141,Augusta University
+organization_3142,Tongping Liu
+organization_3143,Università dell'Atenea Trentina - Università degli Studi dell'Università dell'Atenea Trentina
+organization_3144,"University of California, Los Angeles, USA"
+organization_3145,Western Norway University of Applied Sciences
+organization_3146,National Engineering Laboratory for Integrated Aero-space-Ground-Ocean Big Data Application Technology
+organization_3147,Bangladesh University of Engr. & Tech.
+organization_3148,Flawless AI
+organization_3149,Lotus -DDSINE
+organization_3150,Hongbo Zhang
+organization_3151,OASIS
+organization_3152,EESNU
+organization_3153,GeoWizard
+organization_3154,GenPercept
+organization_3155,Noah’s Ark Lab
+organization_3156,StableNormal
+organization_3157,Answer.AI
+organization_3158,France
+organization_3159,LightOn
+organization_3160,OsloMet
+organization_3161,Forzasys
+organization_3162,Data Institute
+organization_3163,University of San Francisco
+organization_3164,WeChat AI
+organization_3165,"Beijing University of Posts and Telecommunications, Beijing, China"
+organization_3166,Guangxi Modern Vocational Technology College
+organization_3167,School of Electronics and Information
+organization_3168,UniAff
+organization_3169,School of Electronic Engineering
+organization_3170,Center for Visual Computing
+organization_3171,College of Information Science and Technology
+organization_3172,DeepFloydIF
+organization_3173,GLIDE
+organization_3174,GeneratedMatched
+organization_3175,LAION-Aesthetics
+organization_3176,"Ping An Technology (Shenzhen) Co., Ltd."
+organization_3177,"Llama Team, AI @ Meta"
+organization_3178,University Sultan Moulay Slimane
+organization_3179,Show Lab
+organization_3180,JuliaHub
+organization_3181,HKUST2
+organization_3182,NOAH's Ark Lab3
+organization_3183,INGINSTRUCTIONS VIA DIFFUSION TRANSFORMER
+organization_3184,LL-ROUND CREATOR AND EDITOR FOLLOW -
+organization_3185,MediaTek Research
+organization_3186,National Chengchi University
+organization_3187,Hokkaido University
+organization_3188,"Department of Computer Science and Engineering, HKUST"
+organization_3189,University of Missouri - Columbia
+organization_3190,Instituto de Telecomunicações
+organization_3191,Artefact Research Center
+organization_3192,Universidade de Lisboa
+organization_3193,"Fondazione Bruno Kessler, Italy"
+organization_3194,Microsoft Corp.
+organization_3195,University of Wisconsin - Madison
+organization_3196,United States
+organization_3197,China Tower
+organization_3198,"Tsinghua Laboratory of Brain and Intelligence (THBI), IDG/McGovern Institute for Brain Research, Tsinghua University"
+organization_3199,Chinese Institute for Brain Research (CIBR)
+organization_3200,"National Institute of Informatics, Tokyo, Japan"
+organization_3201,"Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University"
+organization_3202,"Department of Emergency Medicine, Stanford University School of Medicine"
+organization_3203,"Department of Biomedical Informatics, Harvard Medical School"
+organization_3204,Ltd.
+organization_3205,AppleVladlen Koltun
+organization_3206,Inc.
+organization_3207,NTU‡
+organization_3208,ByteDance†S-Lab
+organization_3209,Nanjing University of Science and
+organization_3210,"Technology, China"
+organization_3211,"Northeastern University, China"
+organization_3212,"University of Göttingen, Germany"
+organization_3213,Nanjing University of Science and Technology
+organization_3214,"School of Computer Science and Engineering,"
+organization_3215,"Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications, Southeast University"
+organization_3216,Universit e de Montreal
+organization_3217,Mila2Microsoft Research
+organization_3218,HEC Montr eal
+organization_3219,Schoow University
+organization_3220,"Montreal Neurological Institute, McGill University"
+organization_3221,University of Southern California Institute for Creative Technologies (USC-ICT)
+organization_3222,Peking Universit y
+organization_3223,"Key Laboratory of Symbolic Computation and Knowledge Engineering of the Ministry of Education, College of Computer Science and Technology, Jilin University"
+organization_3224,Infinigence AI
+organization_3225,Birla Institute of Technology & Science Pilani
+organization_3226,Jio Platforms Limited
+organization_3227,Indian Institute of Technology Indore
+organization_3228,R.M.D. Engineering College
+organization_3229,NCSOFT
+organization_3230,Hanoi University of Science and Technology
+organization_3231,VNU-HCM - University of Science
+organization_3232,The Graduate Center
+organization_3233,Hunter College
+organization_3234,XM Capital
+organization_3235,Tencent Jarvis Lab
+organization_3236,"RALI & Mila, Université de Montréal"
+organization_3237,Hong Kong Polytechnic University
+organization_3238,"University of Maryland,collaboration with Mitsubishi Electric Research Laboratories (MERL), Johns Hopkins University"
+organization_3239,Pika Lab
+organization_3240,Gaziosmanpasa University
+organization_3241,Azerbaijan Nation al Academy of Sciences
+organization_3242,Institute of Mathematics and Mechanics
+organization_3243,Technology Innovation Institute
+organization_3244,Beijing University of Technology
+organization_3245,Beijing-Dublin International College
+organization_3246,OSU
+organization_3247,"Department of Biomedical Informatics, OSU"
+organization_3248,"Celonis, Inc."
+organization_3249,"Alluxio, Inc."
+organization_3250,"Twitter, Inc."
+organization_3251,NOAH’S ARK LAB
+organization_3252,"Institute for Advanced Algorithms Research, Shanghai"
+organization_3253,5Y Capital
+organization_3254,"Institute for AI, Peking University, China"
+organization_3255,"National Key Lab of General AI, BIGAI, China"
+organization_3256,"Beijing University of Posts and Telecommunications, China"
+organization_3257,Rutgers Center for Cognitive Science
+organization_3258,Rutgers Computer Science Department
+organization_3259,"Livermore, CA"
+organization_3260,Sandia National Laboratories
+organization_3261,Mohamed Bin Zayed University of AI
+organization_3262,Geely Automobile Research Institute (Ningbo) Company Ltd.
+organization_3263,LibAI Lab
+organization_3264,"Damo Academy, Hangzhou, China"
+organization_3265,"Research Center for Industries of the Future, Westlake University, Hangzhou, China"
+organization_3266,"AI Lab, Westlake University, Hangzhou, China"
+organization_3267,"Institute for Machine Learning, JKU Linz"
+organization_3268,ELLIS Unit
+organization_3269,NXAI GmbH
+organization_3270,UC Los Angeles
+organization_3271,iFLYTEK AI Research (Central China)
+organization_3272,"Washington University, St. Louis"
+organization_3273,DICE: Distilling Classifier-Free Guidance into Text Embeddings
+organization_3274,"Department of Computer Science and Software Engineering, Auburn University"
+organization_3275,"PeopleTec, Inc"
+organization_3276,"School of Science and Engineering, The Chinese University of Hong Kong,"
+organization_3277,"Guangdong Provincial Key Laboratory of Future Networks of Intelligence,"
+organization_3278,"The Shenzhen Institute of Artificial Intelligence and Robotics for Society,"
+organization_3279,Télécom Paris
+organization_3280,UNIST
+organization_3281,The CoAI Group
+organization_3282,"Birkbeck, University of London"
+organization_3283,Centre for Brain and Cognitive Development
+organization_3284,GSAI
+organization_3285,PeopleTec
+organization_3286,Unity Technologies
+organization_3287,"Swiss Federal Institute of Technology Lausanne, Switzerland"
+organization_3288,Australian AI Institute
+organization_3289,"{aojunzhou, zmjdll }@gmail.com"
+organization_3290,hsli@ee.cuhk.edu.hk
+organization_3291,ANU
+organization_3292,Walmart Global Tech
+organization_3293,NEC Labs America
+organization_3294,UT Arlington
+organization_3295,NA VER Cloud Multimodal AI
+organization_3296,Navercorp
+organization_3297,GitHub Square
+organization_3298,Zoom Video Communications
+organization_3299,NYU CDS and Courant Institute
+organization_3300,SingaporeanAI研究院
+organization_3301,海丝人工智能实验室
+organization_3302,Singapore管理大学
+organization_3303,Amazon AGI Foundations
+organization_3304,Alberta Machine Intelligence Institute (Amii)
+organization_3305,Naver Labs Europe
+organization_3306,Criteo AI Lab
+organization_3307,HKBU
+organization_3308,HIT-SZ
+organization_3309,HKUST-GZ
+organization_3310,"Duke-National University of Singapore Medical School,"
+organization_3311,"Institute of High Performance Computing (IHPC),"
+organization_3312,"Byers Eye Institute,"
+organization_3313,"Singapore National Eye Centre,"
+organization_3314,"A*STAR,"
+organization_3315,Moscow Institute of Physics and Technologies
+organization_3316,AIWaves
+organization_3317,Depix Technologies
+organization_3318,Universit ´e Laval
+organization_3319,"Ulm University,"
+organization_3320,Netherlands
+organization_3321,"Max Planck Institute for Psycholinguistics,"
+organization_3322,"GESIS - Institute for Social Sciences,"
+organization_3323,"Department of Statistical Science, Duke University"
+organization_3324,Duke University School of Medicine
+organization_3325,Duke Clinical Research Institute
+organization_3326,"Descartes Labs , Inc."
+organization_3327,Intelligence and Space Research Division
+organization_3328,"University of Waterloo, Vector Institute"
+organization_3329,"SRM Institute of Science and Technology,<br>"
+organization_3330,"Kattankulathur, Tamil Nadu, 603203, India"
+organization_3331,"Department of Computational Intelligence,<br>"
+organization_3332,Unc Charlotte
+organization_3333,Shanghai Key Laboratory of Intelligent information processing
+organization_3334,Engineering Research Center of Information Networks
+organization_3335,Zhongguancun Laboratory
+organization_3336,Blekinge Institute of Technology
+organization_3337,Ericsson AB
+organization_3338,"International Center of Future Science, Jilin University"
+organization_3339,"Engineering Research Center of Knowledge-Driven Human-Machine Intelligence, MOE, China"
+organization_3340,University of Warsaw
+organization_3341,UPenn
+organization_3342,https://github.com/FreedomIntelligence/ApolloMoE
+organization_3343,"La Sapienza, University of Rome"
+organization_3344,CNIT
+organization_3345,NUS-NCS Joint Lab
+organization_3346,HUST
+organization_3347,Biomedical Imaging Research Institute
+organization_3348,Cedars-Sinai Medical Center
+organization_3349,Division of Artificial Intelligence in Medicine
+organization_3350,"Institute of Artificial Intelligence, Soochow University, China"
+organization_3351,Coventry University
+organization_3352,Human Language Technology Center of Excellence
+organization_3353,The Chinese University of HongKong
+organization_3354,"IHPC A*STAR, Singapore"
+organization_3355,"University of Cambridge, UK"
+organization_3356,"Columbia University, USA"
+organization_3357,"GlaxoSmithKlein, USA"
+organization_3358,"The Alan Turing Institute, UK"
+organization_3359,"Key Laboratory of Symbolic Computation and Knowledge Engineering, Jilin University"
+organization_3360,Microsoft Responsible AI Research
+organization_3361,University of California - Riverside
+organization_3362,Qwen
+organization_3363,State Key Laboratory of Cognitive Intelligence
+organization_3364,AIGen Sciences
+organization_3365,Kent State University
+organization_3366,IIT Hyderabad
+organization_3367,University of Texas at San Antonio
+organization_3368,Peraton Labs
+organization_3369,Secure AI and Autonomy Lab
+organization_3370,Meta1
+organization_3371,McGill
+organization_3372,Tokyo Tech
+organization_3373,JAIST
+organization_3374,ITB
+organization_3375,Ontario Tech
+organization_3376,"The Second Affiliated Hospital, School of Medicine, Zhejiang University"
+organization_3377,Cleveland Clinic
+organization_3378,"The CHUM School of Artificial Intelligence in Healthcare, Montreal, QC, Canada"
+organization_3379,"National University Hospital, Singapore"
+organization_3380,"Duke NUS Medical School, Singapore"
+organization_3381,"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
+organization_3382,National Taiwan Normal University
+organization_3383,Purdue Technology
+organization_3384,"Weitzmann Institute of Science, Israel"
+organization_3385,"Google DeepMind, Israel"
+organization_3386,"University of Washington, USA"
+organization_3387,"UC Berkeley, USA"
+organization_3388,"Shenzhen Institute of Advanced Technology, CAS"
+organization_3389,University of Memphis
+organization_3390,SICHuan University of Electronic Technology
+organization_3391,Zhongshan Hospital Fudan University
+organization_3392,cao.yuanwu@zs-hospital.sh.cn
+organization_3393,liquan@shanghaitech.edu.cn
+organization_3394,"CUHK, Shenzhen"
+organization_3395,Auki Labs
+organization_3396,Hangzhou High-Tech Zone (Binjiang) Blockchain and Data Security Research Institute
+organization_3397,"Interdisciplinary Program in Artificial Intelligence and ASRI, Seoul National University"
+organization_3398,"Department of Electrical and Computer Engineering and ASRI, Seoul National University"
+organization_3399,IFLYTEK Research
+organization_3400,Advacheck O ¨U
+organization_3401,Universit ´e Grenoble Alpes
+organization_3402,SandLogic Technologies Pvt Ltd
+organization_3403,Intellifusion
+organization_3404,Scale AI
+organization_3405,Owain Evans
+organization_3406,Truthful AI
+organization_3407,Henry Sleight
+organization_3408,Robert Long
+organization_3409,Miles Turpin
+organization_3410,MATS Program
+organization_3411,Independent
+organization_3412,Eleos
+organization_3413,Speechmatics
+organization_3414,Imla Offenburg
+organization_3415,Max-Planck-Institute for Informatics
+organization_3416,Oregon State University
+organization_3417,THU
+organization_3418,HKU MMLab
+organization_3419,National Key Laboratory of Human-Machine Hybrid Augmented Intelligence
+organization_3420,DeepLang AI
+organization_3421,"University of California, Irvine"
+organization_3422,Allen Institute of AI
+organization_3423,Codec Avatar Labs
+organization_3424,INCORPORATION INCorporation Ltd.
+organization_3425,DeepMind
+organization_3426,Dept. Computer AI Convergence Engineering
+organization_3427,Dept. Computer Engineering
+organization_3428,Kumoh National Institute of Technology
+organization_3429,MILA - Québec AI Institute
+organization_3430,Polytechnique Montréal
+organization_3431,Nilekani Centre at AI4Bharat
+organization_3432,"National Institute of Information and Communications Technology, Kyoto, Japan"
+organization_3433,Avignon Université
+organization_3434,Yandex
+organization_3435,Pinterest Labs
+organization_3436,King Abdullah University of Science and Technology (KAUST)
+organization_3437,Helmholtz Munich
+organization_3438,SDXL
+organization_3439,SD3
+organization_3440,Bangladesh University of Engineering and Technology
+organization_3441,OpenGV Lab
+organization_3442,"School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University"
+organization_3443,The University of North Carolina at Chapel Hill
+organization_3444,"Weixin Group,Tencent"
+organization_3445,Miniml.AI
+organization_3446,Dalian Neusoft University of Information
+organization_3447,Macedonian Academy of Sciences and Arts
+organization_3448,Ss. Cyril and Methodius University in Skopje
+organization_3449,OPENCSG
+organization_3450,"Centre for AI, Data Science & Artificial Intelligence, R&D, AstraZeneca"
+organization_3451,"Research Center for Industries of the Future, Westlake University"
+organization_3452,Door
+organization_3453,Schunk Robot
+organization_3454,Manipulation
+organization_3455,Translate
+organization_3456,Robot Hand
+organization_3457,Open
+organization_3458,Relocate
+organization_3459,Trained
+organization_3460,Stream
+organization_3461,Reconstructed
+organization_3462,Retargeted Demonstration
+organization_3463,Flip Mug
+organization_3464,Policy
+organization_3465,Allegro Robot
+organization_3466,Camera
+organization_3467,Customized
+organization_3468,Human Hand
+organization_3469,Task
+organization_3470,Adroit Robot
+organization_3471,Fig. 1
+organization_3472,Uppsala University
+organization_3473,Norwegian University of Science and Technology
+organization_3474,"University of Maryland, College Park, USA"
+organization_3475,Technion - Institute of Technology
+organization_3476,Brno University of Technology
+organization_3477,Centre For Development Of Telematics
+organization_3478,Shawn Wang3
+organization_3479,Shanghai Artifcial Intelligence Laboratory
+organization_3480,Wentao Zhang2
+organization_3481,Conghui He1†
+organization_3482,Matthieu Lin3
+organization_3483,DLUT
+organization_3484,ICT-CAS
+organization_3485,"MAIS & NLPR, Institute of Automation, Chinese Academy of Sciences"
+organization_3486,TheHong Kong Polytechnic University
+organization_3487,Department of Chinese and Bilingual Studies
+organization_3488,"Huntsville, AL, USA"
+organization_3489,Sber
+organization_3490,University of Sharjah
+organization_3491,Coe.Berkeley .EDU
+organization_3492,Berkeley .EDU
+organization_3493,Boston College
+organization_3494,German Research Institute for Artificial Intelligence (DFKI)
+organization_3495,Kempelen Institute of Intelligent Technologies
+organization_3496,Anyscale
+organization_3497,IBM Research Institute
+organization_3498,"Institute for Machine Learning, JKU Linz, Austria"
+organization_3499,"Google DeepMind, UCL"
+organization_3500,"NXAI GmbH, Linz, Austria"
+organization_3501,Weikum@mpi-inf.mpg.de
+organization_3502,Air Force Office of Scientific Research
+organization_3503,National Science Foundation
+organization_3504,University of Zhengzhou
+organization_3505,University of the Arts London
+organization_3506,"State Key Laboratory for Novel Software Technology, Nanjing University\"
+organization_3507,Microsoft\
+organization_3508,Southeast University\
+organization_3509,Microsoft Research Asia Singapore
+organization_3510,Institute of High Performance Computing (IHPC)
+organization_3511,"C-FAIR, Shandong University"
+organization_3512,Snap Inc
+organization_3513,TU Crete
+organization_3514,"Munich, Germany"
+organization_3515,Dolby Research
+organization_3516,illinois.edu
+organization_3517,huan-zhang.com
+organization_3518,Illinois
+organization_3519,berkeley.edu
+organization_3520,ELTE Eötvös Loránd University
+organization_3521,Key Laboratory of Space Environment Monitoring and Information Processing of MIIT
+organization_3522,University of California – San Diego
+organization_3523,National Key Laboratory of Multispectral Information Intelligent Processing Technology
+organization_3524,Institute for Applied Physics and Information Technology (IAFIT)
+organization_3525,Alibaba Research
+organization_3526,great xch@shu.edu.cn
+organization_3527,Jun Gao
+organization_3528,by903033784@163.com
+organization_3529,HelloGroup Inc.
+organization_3530,Shengkai Zhang
+organization_3531,Chenhui Xue*
+organization_3532,Chaojie Yang
+organization_3533,gaojun55@gmail.com
+organization_3534,Nianhong Jiao
+organization_3535,Boya Niu*
+organization_3536,Tian Li
+organization_3537,HelloMeme
+organization_3538,University of Computer Studies
+organization_3539,Bytedance Research
+organization_3540,Li Auto Inc.
+organization_3541,InstantX Team
+organization_3542,"Applied Research Center (ARC), Tencent PCG"
+organization_3543,Institute of Electrical and Electronics Engineers (ICLR)
+organization_3544,PAII Inc.
+organization_3545,University of California San Francisco
+organization_3546,Plix AI
+organization_3547,PhenoTips
+organization_3548,University of Malta
+organization_3549,Huawei Noah’s Ark
+organization_3550,AI Centre
+organization_3551,UCL Technical University of Darmstadt
+organization_3552,"Kim Jaechul Graduate School of AI, KAIST"
+organization_3553,"Division of Pulmonary, Allergy, Critical Care, and Sleep Medicine, University of Pittsburgh"
+organization_3554,Capital University of Economics and Business
+organization_3555,"Seed-Foundation-Model, ByteDance"
+organization_3556,The Open Cookbook for Top-Tier Code Large Language Models
+organization_3557,Horizon Robotics
+organization_3558,Princeton
+organization_3559,University of Isfahan
+organization_3560,University of Bari
+organization_3561,Wideverse
+organization_3562,Polytechnic University of Bari
+organization_3563,South China Normal University
+organization_3564,"Department of Computer Science and Engineering, MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University"
+organization_3565,NVIDIA1
+organization_3566,Institute of Computing Technology
+organization_3567,University of South Florida
+organization_3568,Esperanto Technologies
+organization_3569,Exacity Inc.
+organization_3570,Alibaba Cloud Computing
+organization_3571,"Microsoft Research, Beijing, China"
+organization_3572,"Key Laboratory of Machine Intelligence and Advanced Computing (Sun Yat-sen University), Ministry of Education"
+organization_3573,BAAI.
+organization_3574,Auckland University of Technology
+organization_3575,University of Tasmania
+organization_3576,"Mass General Brigham & Boston Children’s Hospital, Harvard Medical School"
+organization_3577,Layer 6 AIRasa Hosseinzadeh
+organization_3578,Layer 6 AIGabriel Loaiza-Ganem
+organization_3579,Huawei Technologies
+organization_3580,"Paris Research Center, Huawei Technologies"
+organization_3581,"Abu Dhabi, UAE"
+organization_3582,Khalifa University of Science and Technology
+organization_3583,"New Haven, Connecticut, USA"
+organization_3584,HKUST5 China Mobile
+organization_3585,Alibaba International Digital Commerce
+organization_3586,"Chinese Information Processing Laboratory,"
+organization_3587,"Suzhou Institute for Advanced Research, University of Science and Technology of China"
+organization_3588,Queen’s University
+organization_3589,"LMU Munich, MCML Munich"
+organization_3590,China Tower Corporation Limited
+organization_3591,"School of Information Science and Technology, ShanghaiTech University"
+organization_3592,China University of Petroleum
+organization_3593,"PeopleAI Inc. Beijing, China"
+organization_3594,Rhymes AI
+organization_3595,NNational University of Singapore
+organization_3596,School of Computer Science and
+organization_3597,"Faculty of Information Technology,"
+organization_3598,"engineering,"
+organization_3599,School of Electrical and Information
+organization_3600,"Engineering,"
+organization_3601,Technology
+organization_3602,School of Electrical and information
+organization_3603,"SEAS, Harvard University"
+organization_3604,Kempner Institute
+organization_3605,DeepGlint
+organization_3606,SAAMA AI Research Lab
+organization_3607,"Microsoft Search, Assistant and Intelligence"
+organization_3608,"Computer Architecture and Memory Systems Laboratory,"
+organization_3609,Indo-Korea Science and Technology
+organization_3610,"TCS Research Lab, Kolkata, India"
+organization_3611,"AIIS, ASRI, INMC, ISRC, and Interdisciplinary Program in AI, Seoul National University"
+organization_3612,Schlumberger Software Technology Innovation Center
+organization_3613,Government Technology Agency
+organization_3614,IDEAS NCBR
+organization_3615,"UCAS-Terminus AI Lab, UCAS"
+organization_3616,"PeopleTec, Inc."
+organization_3617,Oversonic Robotics
+organization_3618,Netherlands eScience Center
+organization_3619,"Laboratory of Molecular Simulation (LSMO),"
+organization_3620,"Institut des Sciences et Ingénierie Chimiques,"
+organization_3621,"Xinjiang University, School of Computer Science and Technology"
+organization_3622,"East China Normal University, School of computer science and technology"
+organization_3623,"Shanghai Jiao Tong University, School of biomedical engineering"
+organization_3624,General Medical Artificial Intelligence
+organization_3625,"Sichuan University, School of Computer Science"
+organization_3626,Cambridge University
+organization_3627,PlayStation
+organization_3628,Twelve Labs
+organization_3629,ZMO AI
+organization_3630,School of Electronic and Information Engineering
+organization_3631,Chongqing University of Technology
+organization_3632,Point-MAE-SN
+organization_3633,ShapeNet
+organization_3634,Point-MAE-Zero
+organization_3635,Procedurally generated 3D shapes
+organization_3636,Institute of Advanced Studies (IASS)
+organization_3637,Styling AI
+organization_3638,"Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS"
+organization_3639,Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+organization_3640,"Department of Computer Science, Bar-Ilan University"
+organization_3641,"MoE Key Laboratory of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University"
+organization_3642,"Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, China"
+organization_3643,"Peng Cheng Laboratory, China"
+organization_3644,"University of California, Merced"
+organization_3645,"CFAR, A*STAR"
+organization_3646,I3S-CNRS/Universitê Côte d'Azur
+organization_3647,Queen Mary University
+organization_3648,SFU
+organization_3649,University of Ljubljana
+organization_3650,Kliping d.o.o.
+organization_3651,University not found
+organization_3652,"Cornell Tech, Cornell University"
+organization_3653,DeepBrain AI Inc.
+organization_3654,wenhuchen@uwaterloo.ca
+organization_3655,hyang@fastmail.com
+organization_3656,tiger-ai-lab.github.io/VISTA/
+organization_3657,w2ren@uwaterloo.ca
+organization_3658,International Digital Economy Academy (IDEA).
+organization_3659,Tsinghua University.
+organization_3660,InstaFlow
+organization_3661,Flux
+organization_3662,Classifier Guidance
+organization_3663,Inpainting
+organization_3664,DevInstaFlowEditing
+organization_3665,"Department of Computer Science, University of Toronto"
+organization_3666,"Department of Mechanical and Industrial Engineering, University of Toronto"
+organization_3667,"Institute of Medical Science, University of Toronto"
+organization_3668,"Department of Medical Imaging, University of Toronto"
+organization_3669,"Department of Diagnostic Imaging, Neurosciences & Mental H ealth Research Program, The Hospital for Sick children"
