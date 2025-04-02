@@ -1,0 +1,495 @@
+Id,Label,type
+organization_2,New York University,organization
+organization_6,Northwestern University,organization
+organization_8,University of Surrey,organization
+organization_9,Georgia Institute of Technology,organization
+organization_10,Microsoft,organization
+organization_11,Peking University,organization
+organization_12,University of Maryland,organization
+organization_14,"University of California, Berkeley",organization
+organization_15,Google Research,organization
+organization_17,"National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences",organization
+organization_18,MMU KuaiShou Inc.,organization
+organization_23,Adobe Research,organization
+organization_25,University of Toronto,organization
+organization_26,Tsinghua University,organization
+organization_27,UC San Diego,organization
+organization_28,Shanghai Jiao Tong University,organization
+organization_30,Renmin University of China,organization
+organization_35,Stanford University,organization
+organization_36,Google DeepMind,organization
+organization_40,Microsoft Research,organization
+organization_41,Meta AI,organization
+organization_44,The Hong Kong Polytechnic University,organization
+organization_46,The Chinese University of Hong Kong,organization
+organization_47,Guangdong University of Technology,organization
+organization_48,Carnegie Mellon University,organization
+organization_50,UC Berkeley,organization
+organization_51,Microsoft Research Asia,organization
+organization_52,"Gaoling School of Artificial Intelligence, Renmin University of China",organization
+organization_55,"Apple, Inc.",organization
+organization_62,The University of Hong Kong,organization
+organization_63,The Hong Kong University of Science and Technology,organization
+organization_64,National University of Singapore,organization
+organization_72,Intel Labs,organization
+organization_76,Google,organization
+organization_85,Chinese Academy of Sciences,organization
+organization_86,Northeastern University,organization
+organization_87,Beijing Key Laboratory of Big Data Management and Analysis Methods,organization
+organization_91,University of Amsterdam,organization
+organization_96,University of Texas at Austin,organization
+organization_104,Boston University,organization
+organization_107,MIT CSAIL,organization
+organization_108,Allen Institute for Artificial Intelligence,organization
+organization_112,Technical University of Munich,organization
+organization_116,Alibaba Group,organization
+organization_117,University of Chinese Academy of Sciences,organization
+organization_118,"Institute of Automation, Chinese Academy of Sciences",organization
+organization_119,Apple,organization
+organization_120,University of Oxford,organization
+organization_121,Google Brain,organization
+organization_122,University of Michigan,organization
+organization_123,"ARC Lab, Tencent PCG",organization
+organization_124,Tencent AI Lab,organization
+organization_125,Google Deepmind,organization
+organization_127,The University of Texas at Austin,organization
+organization_130,Shenzhen University,organization
+organization_135,Allen Institute for AI,organization
+organization_136,University of Edinburgh,organization
+organization_145,"Theta Labs, Inc.",organization
+organization_150,"Shanghai Key Laboratory of Intelligent information processing, Fudan University",organization
+organization_151,Fudan University,organization
+organization_154,Zhejiang University,organization
+organization_155,ByteDance,organization
+organization_156,University of Washington,organization
+organization_157,Microsoft Azure AI,organization
+organization_161,UC Santa Barbara,organization
+organization_162,"Microsoft Research, Redmond, WA, USA",organization
+organization_179,Seoul National University,organization
+organization_180,Apple Inc.,organization
+organization_185,Generative AI Research Lab (GAIR),organization
+organization_186,Shanghai Artificial Intelligence Laboratory,organization
+organization_193,The University of Tokyo,organization
+organization_194,University of Waterloo,organization
+organization_196,University of Tübingen,organization
+organization_200,Virginia Tech,organization
+organization_202,Amazon,organization
+organization_206,Massachusetts Institute of Technology,organization
+organization_209,Google LLC,organization
+organization_212,Cornell University,organization
+organization_213,Johns Hopkins University,organization
+organization_220,Inria,organization
+organization_221,MIT,organization
+organization_226,Nanyang Technological University,organization
+organization_230,POSTECH,organization
+organization_242,Simon Fraser University,organization
+organization_250,Princeton University,organization
+organization_260,SenseTime Research,organization
+organization_263,University of Notre Dame,organization
+organization_265,"University of California, Los Angeles",organization
+organization_267,EleutherAI,organization
+organization_273,EPFL,organization
+organization_275,Adobe,organization
+organization_276,"University of California, Santa Cruz",organization
+organization_278,University of Science and Technology of China,organization
+organization_288,Wuhan University,organization
+organization_292,"Google DeepMind, Japan",organization
+organization_293,"Google DeepMind, USA",organization
+organization_294,Google AI,organization
+organization_299,Meta,organization
+organization_300,"Reality Labs Research, Meta",organization
+organization_306,University of Virginia,organization
+organization_312,University of Pittsburgh,organization
+organization_313,University of Southern California,organization
+organization_314,Snap Inc.,organization
+organization_322,HKUST,organization
+organization_326,Tencent PCG,organization
+organization_327,Nanjing University,organization
+organization_335,"University of California, San Diego",organization
+organization_336,University of Copenhagen,organization
+organization_344,The Alan Turing Institute,organization
+organization_345,University of Cambridge,organization
+organization_347,Daniele Paliotta,organization
+organization_348,Martin Jaggi,organization
+organization_349,University of Geneva,organization
+organization_350,François Fleuret,organization
+organization_354,LMU Munich,organization
+organization_358,Institute for Advanced Computer Studies,organization
+organization_361,University of Sydney,organization
+organization_364,Korea University,organization
+organization_387,Singapore University of Technology and Design,organization
+organization_398,Duke University,organization
+organization_410,University of Massachusetts,organization
+organization_416,The Ohio State University,organization
+organization_433,Bosch Center for Artificial Intelligence,organization
+organization_434,MPI for Intelligent Systems,organization
+organization_435,"Mila, Université de Montréal",organization
+organization_437,Columbia University,organization
+organization_438,Beijing Institute of Technology,organization
+organization_443,The University of Sydney,organization
+organization_445,Tokyo Institute of Technology,organization
+organization_447,Zhipu.AI,organization
+organization_448,Beihang University,organization
+organization_451,Shanghai AI Laboratory,organization
+organization_465,University of Illinois at Urbana-Champaign,organization
+organization_469,Peng Cheng Laboratory,organization
+organization_470,"University of Maryland, College Park",organization
+organization_471,University of Illinois Urbana-Champaign,organization
+organization_479,Indiana University Bloomington,organization
+organization_494,Kuaishou Technology,organization
+organization_495,McGill University,organization
+organization_496,ServiceNow Research,organization
+organization_497,Portland State University,organization
+organization_524,University of Chicago,organization
+organization_532,Hong Kong University of Science and Technology,organization
+organization_533,RWTH Aachen University,organization
+organization_539,ETH Zurich,organization
+organization_548,Vector Institute,organization
+organization_549,Sapienza University of Rome,organization
+organization_551,ShanghaiTech University,organization
+organization_555,NVIDIA,organization
+organization_561,Huawei Noah’s Ark Lab,organization
+organization_565,UCLA,organization
+organization_568,The Hebrew University of Jerusalem,organization
+organization_584,Intel,organization
+organization_594,FAIR,organization
+organization_599,Beijing Normal University,organization
+organization_600,Harbin Institute of Technology,organization
+organization_601,Beijing University of Posts and Telecommunications,organization
+organization_610,MIT-IBM Watson AI Lab,organization
+organization_611,MBZUAI,organization
+organization_617,OMRON SINIC X,organization
+organization_618,Noah’s Ark Laboratory,organization
+organization_621,Baichuan Inc.,organization
+organization_623,"University of Texas, Austin",organization
+organization_638,Singapore Management University,organization
+organization_640,OpenAI,organization
+organization_645,Michigan State University,organization
+organization_646,Tencent,organization
+organization_656,KU Leuven,organization
+organization_668,Ohio State University,organization
+organization_678,Australian National University,organization
+organization_681,"School of Computer Science and Technology, Beijing Institute of Technology",organization
+organization_682,Emory University,organization
+organization_683,University,organization
+organization_691,Skoltech,organization
+organization_692,AIRI,organization
+organization_695,Brown University,organization
+organization_716,Université de Montréal,organization
+organization_717,Polytechnique Montreal,organization
+organization_725,Osaka University,organization
+organization_731,"Department of Computer Science, Hong Kong Baptist University",organization
+organization_732,"NVIDIA AI Technology Center, NVIDIA",organization
+organization_733,"Agency for Science, Technology and Research, Singapore",organization
+organization_734,"Department of Mathematics, Hong Kong Baptist University",organization
+organization_738,UC Davis,organization
+organization_739,"S-Lab, Nanyang Technological University",organization
+organization_743,Huazhong University of Science and Technology,organization
+organization_745,Sea AI Lab,organization
+organization_747,University of Trento,organization
+organization_759,USA,organization
+organization_761,Samsung AI Center,organization
+organization_763,East China Normal University,organization
+organization_766,Yale University,organization
+organization_768,Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ),organization
+organization_769,Harvard University,organization
+organization_793,HiddenLayer,organization
+organization_802,Imatag,organization
+organization_803,Universit´e de Rennes,organization
+organization_810,"University of California, Santa Barbara",organization
+organization_811,Xi'an Jiaotong University,organization
+organization_824,Sensetime,organization
+organization_832,Sun Yat-sen University,organization
+organization_835,Caltech,organization
+organization_845,Rice University,organization
+organization_846,University of Rochester,organization
+organization_876,"Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences",organization
+organization_877,Cerebras Systems,organization
+organization_878,"University of Artificial Intelligence, UAE",organization
+organization_879,Arabic-Centric Foundation,organization
+organization_890,University of Hong Kong,organization
+organization_895,University of Porto,organization
+organization_896,Equall,organization
+organization_910,Linköping University,organization
+organization_911,The Pennsylvania State University,organization
+organization_918,Beijing Academy of Artificial Intelligence,organization
+organization_951,University of York,organization
+organization_965,University of Oregon,organization
+organization_967,School of Computer Science,organization
+organization_974,UNC Chapel Hill,organization
+organization_976,NVIDIA Corporation,organization
+organization_987,Pennsylvania State University,organization
+organization_1009,Stony Brook University,organization
+organization_1023,UMass Amherst,organization
+organization_1032,Saarland University,organization
+organization_1040,OPPO US Research Center,organization
+organization_1052,Southeast University,organization
+organization_1053,University of Southern California Institute for Intelligent Systems Center for Automation Research Corporation Inc.,organization
+organization_1055,IBM Research Europe,organization
+organization_1056,IBM Research Almaden,organization
+organization_1057,"Cambridge, MA 02142",organization
+organization_1058,Shandong University,organization
+organization_1060,Vrije Universiteit Amsterdam,organization
+organization_1071,Mila,organization
+organization_1076,Hong Kong Baptist University,organization
+organization_1079,Google Cloud,organization
+organization_1104,Ours,organization
+organization_1134,Arizona State University,organization
+organization_1152,Vector Insititute,organization
+organization_1157,"Institute of Artiﬁcial Intelligence, Hefei Comprehensive National Science Center",organization
+organization_1158,SenseTime,organization
+organization_1175,"Dept of Data Science & AI, Monash University",organization
+organization_1183,The New School,organization
+organization_1193,"National Key Laboratory for Novel Software Technology, Nanjing University",organization
+organization_1214,IDEA Research,organization
+organization_1230,Lawrence Livermore National Laboratory,organization
+organization_1234,"MMLab, CUHK",organization
+organization_1282,The Hong Kong University of Science and Technology (Guangzhou),organization
+organization_1298,"Department of Automation, Tsinghua University",organization
+organization_1302,Turing Inc.,organization
+organization_1328,NeuDim,organization
+organization_1342,"School of Computer Science, National Engineering Research Center for Multimedia Software",organization
+organization_1343,National Engineering Research Center for Multimedia Software,organization
+organization_1374,Nankai University,organization
+organization_1382,Hong Kong University of Science and Technology (HKUST),organization
+organization_1383,"Paul G. Allen School of Computer Science & Engineering, University of Washington",organization
+organization_1384,Mohamed bin Zayed University of AI,organization
+organization_1401,Kakao Brain,organization
+organization_1416,FAIR at Meta,organization
+organization_1422,Shanghai Jiaotong University,organization
+organization_1425,"Computer Vision Center, Universitat Autònoma de Barcelona",organization
+organization_1426,"Independent Researcher, Tokyo",organization
+organization_1427,VCIP,organization
+organization_1428,Linkoping University,organization
+organization_1439,CUHK MMLab,organization
+organization_1470,Bilkent University,organization
+organization_1478,Kiel University,organization
+organization_1485,Jagiellonian University,organization
+organization_1501,"Institute for Intelligent Computing, Alibaba Group",organization
+organization_1502,"LTCI, T´ el´ ecom Paris",organization
+organization_1503,Institut Polytechnique de Paris,organization
+organization_1505,U2SegLabel-Efficient Learning,organization
+organization_1506,CutLER,organization
+organization_1507,U2Seg,organization
+organization_1508,Berkeley AI Research,organization
+organization_1509,STEGO,organization
+organization_1533,CodeFormer,organization
+organization_1546,"Wangxuan Institute of Computer Technology, Peking University",organization
+organization_1549,Royal College of Art,organization
+organization_1554,"Salesforce, Inc.",organization
+organization_1576,HSE University,organization
+organization_1602,"State Key Laboratory of General Artificial Intelligence, BIGAI",organization
+organization_1617,01.AI,organization
+organization_1632,"Shenzhen International Graduate School, Tsinghua University",organization
+organization_1644,Beijing Jiaotong University,organization
+organization_1663,Munich Center for Machine Learning (MCML),organization
+organization_1686,Sorbonne Université2,organization
+organization_1687,Inria1,organization
+organization_1688,Université Gustave Eiffel4,organization
+organization_1689,Université de Genève3,organization
+organization_1690,CNRS4,organization
+organization_1712,"Center for Neural Science, NYU",organization
+organization_1713,MIT AI Lab,organization
+organization_1722,Central South University,organization
+organization_1741,"ReLER, CCAI, Zhejiang University, China",organization
+organization_1742,"State Key Laboratory of Brain-machine Intelligence, Zhejiang University, China",organization
+organization_1743,AWS AI,organization
+organization_1756,AGI‡,organization
+organization_1765,University of South Carolina,organization
+organization_1766,Artificial Intelligence Institute of South Carolina,organization
+organization_1788,Tehran Polytechnic,organization
+organization_1817,hessian.AI,organization
+organization_1818,TU Darmstadt,organization
+organization_1820,Aalto University,organization
+organization_1821,The University of Melbourne,organization
+organization_1846,Image Derivative Inc,organization
+organization_1851,ARC Lab,organization
+organization_1866,Univ Gustave Eiffel,organization
+organization_1896,ISCAS,organization
+organization_1899,IBM Thomas J. Watson Research Center,organization
+organization_1900,Computer Science Department,organization
+organization_1901,Allen Institute for Brain Science,organization
+organization_1902,Caduceus,organization
+organization_1903,College of Electrical and Computer Engineering,organization
+organization_1926,Concordia University,organization
+organization_1935,Tsinghua Univerisity,organization
+organization_1941,Max Planck Institute for Informatics,organization
+organization_1944,"Rennes, France",organization
+organization_1945,"INSA Rennes, INRIA/IRISA",organization
+organization_1946,"CNRS, INRIA/IRISA",organization
+organization_1949,UNI-SMART,organization
+organization_1950,DP Technology,organization
+organization_1951,AI for Science Institute,organization
+organization_1973,East China University of Science and Technology,organization
+organization_1979,University of Mannheim,organization
+organization_1987,Skywork AI,organization
+organization_2001,SenseTime Group,organization
+organization_2015,University of Illinois at Chicago,organization
+organization_2037,Siemens AG,organization
+organization_2043,"University of T ¨ubingen, T ¨ubingen",organization
+organization_2046,University of California Santa Cruz,organization
+organization_2055,Wroclaw Tech,organization
+organization_2056,Dalle Molle Institute for Artificial Intelligence Research,organization
+organization_2057,Nextremer Co. Ltd.,organization
+organization_2058,Recursal AI,organization
+organization_2059,Charm Therapeutics,organization
+organization_2060,LuxiTech Co. Ltd.,organization
+organization_2061,SynthLabs,organization
+organization_2062,Ronsor Labs,organization
+organization_2063,RWKV Project,organization
+organization_2064,Tano Labs,organization
+organization_2065,AI-Research.id,organization
+organization_2066,Contextual AI,organization
+organization_2090,Microsoft Research New York,organization
+organization_2103,"Singapore University of Technology and Design, Singapore",organization
+organization_2104,"Meta AI, US",organization
+organization_2105,"University of Michigan, USA",organization
+organization_2115,Center for Security and Emerging Technology,organization
+organization_2116,LF AI & Data,organization
+organization_2117,Nike,organization
+organization_2118,Commn Ground,organization
+organization_2119,"FAIR, Meta",organization
+organization_2120,DFKI & Hessian.AI,organization
+organization_2121,"Qualcomm Technologies, Inc.",organization
+organization_2122,Coactive AI,organization
+organization_2123,Digital Safety Research Institute,organization
+organization_2124,Consumer Reports,organization
+organization_2125,Ethriva,organization
+organization_2126,Public Authority for Applied Education and Training of Kuwait,organization
+organization_2127,Nebius AI,organization
+organization_2128,Project Humanit.ai,organization
+organization_2129,Nutanix,organization
+organization_2130,RAND,organization
+organization_2131,Illinois Institute of Technology,organization
+organization_2132,Credo AI,organization
+organization_2133,Vijil,organization
+organization_2134,UCSB,organization
+organization_2135,TU Eindhoven,organization
+organization_2136,IIT Delhi,organization
+organization_2137,Dotphoton,organization
+organization_2138,SaferAI,organization
+organization_2139,Reins AI,organization
+organization_2140,Context Fund,organization
+organization_2141,Juniper Networks,organization
+organization_2151,Argonne National Laboratory,organization
+organization_2156,"Graz, Austria",organization
+organization_2157,Know-Center GmbH,organization
+organization_2158,"Meta Platforms, Inc., USA",organization
+organization_2159,"Duke University, Durham, USA",organization
+organization_2177,"Deemos Technology Co., Ltd., China",organization
+organization_2185,Istanbul Technical University,organization
+organization_2208,Daais,organization
+organization_2209,Sony CSL,organization
+organization_2210,Luca Cosmo,organization
+organization_2211,Ca’ Foscari University of Venice,organization
+organization_2213,Databricks Mosaic Research,organization
+organization_2235,DeepSeek,organization
+organization_2254,University of Hong Kong (HKU),organization
+organization_2255,HuaiGuo Institute of Tech (CraftsMan),organization
+organization_2256,LightIllusions,organization
+organization_2257,"Connect, HKU",organization
+organization_2291,Samsung – SAIT AI Lab,organization
+organization_2336,HISTAI,organization
+organization_2337,HistAI,organization
+organization_2386,Amazon GenAI,organization
+organization_2492,MIPT,organization
+organization_2502,Daegu Gyeongbuk Institute of Science and Technology,organization
+organization_2562,Tencent AI Lab Seattle,organization
+organization_2594,Pika Labs,organization
+organization_2642,PricewaterhouseCoopers,organization
+organization_2661,Yokohama National University,organization
+organization_2662,"Chengdu Institute of Computer Applications, Chinese Academy of Sciences",organization
+organization_2663,University of Tsukuba,organization
+organization_2664,Pusan National University,organization
+organization_2665,Shenzhen University of Advanced Technology,organization
+organization_2667,"State Key Laboratory of General Artificial Intelligence, Peking University",organization
+organization_2668,"Guangdong Laboratory of Machine Perception and Intelligent Computing, Shenzhen MSU-BIT University",organization
+organization_2669,"Department of Electrical and Computer System Engineering, Monash University",organization
+organization_2679,"Huawei Noah’s Ark Lab, Beijing, China",organization
+organization_2680,"Huawei Noah’s Ark Lab, Montréal, Canada",organization
+organization_2681,Mila - Québec AI Institute,organization
+organization_2726,The University of Michigan,organization
+organization_2745,Department of Data Science and Artificial Intelligence,organization
+organization_2746,Department of Applied Mathematics,organization
+organization_2766,"WeChat AI, Tencent",organization
+organization_2767,"Department of Informatics, University of Hamburg, Hamburg, Germany",organization
+organization_2768,"School of Computing, National University of Singapore",organization
+organization_2769,"Institute for AI, Tsinghua University",organization
+organization_2770,Guangzhou University,organization
+organization_2771,Harbin Institute of Technology (Shenzhen),organization
+organization_2772,Hong Kong University of Science and Technology (Guangzhou),organization
+organization_2789,Gemma Institute,organization
+organization_2790,Team,organization
+organization_2796,"NaCTeM, University of Manchester",organization
+organization_2797,"Artiﬁcial Intelligence Research Center (AIRC), AIST",organization
+organization_2817,"UMass, Amherst",organization
+organization_2822,Tencent YouTu Lab,organization
+organization_2824,ECE & ASRI,organization
+organization_2825,Computer Vision Lab.,organization
+organization_2841,PSL University,organization
+organization_2842,Centre for Robotics,organization
+organization_2843,Mines Paris - PSL,organization
+organization_2859,UniBench,organization
+organization_2878,DeepSeek-AI,organization
+organization_2935,"West Pharmaceuticals Services, Inc.",organization
+organization_2954,"Technology Innovation Institute, Abu Dhabi, United Arab Emirates",organization
+organization_2964,"State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University",organization
+organization_2975,University of Minnesota,organization
+organization_3004,Pandora Media Inc.,organization
+organization_3020,Liberal Arts Consortium for Online Learning (LACOL),organization
+organization_3021,Bowling Green State University,organization
+organization_3022,Anne McNiﬀ,organization
+organization_3023,The Andrew W. Mellon Foundation,organization
+organization_3024,Tatlock ’61 Endowment for Strategic Faculty Support at Vassar Co llege,organization
+organization_3025,Vassar College,organization
+organization_3052,"Adobe Research, Seattle, USA",organization
+organization_3053,"Adobe Research, USA",organization
+organization_3057,The Fin AI,organization
+organization_3093,"State Key Laboratory of Blockchain and Data Security, Zhejiang University",organization
+organization_3131,"Institute of Astrophysics, Central China Normal University",organization
+organization_3132,KEK Theory Center,organization
+organization_3133,"Passeig Lluis Companys, 23, Barcelona",organization
+organization_3134,High Energy Accelerator Research Organization (KEK),organization
+organization_3135,"Kobayashi-Maskawa Institute for the Origin of Particles and the Universe, Nagoya University",organization
+organization_3136,"Institute of Space Sciences (ICE), CSIC",organization
+organization_3138,"Technical University of Munich, MCML",organization
+organization_3141,Augusta University,organization
+organization_3157,Answer.AI,organization
+organization_3158,France,organization
+organization_3159,LightOn,organization
+organization_3162,Data Institute,organization
+organization_3163,University of San Francisco,organization
+organization_3196,United States,organization
+organization_3257,Rutgers Center for Cognitive Science,organization
+organization_3258,Rutgers Computer Science Department,organization
+organization_3261,Mohamed Bin Zayed University of AI,organization
+organization_3316,AIWaves,organization
+organization_3328,"University of Waterloo, Vector Institute",organization
+organization_3342,https://github.com/FreedomIntelligence/ApolloMoE,organization
+organization_3367,University of Texas at San Antonio,organization
+organization_3368,Peraton Labs,organization
+organization_3369,Secure AI and Autonomy Lab,organization
+organization_3396,Hangzhou High-Tech Zone (Binjiang) Blockchain and Data Security Research Institute,organization
+organization_3417,THU,organization
+organization_3418,HKU MMLab,organization
+organization_3435,Pinterest Labs,organization
+organization_3436,King Abdullah University of Science and Technology (KAUST),organization
+organization_3447,Macedonian Academy of Sciences and Arts,organization
+organization_3448,Ss. Cyril and Methodius University in Skopje,organization
+organization_3489,Sber,organization
+organization_3490,University of Sharjah,organization
+organization_3504,University of Zhengzhou,organization
+organization_3505,University of the Arts London,organization
+organization_3512,Snap Inc,organization
+organization_3513,TU Crete,organization
+organization_3522,University of California – San Diego,organization
+organization_3563,South China Normal University,organization
+organization_3564,"Department of Computer Science and Engineering, MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University",organization
+organization_3613,Government Technology Agency,organization
+organization_3626,Cambridge University,organization
+organization_3647,Queen Mary University,organization
+organization_3665,"Department of Computer Science, University of Toronto",organization
+organization_3666,"Department of Mechanical and Industrial Engineering, University of Toronto",organization
+organization_3667,"Institute of Medical Science, University of Toronto",organization
+organization_3668,"Department of Medical Imaging, University of Toronto",organization
+organization_3669,"Department of Diagnostic Imaging, Neurosciences & Mental H ealth Research Program, The Hospital for Sick children",organization

@@ -1,0 +1,301 @@
+Id,paper_id,publish_date,Label,type
+paper_7,2405.17665,2024-05-27,"Improving Robotic Arms through Natural Language Processing, Computer Vision, and Edge Computing",paper
+paper_11,2211.10624,2022-11-19,A Unified Model for Video Understanding and Knowledge Embedding with Heterogeneous Knowledge Graph Dataset,paper
+paper_39,2408.03553,2024-08-07,Dirichlet forms of diffusion processes on Thoma simplex,paper
+paper_54,2402.10207,2024-02-15,Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment,paper
+paper_72,2305.09253,2023-05-16,Online Continual Learning Without the Storage Constraint,paper
+paper_73,1612.00814,2016-12-01,Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision,paper
+paper_75,2305.10403,2023-05-17,PaLM 2 Technical Report,paper
+paper_89,2305.08291,2023-05-15,Large Language Model Guided Tree-of-Thought,paper
+paper_92,2305.11,2023-05-18,SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities,paper
+paper_100,2203.10133,2022-03-18,Probing Factually Grounded Content Transfer with Factual Ablation,paper
+paper_109,2410.04529,2024-10-06,In-Place Panoptic Radiance Field Segmentation with Perceptual Prior for 3D Scene Understanding,paper
+paper_117,2305.11841,2023-05-19,How Does Generative Retrieval Scale to Millions of Passages?,paper
+paper_202,2408.06227,2024-08-12,FLEURS-R: A Restored Multilingual Speech Corpus for Generation Tasks,paper
+paper_223,2306.07377,2023-06-12,Lost in Translation: Large Language Models in Non-English Content Analysis,paper
+paper_253,2306.0116,2023-06-01,Faster Causal Attention Over Large Sequences Through Sparse Flash Attention,paper
+paper_262,2401.12992,2024-01-17,TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data,paper
+paper_302,2306.05428,2023-06-08,Background Prompting for Improved Object Depth,paper
+paper_324,2306.0728,2023-06-12,Controlling Text-to-Image Diffusion by Orthogonal Finetuning,paper
+paper_346,2306.07437,2023-06-12,Instant Multi-View Head Capture through Learnable Registration,paper
+paper_368,2302.11713,2023-02-23,Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?,paper
+paper_376,2401.03315,2024-01-06,Malla: Demystifying Real-world Large Language Model Integrated Malicious Services,paper
+paper_380,2501.07376,2025-01-13,Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction,paper
+paper_389,2306.10998,2023-06-19,RepoFusion: Training Code Models to Understand Your Repository,paper
+paper_400,2306.12672,2023-06-22,From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought,paper
+paper_420,2306.14289,2023-06-25,Faster Segment Anything: Towards Lightweight SAM for Mobile Applications,paper
+paper_428,2112.00359,2021-12-01,Tool as Embodiment for Recursive Manipulation,paper
+paper_440,2306.15091,2023-06-26,Understanding In-Context Learning via Supportive Pretraining Data,paper
+paper_457,2306.16793,2023-06-29,Benchmarking Large Language Model Capabilities for Conditional Generation,paper
+paper_496,2307.02484,2023-07-05,Elastic Decision Transformer,paper
+paper_498,2305.15021,2023-05-24,EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought,paper
+paper_503,2307.03183,2023-07-06,Whisper-AT: Noise-Robust Automatic Speech Recognizers are Also Strong General Audio Event Taggers,paper
+paper_506,2307.03692,2023-07-05,Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning,paper
+paper_537,2406.11816,2024-06-17,VideoLLM-online: Online Video Large Language Model for Streaming Video,paper
+paper_553,2307.06962,2023-07-13,Copy Is All You Need,paper
+paper_556,2305.09731,2023-05-16,"What In-Context Learning ""Learns"" In-Context: Disentangling Task Recognition and Task Learning",paper
+paper_561,2405.17104,2024-05-27,LLM-Optic: Unveiling the Capabilities of Large Language Models for Universal Visual Grounding,paper
+paper_575,2307.0932,2023-07-18,Biomaker CA: a Biome Maker project using Cellular Automata,paper
+paper_583,2307.10168,2023-07-19,LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs,paper
+paper_590,2407.18941,2024-07-10,LEMoN: Label Error Detection using Multimodal Neighbors,paper
+paper_594,2307.11526,2023-07-21,CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields,paper
+paper_597,2410.03878,2024-10-04,SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Models,paper
+paper_602,2307.11768,2023-07-17,Question Decomposition Improves the Faithfulness of Model-Generated Reasoning,paper
+paper_633,2410.13344,2024-10-17,Cerberus: Efficient Inference with Adaptive Parallel Decoding and Sequential Knowledge Enhancement,paper
+paper_649,2406.1188,2024-06-11,Knowledge Return Oriented Prompting (KROP),paper
+paper_656,2308.00113,2023-07-26,Three Bricks to Consolidate Watermarks for Large Language Models,paper
+paper_669,2308.01904,2023-08-03,DETR Doesn't Need Multi-Scale or Locality Design,paper
+paper_698,2308.0443,2023-08-08,SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore,paper
+paper_701,2308.04623,2023-08-08,Accelerating LLM Inference with Staged Speculative Decoding,paper
+paper_716,2308.06721,2023-08-13,IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models,paper
+paper_743,2409.18943,2024-09-27,Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models,paper
+paper_744,2308.16149,2023-08-30,Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models,paper
+paper_756,2405.18009,2024-05-28,Exploring Context Window of Large Language Models via Decomposed Positional Vectors,paper
+paper_762,2309.01826,2023-09-04,One Wide Feedforward is All You Need,paper
+paper_766,2309.00754,2023-09-01,Efficient RLHF: Reducing the Memory Usage of PPO,paper
+paper_799,2309.04354,2023-09-08,Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts,paper
+paper_807,2309.05516,2023-09-11,Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs,paper
+paper_843,2309.10305,2023-09-19,Baichuan 2: Open Large-scale Language Models,paper
+paper_859,2309.10706,2023-09-19,OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch,paper
+paper_862,2309.11497,2023-09-20,FreeU: Free Lunch in Diffusion U-Net,paper
+paper_912,2309.16534,2023-09-28,MotionLM: Multi-Agent Motion Forecasting as Language Modeling,paper
+paper_916,2309.16235,2023-09-28,Language models in molecular discovery,paper
+paper_917,2403.08094,2024-03-12,Task and Motion Planning in Hierarchical 3D Scene Graphs,paper
+paper_923,2310.00996,2023-10-02,ARN: Analogical Reasoning on Narratives,paper
+paper_968,1810.04125,2018-10-09,Matrix-free construction of HSS representation using adaptive randomized sampling,paper
+paper_971,2108.07935,2021-08-18,Learning Implicit User Profiles for Personalized Retrieval-Based Chatbot,paper
+paper_981,2310.12773,2023-10-19,Safe RLHF: Safe Reinforcement Learning from Human Feedback,paper
+paper_996,2310.13127,2023-10-19,Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models,paper
+paper_999,2310.13065,2023-10-19,Creative Robot Tool Use with Large Language Models,paper
+paper_1034,2412.03568,2024-12-04,The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control,paper
+paper_1042,2310.17796,2023-10-26,ControlLLM: Augment Language Models with Tools by Searching on Graphs,paper
+paper_1051,2312.15011,2023-12-22,Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases,paper
+paper_1066,2310.207,2023-10-31,SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction,paper
+paper_1077,2311.00047,2023-10-31,Grounding Visual Illusions in Language: Do Vision-Language Models Perceive Illusions Like Humans?,paper
+paper_1087,2308.0284,2023-08-05,Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis,paper
+paper_1133,2311.05698,2023-11-09,Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities,paper
+paper_1143,2311.07575,2023-11-13,"SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models",paper
+paper_1146,2311.06697,2023-11-12,Trusted Source Alignment in Large Language Models,paper
+paper_1163,2311.08469,2023-11-14,UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations,paper
+paper_1231,2312.00849,2023-12-01,RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback,paper
+paper_1256,2312.01407,2023-12-03,VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams,paper
+paper_1268,2403.00467,2024-03-01,When ControlNet Meets Inexplicit Masks: A Case Study of ControlNet on its Contour-following Ability,paper
+paper_1275,2312.02772,2023-12-05,FG-MDM: Towards Zero-Shot Human Motion Generation via ChatGPT-Refined Descriptions,paper
+paper_1283,2312.03641,2023-12-06,MotionCtrl: A Unified and Flexible Motion Controller for Video Generation,paper
+paper_1305,2312.04567,2023-12-07,Scaling Laws of Synthetic Images for Model Training ... for Now,paper
+paper_1314,2110.07178,2021-10-14,Symbolic Knowledge Distillation: from General Language Models to Commonsense Models,paper
+paper_1336,2312.07,2023-12-12,Alignment for Honesty,paper
+paper_1341,2312.06742,2023-12-11,Honeybee: Locality-enhanced Projector for Multimodal LLM,paper
+paper_1373,2312.09767,2023-12-15,DreamTalk: When Emotional Talking Head Generation Meets Diffusion Probabilistic Models,paper
+paper_1376,2312.09608,2023-12-15,Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference,paper
+paper_1382,2212.05895,2022-12-12,Diff-Font: Diffusion Model for Robust One-Shot Font Generation,paper
+paper_1406,2312.11537,2023-12-15,FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline,paper
+paper_1412,2401.06129,2024-01-11,Distilling Vision-Language Models on Millions of Videos,paper
+paper_1434,2312.13401,2023-12-20,Time is Encoded in the Weights of Finetuned Language Models,paper
+paper_1460,2312.1543,2023-12-24,Make-A-Character: High Quality Text-to-3D Character Generation within Minutes,paper
+paper_1462,2409.13676,2024-09-19,A sound description: Exploring prompt templates and class descriptions to enhance zero-shot audio classification,paper
+paper_1469,2312.17172,2023-12-28,"Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action",paper
+paper_1470,2312.17243,2023-12-28,Unsupervised Universal Image Segmentation,paper
+paper_1476,2312.16812,2023-12-28,Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis,paper
+paper_1483,2312.1672,2023-12-27,Prompt Expansion for Adaptive Text-to-Image Generation,paper
+paper_1484,2312.17161,2023-12-28,Restoration by Generation with Constrained Priors,paper
+paper_1487,2312.17276,2023-12-27,PanGu-$π$: Enhancing Language Model Architectures via Nonlinearity Compensation,paper
+paper_1492,2401.01055,2024-01-02,LLaMA Beyond English: An Empirical Study on Language Capability Transfer,paper
+paper_1507,1902.03973,2019-02-11,Generating boundary conditions for a Boussinesq system,paper
+paper_1508,2401.01173,2024-01-02,En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data,paper
+paper_1517,2012.12612,2020-12-23,Incremental Text-to-Speech Synthesis Using Pseudo Lookahead with Large Pretrained Language Model,paper
+paper_1524,1904.0902,2019-04-18,Genie: A Generator of Natural Language Semantic Parsers for Virtual Assistant Commands,paper
+paper_1525,2401.02411,2024-01-04,What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs,paper
+paper_1568,2401.06102,2024-01-11,Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models,paper
+paper_1586,2004.14652,2020-04-30,Question Rewriting for Conversational Question Answering,paper
+paper_1592,2405.0821,2024-05-13,Infinite Texture: Text-guided High Resolution Diffusion Texture Synthesis,paper
+paper_1608,2401.10889,2024-01-19,Synthesizing Moving People with 3D Control,paper
+paper_1628,2401.11985,2024-01-22,Scaling Face Interaction Graph Networks to Real World Scenes,paper
+paper_1648,2306.06923,2023-06-12,On the Viability of using LLMs for SW/HW Co-Design: An Example in Designing CiM DNN Accelerators,paper
+paper_1664,2401.16158,2024-01-29,Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception,paper
+paper_1682,2401.17377,2024-01-30,Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens,paper
+paper_1684,2401.18058,2024-01-31,LongAlign: A Recipe for Long Context Alignment of Large Language Models,paper
+paper_1710,2202.09452,2022-02-18,From FreEM to D'AlemBERT: a Large Corpus and a Language Model for Early Modern French,paper
+paper_1740,2402.04858,2024-02-07,CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay,paper
+paper_1744,2402.04744,2024-02-07,Progressive Gradient Flow for Robust N:M Sparsity Training in Transformers,paper
+paper_1746,2402.0593,2024-02-08,WebLINX: Real-World Website Navigation with Multi-Turn Dialogue,paper
+paper_1761,2402.06149,2024-02-09,HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting,paper
+paper_1762,2402.06118,2024-02-09,ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling,paper
+paper_1773,2312.15536,2023-12-24,Harnessing Pre-trained Generalist Agents for Software Engineering Tasks,paper
+paper_1777,2402.07383,2024-02-12,Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like,paper
+paper_1785,2402.08093,2024-02-12,BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data,paper
+paper_1786,2402.08268,2024-02-13,World Model on Million-Length Video And Language With Blockwise RingAttention,paper
+paper_1804,2407.18722,2024-07-26,Neurosymbolic AI for Enhancing Instructability in Generative AI,paper
+paper_1839,2212.1056,2022-12-20,Self-Instruct: Aligning Language Models with Self-Generated Instructions,paper
+paper_1841,2409.03757,2024-09-05,Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding,paper
+paper_1854,2402.14797,2024-02-22,Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis,paper
+paper_1859,2305.09504,2023-05-16,Content-Adaptive Downsampling in Convolutional Neural Networks,paper
+paper_1866,2501.10064,2025-01-17,One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression,paper
+paper_1893,2402.15627,2024-02-23,"MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs",paper
+paper_1897,2402.1684,2024-02-26,MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT,paper
+paper_1900,2311.18288,2023-11-30,CosAvatar: Consistent and Animatable Portrait Video Tuning with Text Prompt,paper
+paper_1908,2402.17723,2024-02-27,Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners,paper
+paper_1951,2403.03853,2024-03-06,ShortGPT: Layers in Large Language Models are More Redundant Than You Expect,paper
+paper_1956,2403.03234,2024-03-05,Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling,paper
+paper_1959,2403.04652,2024-03-07,Yi: Open Foundation Models by 01.AI,paper
+paper_1962,2410.03097,2024-10-04,Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing,paper
+paper_1995,2412.20682,2024-12-30,Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks,paper
+paper_1996,2403.08268,2024-03-13,Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts,paper
+paper_2007,1705.05103,2017-05-15,Generative Adversarial Networks for Multimodal Representation Learning in Video Hyperlinking,paper
+paper_2009,2403.09338,2024-03-14,LocalMamba: Visual State Space Model with Windowed Selective Scan,paper
+paper_2011,2403.10301,2024-03-15,Uni-SMART: Universal Science Multimodal Analysis and Research Transformer,paper
+paper_2041,2009.09458,2020-09-20,Implicit Feature Networks for Texture Completion from Partial 3D Data,paper
+paper_2050,2003.0662,2020-03-14,Monocular Depth Estimation Based On Deep Learning: An Overview,paper
+paper_2066,2403.18795,2024-03-27,Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction,paper
+paper_2075,2403.14781,2024-03-21,Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance,paper
+paper_2082,2306.07856,2023-06-13,Bayesian Program Learning by Decompiling Amortized Knowledge,paper
+paper_2092,2403.17297,2024-03-26,InternLM2 Technical Report,paper
+paper_2117,2404.04925,2024-04-07,"Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers",paper
+paper_2147,2404.03411,2024-04-04,Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?,paper
+paper_2155,2410.13862,2024-10-17,DepthSplat: Connecting Gaussian Splatting and Depth,paper
+paper_2171,2404.05892,2024-04-08,Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence,paper
+paper_2195,2404.07503,2024-04-11,Best Practices and Lessons Learned on Synthetic Data,paper
+paper_2206,2404.08495,2024-04-12,Dataset Reset Policy Optimization for RLHF,paper
+paper_2215,2404.09956,2024-04-15,Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization,paper
+paper_2219,2409.0619,2024-09-10,Multi-Source Music Generation with Latent Diffusion,paper
+paper_2229,2404.12241,2024-04-18,Introducing v0.5 of the AI Safety Benchmark from MLCommons,paper
+paper_2234,2412.01553,2024-12-02,SfM-Free 3D Gaussian Splatting via Hierarchical Training,paper
+paper_2236,2404.14219,2024-04-22,Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone,paper
+paper_2238,2404.13208,2024-04-19,The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions,paper
+paper_2239,2412.10606,2024-12-13,Do Large Language Models Speak Scientific Workflows?,paper
+paper_2243,2102.12188,2021-02-24,Support the Underground: Characteristics of Beyond-Mainstream Music Listeners,paper
+paper_2244,2404.14239,2024-04-22,MultiBooth: Towards Generating All Your Concepts in an Image from Text,paper
+paper_2249,2404.14507,2024-04-22,Align Your Steps: Optimizing Sampling Schedules in Diffusion Models,paper
+paper_2253,2404.1603,2024-04-24,MoDE: CLIP Data Experts via Clustering,paper
+paper_2275,2404.18416,2024-04-29,Capabilities of Gemini Models in Medicine,paper
+paper_2323,2405.09062,2024-05-15,Naturalistic Music Decoding from EEG Data via Latent Diffusion Models,paper
+paper_2325,2405.09673,2024-05-15,LoRA Learns Less and Forgets Less,paper
+paper_2327,2208.01587,2022-08-02,Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization,paper
+paper_2346,2405.14333,2024-05-23,DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data,paper
+paper_2360,2405.14847,2024-05-23,Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling,paper
+paper_2368,2405.14979,2024-05-23,CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner,paper
+paper_2373,2405.15125,2024-05-24,HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting,paper
+paper_2381,2405.16852,2024-05-27,EM Distillation for One-step Diffusion Models,paper
+paper_2391,2405.17991,2024-05-28,VeLoRA: Memory Efficient Training using Rank-1 Sub-Token Projections,paper
+paper_2393,2405.1875,2024-05-29,T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback,paper
+paper_2420,2501.1267,2025-01-22,Learning Versatile Optimizers on a Compute Diet,paper
+paper_2457,2406.06469,2024-06-10,"Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning",paper
+paper_2498,2406.07933,2024-06-12,Large Language Model Unlearning via Embedding-Corrupted Prompts,paper
+paper_2500,2406.05074,2024-06-07,Hibou: A Family of Foundational Vision Transformers for Pathology,paper
+paper_2515,2406.09162,2024-06-13,EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts,paper
+paper_2528,2406.09371,2024-06-13,LRM-Zero: Training Large Reconstruction Models with Synthesized Data,paper
+paper_2655,2502.04774,2025-02-07,SeDi-Instruct: Enhancing Alignment of Language Models through Self-Directed Instruction Generation,paper
+paper_2684,2406.16377,2024-06-24,"On the Transformations across Reward Model, Parameter Update, and In-Context Prompt",paper
+paper_2695,2406.18522,2024-06-26,ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation,paper
+paper_2704,2406.17565,2024-06-25,MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool,paper
+paper_2733,2309.17179,2023-09-29,Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training,paper
+paper_2763,2407.02398,2024-07-02,Consistency Flow Matching: Defining Straight Flows with Velocity Consistency,paper
+paper_2789,2407.03923,2024-07-04,CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion-Blurred Images,paper
+paper_2823,2407.07304,2024-07-10,Inference Performance Optimization for Large Language Models on CPUs,paper
+paper_2840,2410.14594,2024-10-18,Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases,paper
+paper_2871,2411.03936,2024-11-06,GUIDE-VAE: Advancing Data Generation with User Information and Pattern Dictionaries,paper
+paper_2878,2407.10953,2024-07-15,MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models,paper
+paper_2885,2407.11522,2024-07-16,FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models,paper
+paper_2886,2407.11966,2024-07-16,Efficient Training with Denoised Neural Weights,paper
+paper_2897,2406.11288,2024-06-17,MFC-Bench: Benchmarking Multimodal Fact-Checking with Large Vision-Language Models,paper
+paper_2899,1907.05438,2019-07-11,Subleading soft dressings of asymptotic states in QED and perturbative quantum gravity,paper
+paper_2901,2409.12437,2024-09-19,Enhancing Logical Reasoning in Large Language Models through Graph-based Synthetic Data,paper
+paper_2919,2101.05428,2021-01-14,Federated Learning: Opportunities and Challenges,paper
+paper_2927,2407.14358,2024-07-19,Stable Audio Open,paper
+paper_2942,2010.12639,2020-10-23,The RobotSlang Benchmark: Dialog-guided Robot Localization and Navigation,paper
+paper_2946,2304.11842,2023-04-24,Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design,paper
+paper_2949,2407.14933,2024-07-20,Consent in Crisis: The Rapid Decline of the AI Data Commons,paper
+paper_2954,2407.15233,2024-07-21,LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer,paper
+paper_2967,2407.16412,2024-07-23,SARO: Space-Aware Robot System for Terrain Crossing via Vision-Language Model,paper
+paper_2971,2407.17387,2024-07-24,PERSONA: A Reproducible Testbed for Pluralistic Alignment,paper
+paper_2975,2402.11592,2024-02-18,Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark,paper
+paper_2979,2407.16988,2024-07-24,DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction,paper
+paper_2981,2412.14222,2024-12-18,A Survey on Large Language Model-based Agents for Statistics and Data Science,paper
+paper_2992,2407.18901,2024-07-26,AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents,paper
+paper_3008,2211.12054,2022-11-22,Visually Grounded Commonsense Knowledge Acquisition,paper
+paper_3009,2407.17398,2024-07-24,3D Question Answering for City Scene Understanding,paper
+paper_3029,2407.21772,2024-07-31,ShieldGemma: Generative AI Content Moderation Based on Gemma,paper
+paper_3034,1909.00931,2019-09-03,Transfer Fine-Tuning: A BERT Case Study,paper
+paper_3060,2408.00113,2024-07-31,Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models,paper
+paper_3067,2408.02085,2024-08-04,Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models,paper
+paper_3073,1810.02358,2018-10-03,Transfer Learning via Unsupervised Task Discovery for Visual Question Answering,paper
+paper_3076,2408.03209,2024-08-06,IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts,paper
+paper_3079,2408.03256,2024-08-06,Synthesizing Text-to-SQL Data from Weak and Strong LLMs,paper
+paper_3090,2408.03356,2024-08-06,RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis,paper
+paper_3106,2408.0481,2024-08-09,UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling,paper
+paper_3149,2408.08291,2024-08-15,The ShareLM Collection and Plugin: Contributing Human-Model Chats for the Benefit of the Community,paper
+paper_3194,2408.11857,2024-08-15,Hermes 3 Technical Report,paper
+paper_3220,2408.12369,2024-08-22,RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering,paper
+paper_3228,2408.13423,2024-08-24,Decoupled Video Generation with Chain of Training-free Diffusion Model Experts,paper
+paper_3234,2410.05355,2024-10-07,Falcon Mamba: The First Competitive Attention-free 7B Language Model,paper
+paper_3250,2408.15664,2024-08-28,Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts,paper
+paper_3259,2301.08868,2023-01-21,Computationally Efficient 3D MRI Reconstruction with Adaptive MLP,paper
+paper_3286,1806.06535,2018-06-18,Modeling Musical Taste Evolution with Recurrent Neural Networks,paper
+paper_3289,2409.00558,2024-08-31,Compositional 3D-aware Video Generation with LLM Director,paper
+paper_3309,2002.097,2020-02-22,Online Statistics Teaching and Learning,paper
+paper_3326,2409.05591,2024-09-09,MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery,paper
+paper_3328,2203.09905,2022-03-18,Learning Affordance Grounding from Exocentric Images,paper
+paper_3342,2409.0682,2024-09-10,PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation,paper
+paper_3346,2311.09277,2023-11-15,Contrastive Chain-of-Thought Prompting,paper
+paper_3348,2409.07441,2024-09-11,Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering,paper
+paper_3350,2409.07129,2024-09-11,MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis,paper
+paper_3367,2409.08514,2024-09-13,Apollo: Band-sequence Modeling for High-Quality Audio Restoration,paper
+paper_3389,2409.10923,2024-09-17,Agile Continuous Jumping in Discontinuous Terrains,paper
+paper_3397,2406.04801,2024-06-07,MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks,paper
+paper_3448,2406.18368,2024-06-26,Future singularity in an anisotropic universe,paper
+paper_3453,2409.16211,2024-09-24,MaskBit: Embedding-free Image Generation via Bit Tokens,paper
+paper_3457,2310.0842,2023-10-12,Visual Attention Prompted Prediction and Learning,paper
+paper_3480,2409.14683,2024-09-23,Reducing the Footprint of Multi-Vector Retrieval with Minimal Performance Impact via Token Pooling,paper
+paper_3481,2409.1728,2024-09-25,Disco4D: Disentangled 4D Human Generation and Animation from a Single Image,paper
+paper_3484,1802.01528,2018-02-05,The Matrix Calculus You Need For Deep Learning,paper
+paper_3511,2410.00231,2024-09-30,Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models,paper
+paper_3516,2410.01215,2024-10-02,From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging,paper
+paper_3517,2410.01748,2024-10-02,Not All LLM Reasoners Are Created Equal,paper
+paper_3519,1908.06327,2019-08-17,Language Features Matter: Effective Language Representations for Vision-Language Tasks,paper
+paper_3532,2409.20325,2024-09-30,"Old Optimizer, New Norm: An Anthology",paper
+paper_3581,709.0929,2007-09-06,Analysis of network by generalized mutual entropies,paper
+paper_3595,2007.04428,2020-07-08,"Discourse Coherence, Reference Grounding and Goal Oriented Dialogue",paper
+paper_3610,2406.10326,2024-06-14,VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs,paper
+paper_3613,2410.05954,2024-10-08,Pyramidal Flow Matching for Efficient Video Generative Modeling,paper
+paper_3616,2410.07177,2024-10-09,MM-Ego: Towards Building Egocentric Multimodal LLMs,paper
+paper_3618,2407.16008,2024-07-22,Boosting Reward Model with Preference-Conditional Multi-Aspect Synthetic Data Generation,paper
+paper_3655,2410.05265,2024-10-07,PrefixQuant: Eliminating Outliers by Prefixed Tokens for Large Language Models Quantization,paper
+paper_3664,2410.06508,2024-10-09,Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning,paper
+paper_3692,2210.06726,2022-10-13,Explanations from Large Language Models Make Small Reasoners Better,paper
+paper_3713,2410.10626,2024-10-14,Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts,paper
+paper_3742,2410.12391,2024-10-16,Tracking Universal Features Through Fine-Tuning and Model Merging,paper
+paper_3746,2409.11527,2024-09-17,Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent,paper
+paper_3754,2410.13824,2024-10-17,Harnessing Webpage UIs for Text-Rich Visual Understanding,paper
+paper_3757,2410.13785,2024-10-17,PopAlign: Diversifying Contrasting Patterns for a More Comprehensive Alignment,paper
+paper_3765,2410.1336,2024-10-17,Retrieval-Augmented Personalization for Multimodal Large Language Models,paper
+paper_3773,2502.00847,2025-02-02,SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models,paper
+paper_3776,2410.14059,2024-10-17,UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models,paper
+paper_3792,2410.16268,2024-10-21,SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree,paper
+paper_3794,2411.11197,2024-11-17,Stealing Training Graphs from Graph Neural Networks,paper
+paper_3795,2410.13861,2024-10-17,PUMA: Empowering Unified MLLM with Multi-granular Visual Generation,paper
+paper_3822,2405.17956,2024-05-28,Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives,paper
+paper_3823,2410.17434,2024-10-22,LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding,paper
+paper_3843,2012.14325,2020-12-22,Digital me ontology and ethics,paper
+paper_3891,2410.18057,2024-10-23,CLEAR: Character Unlearning in Textual and Visual Modalities,paper
+paper_3914,2410.23743,2024-10-31,What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective,paper
+paper_3920,2501.11782,2025-01-20,Human-AI Collaborative Game Testing with Vision Language Models,paper
+paper_3924,2410.24211,2024-10-31,DELTA: Dense Efficient Long-range 3D Tracking for any video,paper
+paper_3930,2312.12701,2023-12-20,On the laminar solutions and stability of accelerating and decelerating channel flows,paper
+paper_3936,2410.2237,2024-10-28,Survey of User Interface Design and Interaction Techniques in Generative AI Applications,paper
+paper_3950,2411.02265,2024-11-04,Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent,paper
+paper_4002,2411.06272,2024-11-09,Golden Touchstone: A Comprehensive Bilingual Benchmark for Evaluating Financial Large Language Models,paper
+paper_4004,2309.15508,2023-09-27,DreamCom: Finetuning Text-guided Inpainting Model for Image Composition,paper
+paper_4013,2411.06424,2024-11-10,Beyond Toxic Neurons: A Mechanistic Analysis of DPO for Toxicity Reduction,paper
+paper_4021,2411.08034,2024-11-12,Scaling Properties of Diffusion Models for Perceptual Tasks,paper
+paper_4025,2408.03567,2024-08-07,Unlocking Exocentric Video-Language Data for Egocentric Video Representation Learning,paper
+paper_4040,2411.10323,2024-11-15,The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use,paper
+paper_4056,2411.09213,2024-11-14,Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering,paper
+paper_4061,2411.12044,2024-11-18,"ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements",paper
+paper_4093,2411.12946,2024-11-20,A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection,paper
+paper_4099,2411.15115,2024-11-22,VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement,paper
+paper_4113,2308.07464,2023-08-14,There Is a Digital Art History,paper
+paper_4133,2411.17691,2024-11-26,Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens,paper
+paper_4145,2104.12365,2021-04-26,Efficient Hyperparameter Optimization for Physics-based Character Animation,paper
+paper_4169,2411.18552,2024-11-27,FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion,paper
+paper_4190,2411.18933,2024-11-28,Efficient Track Anything,paper
+paper_4193,2210.01177,2022-10-03,Introducing Vision Transformer for Alzheimer's Disease classification task with 3D input,paper
